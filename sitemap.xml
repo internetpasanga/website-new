@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- Home -->
+  <url>
+    <loc>https://tamilpasanga.in/</loc>
+    <xhtml:link rel="alternate" hreflang="ta"        href="https://tamilpasanga.in/"/>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://tamilpasanga.in/?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tamilpasanga.in/"/>
+    <lastmod>2026-06-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- About -->
+  <url>
+    <loc>https://tamilpasanga.in/about.php</loc>
+    <xhtml:link rel="alternate" hreflang="ta"        href="https://tamilpasanga.in/about.php"/>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://tamilpasanga.in/about.php?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tamilpasanga.in/about.php"/>
+    <lastmod>2026-06-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Platform -->
+  <url>
+    <loc>https://tamilpasanga.in/platform.php</loc>
+    <xhtml:link rel="alternate" hreflang="ta"        href="https://tamilpasanga.in/platform.php"/>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://tamilpasanga.in/platform.php?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tamilpasanga.in/platform.php"/>
+    <lastmod>2026-06-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Community Guidelines -->
+  <url>
+    <loc>https://tamilpasanga.in/guidelines.php</loc>
+    <xhtml:link rel="alternate" hreflang="ta"        href="https://tamilpasanga.in/guidelines.php"/>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://tamilpasanga.in/guidelines.php?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tamilpasanga.in/guidelines.php"/>
+    <lastmod>2026-06-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Safety & Security -->
+  <url>
+    <loc>https://tamilpasanga.in/safety.php</loc>
+    <xhtml:link rel="alternate" hreflang="ta"        href="https://tamilpasanga.in/safety.php"/>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://tamilpasanga.in/safety.php?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tamilpasanga.in/safety.php"/>
+    <lastmod>2026-06-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Advertising Rules -->
+  <url>
+    <loc>https://tamilpasanga.in/advertising.php</loc>
+    <xhtml:link rel="alternate" hreflang="ta"        href="https://tamilpasanga.in/advertising.php"/>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://tamilpasanga.in/advertising.php?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tamilpasanga.in/advertising.php"/>
+    <lastmod>2026-06-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Terms & Conditions -->
+  <url>
+    <loc>https://tamilpasanga.in/terms.php</loc>
+    <xhtml:link rel="alternate" hreflang="ta"        href="https://tamilpasanga.in/terms.php"/>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://tamilpasanga.in/terms.php?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tamilpasanga.in/terms.php"/>
+    <lastmod>2026-06-12</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Privacy Policy -->
+  <url>
+    <loc>https://tamilpasanga.in/privacy.php</loc>
+    <xhtml:link rel="alternate" hreflang="ta"        href="https://tamilpasanga.in/privacy.php"/>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://tamilpasanga.in/privacy.php?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tamilpasanga.in/privacy.php"/>
+    <lastmod>2026-06-12</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Contact -->
+  <url>
+    <loc>https://tamilpasanga.in/contact.php</loc>
+    <xhtml:link rel="alternate" hreflang="ta"        href="https://tamilpasanga.in/contact.php"/>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://tamilpasanga.in/contact.php?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tamilpasanga.in/contact.php"/>
+    <lastmod>2026-06-12</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+</urlset>
