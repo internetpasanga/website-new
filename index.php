@@ -152,31 +152,44 @@ include 'includes/nav.php';
           </div> -->
         </div>
         <div class="phone-wrap" aria-hidden="true">
-          <div class="float-chip float-chip-1" style="background:#fff;"><i class="bi bi-cup-hot"></i> Healthy Food and Snacks!</div>
+          <div class="float-chip float-chip-1" style="background:#fff;"><i class="bi bi-pin-map-fill"></i> 120+ shops nearby</div>
           <div class="phone">
             <div class="phone-status"><span class="phone-time">9:41</span>
               <div class="phone-icons"><span></span><span></span><span></span></div>
             </div>
             <div class="phone-pill"></div>
-            <div class="p-card">
-              <div class="p-card-row">
-                <div class="p-avatar" style="background:rgba(16,185,129,.4);"></div>
-                <div style="flex:1">
-                  <div class="p-line" style="width:60%"></div>
-                  <div class="p-line" style="width:35%"></div>
+            <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:10px;">
+              <span style="font-size:13px;font-weight:700;color:#fff;">Nearby Shops</span>
+              <span style="font-size:11px;color:rgba(255,255,255,.5);"><i class="bi bi-geo-alt-fill"></i> 2.5 km</span>
+            </div>
+            <div class="p-card" style="display:flex;align-items:center;gap:10px;">
+              <div class="p-avatar" style="background:rgba(16,185,129,.4);display:flex;align-items:center;justify-content:center;font-size:14px;color:#fff;"><i class="bi bi-flower2"></i></div>
+              <div style="flex:1;min-width:0;">
+                <div class="p-line" style="width:70%"></div>
+                <div style="display:flex;align-items:center;gap:6px;margin-top:4px;">
+                  <span style="font-size:10px;background:rgba(16,185,129,.2);color:#34d399;padding:2px 7px;border-radius:99px;font-weight:600;">Organic</span>
+                  <span style="font-size:10px;color:#fbbf24;font-weight:700;"><i class="bi bi-star-fill"></i> 4.8</span>
                 </div>
               </div>
-              <div style="display:flex;gap:6px;flex-wrap:wrap;margin:10px 0;">
-                <span style="font-size:10px;background:rgba(16,185,129,.2);color:#34d399;padding:3px 8px;border-radius:99px;font-weight:600;"><i class="bi bi-leaf"></i> Health</span>
-                <span style="font-size:10px;background:rgba(245,158,11,.2);color:#fbbf24;padding:3px 8px;border-radius:99px;font-weight:600;"><i class="bi bi-flower2"></i> Farming</span>
-                <span style="font-size:10px;background:rgba(99,102,241,.2);color:#a78bfa;padding:3px 8px;border-radius:99px;font-weight:600;"><i class="bi bi-book-fill"></i> Nearby</span>
+            </div>
+            <div class="p-card" style="display:flex;align-items:center;gap:10px;">
+              <div class="p-avatar" style="background:rgba(245,158,11,.4);display:flex;align-items:center;justify-content:center;font-size:14px;color:#fff;"><i class="bi bi-shop"></i></div>
+              <div style="flex:1;min-width:0;">
+                <div class="p-line" style="width:60%"></div>
+                <div style="display:flex;align-items:center;gap:6px;margin-top:4px;">
+                  <span style="font-size:10px;background:rgba(245,158,11,.2);color:#fbbf24;padding:2px 7px;border-radius:99px;font-weight:600;">Farm Store</span>
+                  <span style="font-size:10px;color:#fbbf24;font-weight:700;"><i class="bi bi-star-fill"></i> 4.6</span>
+                </div>
               </div>
-              <div class="p-line" style="width:90%"></div>
-              <div class="p-line" style="width:70%"></div>
-              <div class="p-actions" style="margin-top:10px;">
-                <div class="p-btn"></div>
-                <div class="p-btn"></div>
-                <div class="p-btn"></div>
+            </div>
+            <div class="p-card" style="display:flex;align-items:center;gap:10px;margin-bottom:14px;">
+              <div class="p-avatar" style="background:rgba(99,102,241,.4);display:flex;align-items:center;justify-content:center;font-size:14px;color:#fff;"><i class="bi bi-cup-hot-fill"></i></div>
+              <div style="flex:1;min-width:0;">
+                <div class="p-line" style="width:65%"></div>
+                <div style="display:flex;align-items:center;gap:6px;margin-top:4px;">
+                  <span style="font-size:10px;background:rgba(99,102,241,.2);color:#a78bfa;padding:2px 7px;border-radius:99px;font-weight:600;">Healthy Cafe</span>
+                  <span style="font-size:10px;color:#fbbf24;font-weight:700;"><i class="bi bi-star-fill"></i> 4.9</span>
+                </div>
               </div>
             </div>
             <div class="p-earn-badge">
