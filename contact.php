@@ -126,6 +126,14 @@ include 'includes/nav.php';
               <label for="message"><span class="lang-en">Message *</span><span class="lang-ta">செய்தி *</span></label>
               <textarea id="message" name="message" placeholder="Tell us more about your enquiry…" required></textarea>
             </div>
+            <div class="form-group">
+              <label for="captcha"><span class="lang-en">Enter the code shown *</span><span class="lang-ta">காட்டப்பட்டுள்ள குறியீட்டை உள்ளிடவும் *</span></label>
+              <div class="captcha-row">
+                <img id="captchaImg" src="captcha.php" alt="Captcha code" width="150" height="50">
+                <button type="button" id="captchaRefresh" class="captcha-refresh" title="Refresh code" aria-label="Refresh code"><i class="bi bi-arrow-clockwise"></i></button>
+                <input type="text" id="captcha" name="captcha" placeholder="Enter code" required autocomplete="off">
+              </div>
+            </div>
             <button type="submit" class="btn btn-primary" style="width:100%;justify-content:center;font-size:16px;padding:16px;">
               <span class="lang-en">Send Message →</span><span class="lang-ta">செய்தியை அனுப்பவும் →</span>
             </button>

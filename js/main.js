@@ -11,8 +11,8 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
   /* ── Mobile hamburger ─────────────────────────────────── */
-  const hamburger   = document.getElementById('hamburger');
-  const mobileMenu  = document.getElementById('mobileMenu');
+  const hamburger = document.getElementById('hamburger');
+  const mobileMenu = document.getElementById('mobileMenu');
   if (hamburger && mobileMenu) {
     hamburger.addEventListener('click', () => {
       hamburger.classList.toggle('open');
@@ -48,36 +48,61 @@ document.addEventListener('DOMContentLoaded', () => {
 
   document.querySelectorAll('[data-aos]').forEach(el => observer.observe(el));
 
-  /* ── Contact form (static — shows success msg) ────────── */
+  /* ── Contact form — sends to admin via send-contact.php ── */
   const contactForm = document.getElementById('contactForm');
+  const captchaImg = document.getElementById('captchaImg');
+  const refreshCaptcha = () => {
+    if (captchaImg) captchaImg.src = 'captcha.php?_=' + Date.now();
+  };
+  const captchaRefreshBtn = document.getElementById('captchaRefresh');
+  if (captchaRefreshBtn) captchaRefreshBtn.addEventListener('click', refreshCaptcha);
+
   if (contactForm) {
-    contactForm.addEventListener('submit', function (e) {
+    contactForm.addEventListener('submit', async function (e) {
       e.preventDefault();
       const btn = contactForm.querySelector('button[type="submit"]');
       const msg = document.getElementById('formMsg');
+
       btn.textContent = 'Sending…';
       btn.disabled = true;
+      msg.style.display = 'none';
 
-      // Simulate submission — replace with actual fetch() to backend
-      setTimeout(() => {
-        msg.className = 'form-msg success';
-        msg.textContent = '✓ Your message has been sent! We\'ll get back to you soon.';
-        msg.style.display = 'block';
-        contactForm.reset();
-        btn.textContent = 'Send Message';
-        btn.disabled = false;
-        msg.scrollIntoView({ behavior: 'smooth', block: 'center' });
-      }, 1200);
+      try {
+        const res = await fetch('send-contact.php', {
+          method: 'POST',
+          credentials: 'same-origin',
+          body: new FormData(contactForm),
+        });
+        const data = await res.json();
+
+        if (data.success) {
+          msg.className = 'form-msg success';
+          msg.textContent = '✓ ' + data.message;
+          contactForm.reset();
+        } else {
+          msg.className = 'form-msg error';
+          msg.textContent = '✗ ' + data.message;
+        }
+      } catch (_) {
+        msg.className = 'form-msg error';
+        msg.textContent = '✗ Something went wrong. Please email us at support@tamilpasanga.in';
+      }
+
+      refreshCaptcha();
+      msg.style.display = 'block';
+      btn.textContent = 'Send Message';
+      btn.disabled = false;
+      msg.scrollIntoView({ behavior: 'smooth', block: 'center' });
     });
   }
 
   /* ── Hero banner auto-slide ───────────────────────────── */
-  const slides     = document.querySelectorAll('.banner-slide');
+  const slides = document.querySelectorAll('.banner-slide');
   const indicators = document.querySelectorAll('.banner-dot');
   if (slides.length > 1) {
-    let current  = 0;
+    let current = 0;
     let autoPlay = null;
-    const total  = slides.length;
+    const total = slides.length;
 
     const goTo = idx => {
       // Remove active from current
@@ -107,13 +132,13 @@ document.addEventListener('DOMContentLoaded', () => {
       dot.addEventListener('click', () => { goTo(i); startAuto(); });
     });
 
-    document.querySelector('.banner-prev')?.addEventListener('click', () => { goTo(current - 1); });
-    document.querySelector('.banner-next')?.addEventListener('click', () => { goTo(current + 1); });
+    document.querySelector('.banner-prev')?.addEventListener('click', () => { goTo(current - 1); startAuto(); });
+    document.querySelector('.banner-next')?.addEventListener('click', () => { goTo(current + 1); startAuto(); });
 
     // Pause on hover
     const wrap = document.querySelector('.hero-banner-wrap');
     wrap?.addEventListener('mouseenter', stopAuto);
-    // wrap?.addEventListener('mouseleave', startAuto);
+    wrap?.addEventListener('mouseleave', startAuto);
   }
 
   /* ── Smooth scroll for anchor links ──────────────────── */
@@ -131,53 +156,15 @@ document.addEventListener('DOMContentLoaded', () => {
 
   /* ── Language toggle ─────────────────────────────────── */
   (function () {
-    const urlParams = new URLSearchParams(window.location.search);
-    const urlLang   = urlParams.get('lang');
-
-    // URL param takes priority; then localStorage; default is Tamil
-    let currentLang;
-    if (urlLang === 'en' || urlLang === 'ta') {
-      currentLang = urlLang;
-      localStorage.setItem('tp_lang', currentLang);
-    } else {
-      currentLang = localStorage.getItem('tp_lang') || 'ta';
-    }
-
-    document.documentElement.lang = currentLang;
+    const saved = localStorage.getItem('tp_lang') || 'en';
+    document.documentElement.lang = saved;
 
     function updateBtns(lang) {
       document.querySelectorAll('.lang-toggle-label').forEach(el => {
         el.textContent = lang === 'en' ? 'தமிழ்' : 'EN';
       });
     }
-
-    function updateLinks(lang) {
-      document.querySelectorAll('a[href]').forEach(a => {
-        let href = a.getAttribute('href');
-        if (!href || href.startsWith('http') || href.startsWith('//') || href.startsWith('mailto:')) return;
-
-        // Strip any existing lang param
-        href = href
-          .replace(/([?&])lang=[^&#]*/g, (_, sep) => sep === '?' ? '?' : '')
-          .replace(/\?&/, '?')
-          .replace(/[?&]$/, '');
-
-        if (lang === 'en') {
-          const hashIdx = href.indexOf('#');
-          if (hashIdx === -1) {
-            href += (href.includes('?') ? '&' : '?') + 'lang=en';
-          } else {
-            const base = href.slice(0, hashIdx);
-            href = base + (base.includes('?') ? '&' : '?') + 'lang=en' + href.slice(hashIdx);
-          }
-        }
-
-        a.setAttribute('href', href);
-      });
-    }
-
-    updateBtns(currentLang);
-    updateLinks(currentLang);
+    updateBtns(saved);
 
     document.addEventListener('click', function (e) {
       if (!e.target.closest('.lang-toggle')) return;
@@ -185,16 +172,6 @@ document.addEventListener('DOMContentLoaded', () => {
       document.documentElement.lang = next;
       localStorage.setItem('tp_lang', next);
       updateBtns(next);
-      updateLinks(next);
-
-      // Sync URL bar so sharing or refreshing preserves the choice
-      const newUrl = new URL(window.location.href);
-      if (next === 'en') {
-        newUrl.searchParams.set('lang', 'en');
-      } else {
-        newUrl.searchParams.delete('lang');
-      }
-      history.replaceState(null, '', newUrl.toString());
     });
   })();
 
