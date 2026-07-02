@@ -5,7 +5,11 @@ header('X-Content-Type-Options: nosniff');
 
 if ($_SERVER['REQUEST_METHOD'] !== 'POST') {
     http_response_code(405);
-    echo json_encode(['success' => false, 'message' => 'Method not allowed.']);
+    echo json_encode([
+        'success'    => false,
+        'message'    => 'Method not allowed.',
+        'message_ta' => 'இந்த முறை அனுமதிக்கப்படவில்லை.',
+    ]);
     exit;
 }
 
@@ -16,7 +20,11 @@ unset($_SESSION['captcha_code']);
 
 if (!$expected_captcha || strcasecmp($submitted_captcha, $expected_captcha) !== 0) {
     http_response_code(422);
-    echo json_encode(['success' => false, 'message' => 'Incorrect captcha code. Please try again.']);
+    echo json_encode([
+        'success'    => false,
+        'message'    => 'Incorrect captcha code. Please try again.',
+        'message_ta' => 'தவறான captcha குறியீடு. மீண்டும் முயற்சிக்கவும்.',
+    ]);
     exit;
 }
 
@@ -87,16 +95,36 @@ $subject      = clean($_POST['subject']      ?? '');
 $message      = clean($_POST['message']      ?? '');
 
 /* ── Validate required fields ────────────────────────────── */
-$errors = [];
-if ($name === '')         $errors[] = 'Name is required.';
-if (!$email)              $errors[] = 'A valid email address is required.';
-if ($inquiry_type === '') $errors[] = 'Enquiry type is required.';
-if ($subject === '')      $errors[] = 'Subject is required.';
-if ($message === '')      $errors[] = 'Message is required.';
+$errors_en = [];
+$errors_ta = [];
+if ($name === '') {
+    $errors_en[] = 'Name is required.';
+    $errors_ta[] = 'பெயர் தேவை.';
+}
+if (!$email) {
+    $errors_en[] = 'A valid email address is required.';
+    $errors_ta[] = 'சரியான மின்னஞ்சல் முகவரி தேவை.';
+}
+if ($inquiry_type === '') {
+    $errors_en[] = 'Enquiry type is required.';
+    $errors_ta[] = 'விசாரணை வகை தேவை.';
+}
+if ($subject === '') {
+    $errors_en[] = 'Subject is required.';
+    $errors_ta[] = 'பொருள் தேவை.';
+}
+if ($message === '') {
+    $errors_en[] = 'Message is required.';
+    $errors_ta[] = 'செய்தி தேவை.';
+}
 
-if ($errors) {
+if ($errors_en) {
     http_response_code(422);
-    echo json_encode(['success' => false, 'message' => implode(' ', $errors)]);
+    echo json_encode([
+        'success'    => false,
+        'message'    => implode(' ', $errors_en),
+        'message_ta' => implode(' ', $errors_ta),
+    ]);
     exit;
 }
 
@@ -166,9 +194,17 @@ try {
 
     $mail->send();
 
-    echo json_encode(['success' => true, 'message' => "Your message has been sent! We'll get back to you within 24–48 hours."]);
+    echo json_encode([
+        'success'    => true,
+        'message'    => "Your message has been sent! We'll get back to you within 24–48 hours.",
+        'message_ta' => 'உங்கள் செய்தி அனுப்பப்பட்டது! 24–48 மணி நேரத்திற்குள் நாங்கள் பதிலளிப்போம்.',
+    ]);
 
 } catch (Exception $e) {
     http_response_code(500);
-    echo json_encode(['success' => false, 'message' => 'Sorry, the email could not be sent right now. Please email us directly at ' . $admin_email]);
+    echo json_encode([
+        'success'    => false,
+        'message'    => 'Sorry, the email could not be sent right now. Please email us directly at ' . $admin_email,
+        'message_ta' => 'மன்னிக்கவும், இப்போது மின்னஞ்சலை அனுப்ப முடியவில்லை. நேரடியாக எங்களுக்கு மின்னஞ்சல் அனுப்பவும்: ' . $admin_email,
+    ]);
 }

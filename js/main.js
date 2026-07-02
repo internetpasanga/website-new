@@ -58,13 +58,23 @@ document.addEventListener('DOMContentLoaded', () => {
   if (captchaRefreshBtn) captchaRefreshBtn.addEventListener('click', refreshCaptcha);
 
   if (contactForm) {
+    const submitBtn = contactForm.querySelector('button[type="submit"]');
+    const submitBtnHTML = submitBtn.innerHTML;
+    const sendingHTML = '<span class="lang-en">Sending…</span><span class="lang-ta">அனுப்புகிறது…</span>';
+    const networkErrorText = {
+      en: 'Something went wrong. Please email us at support@tamilpasanga.in',
+      ta: 'ஏதோ தவறு நடந்தது. support@tamilpasanga.in என்ற முகவரிக்கு மின்னஞ்சல் அனுப்பவும்.',
+    };
+
+    const currentLang = () => (document.documentElement.lang === 'ta' ? 'ta' : 'en');
+    const pickMessage = (data) => (currentLang() === 'ta' && data.message_ta ? data.message_ta : data.message);
+
     contactForm.addEventListener('submit', async function (e) {
       e.preventDefault();
-      const btn = contactForm.querySelector('button[type="submit"]');
       const msg = document.getElementById('formMsg');
 
-      btn.textContent = 'Sending…';
-      btn.disabled = true;
+      submitBtn.innerHTML = sendingHTML;
+      submitBtn.disabled = true;
       msg.style.display = 'none';
 
       try {
@@ -77,21 +87,21 @@ document.addEventListener('DOMContentLoaded', () => {
 
         if (data.success) {
           msg.className = 'form-msg success';
-          msg.textContent = '✓ ' + data.message;
+          msg.textContent = '✓ ' + pickMessage(data);
           contactForm.reset();
         } else {
           msg.className = 'form-msg error';
-          msg.textContent = '✗ ' + data.message;
+          msg.textContent = '✗ ' + pickMessage(data);
         }
       } catch (_) {
         msg.className = 'form-msg error';
-        msg.textContent = '✗ Something went wrong. Please email us at support@tamilpasanga.in';
+        msg.textContent = '✗ ' + networkErrorText[currentLang()];
       }
 
       refreshCaptcha();
       msg.style.display = 'block';
-      btn.textContent = 'Send Message';
-      btn.disabled = false;
+      submitBtn.innerHTML = submitBtnHTML;
+      submitBtn.disabled = false;
       msg.scrollIntoView({ behavior: 'smooth', block: 'center' });
     });
   }
