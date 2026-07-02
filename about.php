@@ -14,7 +14,7 @@ include 'includes/nav.php';
 <header class="page-header" role="banner">
   <div class="container">
     <nav class="breadcrumb" aria-label="Breadcrumb"><a href="index.php"><span class="lang-en">Home</span><span class="lang-ta">முகப்பு</span></a><span>›</span><span class="current"><span class="lang-en">About Us</span><span class="lang-ta">எங்களைப் பற்றி</span></span></nav>
-    <h1><span class="lang-en">About Tamil Pasanga</span><span class="lang-ta">தமிழ் பசங்காவைப் பற்றி</span></h1>
+    <h1><span class="lang-en">About <span class="tp-name">Tamil Pasanga</span></span><span class="lang-ta"><span class="tp-name">தமிழ் பசங்க</span>ாவைப் பற்றி</span></h1>
     <p><span class="lang-en">We're building a Tamil community where awareness meets action. Here's our story, vision, and what makes us different.</span><span class="lang-ta">விழிப்புணர்வு செயலாக மாறும் ஒரு தமிழ் சமூகத்தை நாங்கள் உருவாக்குகிறோம். இங்கே எங்கள் கதை, நோக்கம் மற்றும் நாங்கள் வேறுபட்டதன் காரணம்.</span></p>
   </div>
 </header>
@@ -27,11 +27,11 @@ include 'includes/nav.php';
         <div class="badge" data-aos><span class="lang-en">Our Story</span><span class="lang-ta">எங்கள் பயணம்</span></div>
         <h2 class="section-title" id="story-h" data-aos data-aos-delay="100">
           <span class="lang-en">Why We Built<br><span class="highlight">Tamil Pasanga</span></span>
-          <span class="lang-ta">Tamil Pasanga ஏன் உருவாக்கப்பட்டது</span>
+          <span class="lang-ta"><span class="tp-name">தமிழ் பசங்க</span> ஏன் உருவாக்கப்பட்டது</span>
         </h2>
         <p style="font-size:16px;color:var(--gray-500);line-height:1.85;margin-bottom:16px;" data-aos data-aos-delay="200">
-          <span class="lang-en">Tamil Pasanga was born from a simple observation — the Tamil community needed a dedicated digital space that truly understood its values, language, and the kind of content that actually benefits people.</span>
-          <span class="lang-ta">Tamil Pasanga ஒரு எளிய கவனிப்பில் இருந்து உருவானது — தமிழர் சமூகத்திற்கு அதன் மதிப்புகள், மொழி மற்றும் மக்களுக்கு உண்மையில் பயனளிக்கும் உள்ளடக்கங்களை புரிந்துகொள்ளும் ஒரு தனித்துவமான டிஜிட்டல் இடம் தேவைப்பட்டது.</span>
+          <span class="lang-en"><span class="tp-name">Tamil Pasanga</span> was born from a simple observation — the Tamil community needed a dedicated digital space that truly understood its values, language, and the kind of content that actually benefits people.</span>
+          <span class="lang-ta"><span class="tp-name">தமிழ் பசங்க</span> ஒரு எளிய கவனிப்பில் இருந்து உருவானது — தமிழர் சமூகத்திற்கு அதன் மதிப்புகள், மொழி மற்றும் மக்களுக்கு உண்மையில் பயனளிக்கும் உள்ளடக்கங்களை புரிந்துகொள்ளும் ஒரு தனித்துவமான டிஜிட்டல் இடம் தேவைப்பட்டது.</span>
         </p>
         <p style="font-size:16px;color:var(--gray-500);line-height:1.85;margin-bottom:16px;" data-aos data-aos-delay="300">
           <span class="lang-en">We saw people sharing valuable health tips, cultural insights, and farming knowledge on generic platforms that didn't reward their contributions or filter out the noise. Entertainment overshadowed awareness. Algorithms pushed engagement over impact.</span>
@@ -70,7 +70,7 @@ include 'includes/nav.php';
       <article class="card" data-aos data-aos-delay="200">
         <div class="card-icon" style="background:#fffbeb;"><i class="bi bi-handshake"></i></div>
         <h3><span class="lang-en">Community First</span><span class="lang-ta">சமூகமே முதன்மை</span></h3>
-        <p><span class="lang-en">Tamil Pasanga belongs to its community. Every decision we make is guided by what benefits our users and the Tamil community as a whole.</span><span class="lang-ta">Tamil Pasanga அதன் சமூகத்திற்கே சொந்தமானது. எடுக்கும் ஒவ்வொரு முடிவும் பயனர்களுக்கும் தமிழர் சமூகத்திற்கும் எது நன்மை தரும் என்பதையே அடிப்படையாகக் கொண்டது.</span></p>
+        <p><span class="lang-en"><span class="tp-name">Tamil Pasanga</span> belongs to its community. Every decision we make is guided by what benefits our users and the Tamil community as a whole.</span><span class="lang-ta"><span class="tp-name">தமிழ் பசங்க</span> அதன் சமூகத்திற்கே சொந்தமானது. எடுக்கும் ஒவ்வொரு முடிவும் பயனர்களுக்கும் தமிழர் சமூகத்திற்கும் எது நன்மை தரும் என்பதையே அடிப்படையாகக் கொண்டது.</span></p>
       </article>
       <article class="card" data-aos data-aos-delay="300">
         <div class="card-icon" style="background:#ecfdf5;"><i class="bi bi-lock-fill"></i></div>
@@ -85,7 +85,7 @@ include 'includes/nav.php';
       <article class="card" data-aos data-aos-delay="200">
         <div class="card-icon" style="background:#fff1f2;"><i class="bi bi-heart-fill"></i></div>
         <h3><span class="lang-en">Cultural Pride</span><span class="lang-ta">தமிழர் பண்பாட்டு பெருமை</span></h3>
-        <p><span class="lang-en">We celebrate Tamil culture, language, food, and traditions. Tamil Pasanga honours who we are and where we come from.</span><span class="lang-ta">தமிழ் கலாச்சாரம், மொழி, உணவு மற்றும் பாரம்பரியங்களை நாங்கள் கொண்டாடுகிறோம். Tamil Pasanga நாம் யார் என்பதையும், எங்கிருந்து வந்தோம் என்பதையும் மதிக்கிறது.</span></p>
+        <p><span class="lang-en">We celebrate Tamil culture, language, food, and traditions. <span class="tp-name">Tamil Pasanga</span> honours who we are and where we come from.</span><span class="lang-ta">தமிழ் கலாச்சாரம், மொழி, உணவு மற்றும் பாரம்பரியங்களை நாங்கள் கொண்டாடுகிறோம். <span class="tp-name">தமிழ் பசங்க</span> நாம் யார் என்பதையும், எங்கிருந்து வந்தோம் என்பதையும் மதிக்கிறது.</span></p>
       </article>
       <article class="card" data-aos data-aos-delay="300">
         <div class="card-icon" style="background:#f0fdf4;"><i class="bi bi-graph-up-arrow"></i></div>
@@ -135,7 +135,7 @@ include 'includes/nav.php';
 <section class="section" id="why-us" aria-labelledby="why-h">
   <div class="container">
     <div class="text-center">
-      <div class="badge" data-aos><span class="lang-en">Why Tamil Pasanga</span><span class="lang-ta">ஏன் தமிழ் பசங்க</span></div>
+      <div class="badge" data-aos><span class="lang-en">Why <span class="tp-name">Tamil Pasanga</span></span><span class="lang-ta">ஏன் <span class="tp-name">தமிழ் பசங்க</span></span></div>
       <h2 class="section-title" id="why-h" data-aos data-aos-delay="100"><span class="lang-en">Not just another social app</span><span class="lang-ta">சாதாரண சமூக ஊடகம் அல்ல</span></h2>
       <p class="section-sub" data-aos data-aos-delay="200"><span class="lang-en">We've deliberately built features that existing platforms don't offer — designed specifically for what the Tamil community actually needs.</span><span class="lang-ta">நாங்கள் குறிப்பாக வடிவமைத்துள்ள அம்சங்கள், தற்போதைய தளங்களில் இல்லாத தேவைகளை பூர்த்தி செய்ய உருவாக்கப்பட்டவை — தமிழர் சமூகத்திற்கு உண்மையில் தேவைப்படும் விஷயங்களை மையமாகக் கொண்டு.</span></p>
     </div>
@@ -144,12 +144,12 @@ include 'includes/nav.php';
         <div style="background:var(--gray-50);border-radius:var(--radius-lg);padding:28px;border:1px solid var(--gray-200);">
           <div style="font-size:28px;margin-bottom:12px;"><i class="bi bi-megaphone"></i></div>
           <h3 style="font-size:16px;font-weight:700;margin-bottom:8px;color:var(--gray-900);"><span class="lang-en">Awareness-Only Content</span><span class="lang-ta">விழிப்புணர்வுக்கே முழுமையான முன்னுரிமை</span></h3>
-          <p style="font-size:14px;color:var(--gray-500);line-height:1.75;"><span class="lang-en">Unlike other platforms, Tamil Pasanga only allows awareness content — social issues, health, farming, education, and environment. No entertainment clutter.</span><span class="lang-ta">மற்ற தளங்களைப் போல அல்லாமல், Tamil Pasanga-வில் விழிப்புணர்வு உள்ளடக்கங்களுக்கு மட்டுமே அனுமதி வழங்கப்படுகிறது — சமூகப் பிரச்சினைகள், ஆரோக்கியம், விவசாயம், கல்வி மற்றும் சுற்றுச்சூழல் போன்ற தலைப்புகள் மட்டுமே. தேவையற்ற பொழுதுபோக்கு குழப்பம் இங்கு இல்லை.</span></p>
+          <p style="font-size:14px;color:var(--gray-500);line-height:1.75;"><span class="lang-en">Unlike other platforms, <span class="tp-name">Tamil Pasanga</span> only allows awareness content — social issues, health, farming, education, and environment. No entertainment clutter.</span><span class="lang-ta">மற்ற தளங்களைப் போல அல்லாமல், <span class="tp-name">தமிழ் பசங்க</span>வில் விழிப்புணர்வு உள்ளடக்கங்களுக்கு மட்டுமே அனுமதி வழங்கப்படுகிறது — சமூகப் பிரச்சினைகள், ஆரோக்கியம், விவசாயம், கல்வி மற்றும் சுற்றுச்சூழல் போன்ற தலைப்புகள் மட்டுமே. தேவையற்ற பொழுதுபோக்கு குழப்பம் இங்கு இல்லை.</span></p>
         </div>
         <div style="background:var(--gray-50);border-radius:var(--radius-lg);padding:28px;border:1px solid var(--gray-200);">
           <div style="font-size:28px;margin-bottom:12px;"><i class="bi bi-cash-stack"></i></div>
           <h3 style="font-size:16px;font-weight:700;margin-bottom:8px;color:var(--gray-900);"><span class="lang-en">You Earn From Your Attention</span><span class="lang-ta">உங்கள் கவனத்திற்கே உண்மையான வருமானம்</span></h3>
-          <p style="font-size:14px;color:var(--gray-500);line-height:1.75;"><span class="lang-en">Other apps profit entirely from your time. On Tamil Pasanga, watching ads earns you real money directly to your e-wallet. No algorithm tax.</span><span class="lang-ta">மற்ற செயலிகள் உங்கள் நேரத்திலேயே லாபம் ஈட்டுகின்றன. Tamil Pasanga-வில், விளம்பரங்களைப் பார்ப்பதன் மூலம் நீங்கள் நேரடியாக உங்கள் e-Wallet-க்கு வருமானம் பெறுகிறீர்கள். மறைமுக algorithm, tax எதுவும் இல்லை.</span></p>
+          <p style="font-size:14px;color:var(--gray-500);line-height:1.75;"><span class="lang-en">Other apps profit entirely from your time. On <span class="tp-name">Tamil Pasanga</span>, watching ads earns you real money directly to your e-wallet. No algorithm tax.</span><span class="lang-ta">மற்ற செயலிகள் உங்கள் நேரத்திலேயே லாபம் ஈட்டுகின்றன. <span class="tp-name">தமிழ் பசங்க</span>வில், விளம்பரங்களைப் பார்ப்பதன் மூலம் நீங்கள் நேரடியாக உங்கள் e-Wallet-க்கு வருமானம் பெறுகிறீர்கள். மறைமுக algorithm, tax எதுவும் இல்லை.</span></p>
         </div>
         <div style="background:var(--gray-50);border-radius:var(--radius-lg);padding:28px;border:1px solid var(--gray-200);">
           <div style="font-size:28px;margin-bottom:12px;"><i class="bi bi-slash-circle"></i></div>
@@ -181,7 +181,7 @@ include 'includes/nav.php';
   <div class="container">
     <div class="badge badge-white" data-aos><span class="lang-en">Join Us</span><span class="lang-ta">எங்களுடன் இணையுங்கள்</span></div>
     <h2 class="section-title section-title-white" data-aos data-aos-delay="100"><span class="lang-en">Be part of the movement</span><span class="lang-ta">இந்த இயக்கத்தின் ஒரு பகுதியாகுங்கள்</span></h2>
-    <p class="section-sub section-sub-white" data-aos data-aos-delay="200" style="margin-bottom:0;"><span class="lang-en">Download Tamil Pasanga and join the Tamil community who are sharing awareness, connecting locally, and earning real money.</span><span class="lang-ta">Tamil Pasanga-வை இன்றே பதிவிறக்கி, விழிப்புணர்வை பகிரும், உள்ளூராக இணையும், மற்றும் உண்மையான வருமானம் ஈட்டும் தமிழர் சமூகத்தில் சேருங்கள்.</span></p>
+    <p class="section-sub section-sub-white" data-aos data-aos-delay="200" style="margin-bottom:0;"><span class="lang-en">Download <span class="tp-name">Tamil Pasanga</span> and join the Tamil community who are sharing awareness, connecting locally, and earning real money.</span><span class="lang-ta"><span class="tp-name">தமிழ் பசங்க</span>வை இன்றே பதிவிறக்கி, விழிப்புணர்வை பகிரும், உள்ளூராக இணையும், மற்றும் உண்மையான வருமானம் ஈட்டும் தமிழர் சமூகத்தில் சேருங்கள்.</span></p>
     <div class="store-btns" data-aos data-aos-delay="300">
       <a href="https://play.google.com/store/apps/details?id=in.tamilpasanga.app" class="store-btn" target="_blank" rel="noopener"><span class="store-btn-icon"><i class="bi bi-google-play"></i></span><div><span class="store-btn-sub"><span class="lang-en">Get it on</span><span class="lang-ta">பெறுங்கள்</span></span><span class="store-btn-name">Google Play</span></div></a>
       <a href="https://apps.apple.com/app/id000000000" class="store-btn" target="_blank" rel="noopener"><span class="store-btn-icon"><i class="bi bi-apple"></i></span><div><span class="store-btn-sub"><span class="lang-en">Download on the</span><span class="lang-ta">பதிவிறக்கம்</span></span><span class="store-btn-name">App Store</span></div></a>

@@ -157,8 +157,8 @@ include 'includes/nav.php';
     <div style="max-width:760px;margin:0 auto;display:flex;flex-direction:column;gap:16px;">
       <details style="background:#fff;border:1px solid var(--gray-200);border-radius:var(--radius-lg);padding:20px 24px;cursor:pointer;" data-aos>
         <summary style="font-size:15px;font-weight:600;color:var(--gray-900);list-style:none;display:flex;justify-content:space-between;align-items:center;">
-          <span class="lang-en">How do I earn money on Tamil Pasanga?</span>
-          <span class="lang-ta">தமிழ் பசங்காவில் நான் எப்படி பணம் சம்பாதிக்கலாம்??</span>
+          <span class="lang-en">How do I earn money on <span class="tp-name">Tamil Pasanga</span>?</span>
+          <span class="lang-ta"><span class="tp-name">தமிழ் பசங்க</span>ாவில் நான் எப்படி பணம் சம்பாதிக்கலாம்??</span>
           <span style="font-size:20px;color:var(--primary);">+</span>
         </summary>
         <p style="font-size:14px;color:var(--gray-500);line-height:1.75;margin-top:12px;">
@@ -168,19 +168,19 @@ include 'includes/nav.php';
       </details>
       <details style="background:#fff;border:1px solid var(--gray-200);border-radius:var(--radius-lg);padding:20px 24px;cursor:pointer;" data-aos data-aos-delay="100">
         <summary style="font-size:15px;font-weight:600;color:var(--gray-900);list-style:none;display:flex;justify-content:space-between;align-items:center;">
-          <span class="lang-en">Is Tamil Pasanga free to download?</span>
-          <span class="lang-ta">தமிழ் பசங்கா செயலியை பதிவிறக்கம் செய்வது இலவசமா?</span>
+          <span class="lang-en">Is <span class="tp-name">Tamil Pasanga</span> free to download?</span>
+          <span class="lang-ta"><span class="tp-name">தமிழ் பசங்க</span>ா செயலியை பதிவிறக்கம் செய்வது இலவசமா?</span>
           <span style="font-size:20px;color:var(--primary);">+</span>
         </summary>
         <p style="font-size:14px;color:var(--gray-500);line-height:1.75;margin-top:12px;">
-          <span class="lang-en">Yes, Tamil Pasanga is completely free to download and use on both Android and iOS. There are no subscription fees or hidden charges.</span>
-          <span class="lang-ta">ஆம். தமிழ் பசங்க செயலி Android மற்றும் iOS ஆகிய இரு தளங்களிலும் முற்றிலும் இலவசமாகப் பதிவிறக்கம் செய்து பயன்படுத்தக்கூடியது. இதில் சந்தா கட்டணம் அல்லது மறைமுகக் கட்டணங்கள் எதுவும் இல்லை.</span>
+          <span class="lang-en">Yes, <span class="tp-name">Tamil Pasanga</span> is completely free to download and use on both Android and iOS. There are no subscription fees or hidden charges.</span>
+          <span class="lang-ta">ஆம். <span class="tp-name">தமிழ் பசங்க</span> செயலி Android மற்றும் iOS ஆகிய இரு தளங்களிலும் முற்றிலும் இலவசமாகப் பதிவிறக்கம் செய்து பயன்படுத்தக்கூடியது. இதில் சந்தா கட்டணம் அல்லது மறைமுகக் கட்டணங்கள் எதுவும் இல்லை.</span>
         </p>
       </details>
       <details style="background:#fff;border:1px solid var(--gray-200);border-radius:var(--radius-lg);padding:20px 24px;cursor:pointer;" data-aos data-aos-delay="200">
         <summary style="font-size:15px;font-weight:600;color:var(--gray-900);list-style:none;display:flex;justify-content:space-between;align-items:center;">
-          <span class="lang-en">How can I add my business to Tamil Pasanga?</span>
-          <span class="lang-ta">எனது வணிகத்தை தமிழ் பசங்காவில் எப்படி சேர்ப்பது?</span>
+          <span class="lang-en">How can I add my business to <span class="tp-name">Tamil Pasanga</span>?</span>
+          <span class="lang-ta">எனது வணிகத்தை <span class="tp-name">தமிழ் பசங்க</span>ாவில் எப்படி சேர்ப்பது?</span>
           <span style="font-size:20px;color:var(--primary);">+</span>
         </summary>
         <p style="font-size:14px;color:var(--gray-500);line-height:1.75;margin-top:12px;">
@@ -197,8 +197,8 @@ include 'includes/nav.php';
   <div class="container">
     <div class="badge badge-white" data-aos><span class="lang-en">Download Free</span><span class="lang-ta">இலவச பதிவிறக்கம்</span></div>
     <h2 class="section-title section-title-white" data-aos data-aos-delay="100">
-      <span class="lang-en">Try Tamil Pasanga today</span>
-      <span class="lang-ta">இன்றே தமிழ் பசங்கவை முயற்சியுங்கள்</span>
+      <span class="lang-en">Try <span class="tp-name">Tamil Pasanga</span> today</span>
+      <span class="lang-ta">இன்றே <span class="tp-name">தமிழ் பசங்க</span>வை முயற்சியுங்கள்</span>
     </h2>
     <p class="section-sub section-sub-white" data-aos data-aos-delay="200" style="margin-bottom:0;">
       <span class="lang-en">Free download. No subscription. Start earning from day one.</span>

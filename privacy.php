@@ -31,8 +31,8 @@ include 'includes/nav.php';
     <article class="content-body">
 
       <p>
-        <span class="lang-en">This Privacy Policy describes how <strong>Tamil Pasanga</strong> ("we", "our", or "us") collects, uses, and protects your personal information when you use our mobile application and website (the "Service"). By using Tamil Pasanga, you consent to the practices described in this policy.</span>
-        <span class="lang-ta">இந்த தனியுரிமைக் கொள்கை, நீங்கள் எங்கள் மொபைல் பயன்பாட்டையும் இணையதளத்தையும் ("சேவை") பயன்படுத்தும்போது <strong>Tamil Pasanga</strong> ("நாங்கள்", "எங்கள்") உங்கள் தனிப்பட்ட தகவல்களை எவ்வாறு சேகரிக்கிறது, பயன்படுத்துகிறது, பாதுகாக்கிறது என்பதை விவரிக்கிறது. Tamil Pasanga பயன்படுத்துவதன் மூலம், இந்தக் கொள்கையில் விவரிக்கப்பட்ட நடைமுறைகளுக்கு நீங்கள் ஒப்புதல் அளிக்கிறீர்கள்.</span>
+        <span class="lang-en">This Privacy Policy describes how <strong><span class="tp-name">Tamil Pasanga</span></strong> ("we", "our", or "us") collects, uses, and protects your personal information when you use our mobile application and website (the "Service"). By using <span class="tp-name">Tamil Pasanga</span>, you consent to the practices described in this policy.</span>
+        <span class="lang-ta">இந்த தனியுரிமைக் கொள்கை, நீங்கள் எங்கள் மொபைல் பயன்பாட்டையும் இணையதளத்தையும் ("சேவை") பயன்படுத்தும்போது <strong><span class="tp-name">தமிழ் பசங்க</span></strong> ("நாங்கள்", "எங்கள்") உங்கள் தனிப்பட்ட தகவல்களை எவ்வாறு சேகரிக்கிறது, பயன்படுத்துகிறது, பாதுகாக்கிறது என்பதை விவரிக்கிறது. <span class="tp-name">தமிழ் பசங்க</span> பயன்படுத்துவதன் மூலம், இந்தக் கொள்கையில் விவரிக்கப்பட்ட நடைமுறைகளுக்கு நீங்கள் ஒப்புதல் அளிக்கிறீர்கள்.</span>
       </p>
 
       <h2><span class="lang-en">1. Information We Collect</span><span class="lang-ta">1. நாங்கள் சேகரிக்கும் தகவல்கள்</span></h2>
@@ -184,8 +184,8 @@ include 'includes/nav.php';
 
       <h2><span class="lang-en">7. Age Requirement &amp; Minors</span><span class="lang-ta">7. வயது தேவை &amp; சிறுவர்கள்</span></h2>
       <p>
-        <span class="lang-en">Tamil Pasanga is strictly for users aged <strong>18 years and above</strong>. We do not knowingly collect personal information from individuals under 18. If we discover that a user has provided false age information and is under 18, we will immediately deactivate the account and delete the associated data. If you believe a minor has registered using false information, please contact us and we will take immediate action.</span>
-        <span class="lang-ta">Tamil Pasanga கண்டிப்பாக <strong>18 வயது மற்றும் அதற்கு மேல்</strong> உள்ள பயனர்களுக்கு மட்டுமே. 18 வயதுக்கு கீழ் உள்ளவர்களிடம் தெரிந்தே தனிப்பட்ட தகவல்களை சேகரிப்பதில்லை. ஒரு பயனர் தவறான வயது தகவல் வழங்கி 18 வயதுக்கு கீழ் உள்ளவர் என்று கண்டறிந்தால், உடனடியாக கணக்கை முடக்கி தொடர்புடைய தரவை நீக்குவோம். ஒரு சிறுவர் தவறான தகவல் பயன்படுத்தி பதிவு செய்தாரென நம்பினால், எங்களை தொடர்பு கொள்ளுங்கள், உடனடி நடவடிக்கை எடுப்போம்.</span>
+        <span class="lang-en"><span class="tp-name">Tamil Pasanga</span> is strictly for users aged <strong>18 years and above</strong>. We do not knowingly collect personal information from individuals under 18. If we discover that a user has provided false age information and is under 18, we will immediately deactivate the account and delete the associated data. If you believe a minor has registered using false information, please contact us and we will take immediate action.</span>
+        <span class="lang-ta"><span class="tp-name">தமிழ் பசங்க</span> கண்டிப்பாக <strong>18 வயது மற்றும் அதற்கு மேல்</strong> உள்ள பயனர்களுக்கு மட்டுமே. 18 வயதுக்கு கீழ் உள்ளவர்களிடம் தெரிந்தே தனிப்பட்ட தகவல்களை சேகரிப்பதில்லை. ஒரு பயனர் தவறான வயது தகவல் வழங்கி 18 வயதுக்கு கீழ் உள்ளவர் என்று கண்டறிந்தால், உடனடியாக கணக்கை முடக்கி தொடர்புடைய தரவை நீக்குவோம். ஒரு சிறுவர் தவறான தகவல் பயன்படுத்தி பதிவு செய்தாரென நம்பினால், எங்களை தொடர்பு கொள்ளுங்கள், உடனடி நடவடிக்கை எடுப்போம்.</span>
       </p>
 
       <h2><span class="lang-en">8. Third-Party Links</span><span class="lang-ta">8. மூன்றாம் தரப்பு இணைப்புகள்</span></h2>
@@ -208,8 +208,8 @@ include 'includes/nav.php';
 
       <h2><span class="lang-en">11. International Users</span><span class="lang-ta">11. சர்வதேச பயனர்கள்</span></h2>
       <p>
-        <span class="lang-en">Tamil Pasanga is operated from India. If you access the Service from outside India, your information may be transferred to and processed in India. By using the Service, you consent to this transfer.</span>
-        <span class="lang-ta">Tamil Pasanga இந்தியாவில் இருந்து இயக்கப்படுகிறது. இந்தியாவிற்கு வெளியில் இருந்து சேவையை அணுகினால், உங்கள் தகவல் இந்தியாவிற்கு மாற்றப்பட்டு செயலாக்கப்படலாம். சேவையை பயன்படுத்துவதன் மூலம், இந்த மாற்றத்திற்கு நீங்கள் ஒப்புதல் அளிக்கிறீர்கள்.</span>
+        <span class="lang-en"><span class="tp-name">Tamil Pasanga</span> is operated from India. If you access the Service from outside India, your information may be transferred to and processed in India. By using the Service, you consent to this transfer.</span>
+        <span class="lang-ta"><span class="tp-name">தமிழ் பசங்க</span> இந்தியாவில் இருந்து இயக்கப்படுகிறது. இந்தியாவிற்கு வெளியில் இருந்து சேவையை அணுகினால், உங்கள் தகவல் இந்தியாவிற்கு மாற்றப்பட்டு செயலாக்கப்படலாம். சேவையை பயன்படுத்துவதன் மூலம், இந்த மாற்றத்திற்கு நீங்கள் ஒப்புதல் அளிக்கிறீர்கள்.</span>
       </p>
 
       <h2><span class="lang-en">12. Changes to This Policy</span><span class="lang-ta">12. இந்தக் கொள்கையில் மாற்றங்கள்</span></h2>

@@ -23,7 +23,7 @@ function _nav_a($page, $active) { return $page === $active ? ' class="active"' :
           <ul class="nav-dropdown">
             <li><a href="about.php"><span class="lang-en">About Us</span><span class="lang-ta">எங்களை பற்றி</span></a></li>
             <li><a href="about.php#vision"><span class="lang-en">Our Vision</span><span class="lang-ta">எங்கள் நோக்கம்</span></a></li>
-            <li><a href="about.php#why-us"><span class="lang-en">Why Tamil Pasanga</span><span class="lang-ta">ஏன் தமிழ் பசங்க</span></a></li>
+            <li><a href="about.php#why-us"><span class="lang-en">Why <span class="tp-name">Tamil Pasanga</span></span><span class="lang-ta">ஏன் <span class="tp-name">தமிழ் பசங்க</span></span></a></li>
           </ul>
         </li>
         <li><a href="platform.php"<?= _nav_a('platform',$active_page) ?>><span class="lang-en">Platform</span><span class="lang-ta">தளம்</span></a></li>
@@ -52,7 +52,7 @@ function _nav_a($page, $active) { return $page === $active ? ' class="active"' :
     <a href="index.php"><span class="lang-en">Home</span><span class="lang-ta">முகப்பு</span></a>
     <a href="about.php"><span class="lang-en">About Us</span><span class="lang-ta">எங்களை பற்றி</span></a>
     <a href="about.php#vision"><span class="lang-en">Our Vision</span><span class="lang-ta">எங்கள் நோக்கம்</span></a>
-    <a href="about.php#why-us"><span class="lang-en">Why Tamil Pasanga</span><span class="lang-ta">ஏன் தமிழ் பசங்க</span></a>
+    <a href="about.php#why-us"><span class="lang-en">Why <span class="tp-name">Tamil Pasanga</span></span><span class="lang-ta">ஏன் <span class="tp-name">தமிழ் பசங்க</span></span></a>
     <a href="platform.php"><span class="lang-en">Platform</span><span class="lang-ta">தளம்</span></a>
     <a href="guidelines.php"><span class="lang-en">What We Allow / Don't Allow</span><span class="lang-ta">அனுமதி / தடை</span></a>
     <a href="safety.php"><span class="lang-en">Safety &amp; Security</span><span class="lang-ta">பாதுகாப்பு &amp; காப்பு</span></a>

@@ -15,7 +15,7 @@ include 'includes/nav.php';
   <div class="container">
     <nav class="breadcrumb" aria-label="Breadcrumb"><a href="index.php"><span class="lang-en">Home</span><span class="lang-ta">முகப்பு</span></a><span>›</span><span class="current"><span class="lang-en">What We Allow / Don't Allow</span><span class="lang-ta">நாங்கள் அனுமதிப்பது / அனுமதிக்காதது</span></span></nav>
     <h1><span class="lang-en">Community Content Guidelines</span><span class="lang-ta">சமூக உள்ளடக்க வழிகாட்டுதல்கள்</span></h1>
-    <p><span class="lang-en">Tamil Pasanga is a platform built for meaningful awareness. Here is what we actively support — and what we do not permit.</span><span class="lang-ta">தமிழ் பசங்க அர்த்தமுள்ள விழிப்புணர்விற்காக உருவாக்கப்பட்ட ஒரு சமூக தளம். நாங்கள் ஆதரிக்கும் உள்ளடக்கங்கள் என்ன, அனுமதிக்கப்படாதவை என்ன என்பதை இங்கே தெளிவாக அறியலாம்.</span></p>
+    <p><span class="lang-en"><span class="tp-name">Tamil Pasanga</span> is a platform built for meaningful awareness. Here is what we actively support — and what we do not permit.</span><span class="lang-ta"><span class="tp-name">தமிழ் பசங்க</span> அர்த்தமுள்ள விழிப்புணர்விற்காக உருவாக்கப்பட்ட ஒரு சமூக தளம். நாங்கள் ஆதரிக்கும் உள்ளடக்கங்கள் என்ன, அனுமதிக்கப்படாதவை என்ன என்பதை இங்கே தெளிவாக அறியலாம்.</span></p>
   </div>
 </header>
 
@@ -35,7 +35,7 @@ include 'includes/nav.php';
     <div class="text-center">
       <div class="badge" style="background:#d1fae5;color:#065f46;" data-aos><span class="lang-en">What We Allow &amp; Encourage</span><span class="lang-ta">நாங்கள் அனுமதித்து ஊக்குவிப்பவை</span></div>
       <h2 class="section-title" id="allow-h" data-aos data-aos-delay="100"><span class="lang-en">Supported Content &amp; Activities</span><span class="lang-ta">ஆதரிக்கப்படும் உள்ளடக்கங்கள் மற்றும் செயல்பாடுகள்</span></h2>
-      <p class="section-sub" data-aos data-aos-delay="200"><span class="lang-en">Tamil Pasanga actively encourages the following types of content and shop listings from our community.</span><span class="lang-ta">தமிழ் பசங்க சமூகத்திற்கு பயனளிக்கும் பின்வரும் வகையான உள்ளடக்கங்கள் மற்றும் கடை பட்டியல்களை ஊக்குவிக்கிறது.</span></p>
+      <p class="section-sub" data-aos data-aos-delay="200"><span class="lang-en"><span class="tp-name">Tamil Pasanga</span> actively encourages the following types of content and shop listings from our community.</span><span class="lang-ta"><span class="tp-name">தமிழ் பசங்க</span> சமூகத்திற்கு பயனளிக்கும் பின்வரும் வகையான உள்ளடக்கங்கள் மற்றும் கடை பட்டியல்களை ஊக்குவிக்கிறது.</span></p>
     </div>
     <div class="grid-3" style="margin-top:0;">
 
@@ -43,7 +43,7 @@ include 'includes/nav.php';
         <div class="guideline-card-icon"><i class="bi bi-megaphone"></i></div>
         <span class="allow-label"><span class="lang-en">Allowed</span><span class="lang-ta">அனுமதிக்கப்பட்டது</span></span>
         <h3><span class="lang-en">Awareness Content</span><span class="lang-ta">விழிப்புணர்வு உள்ளடக்கங்கள்</span></h3>
-        <p><span class="lang-en">Posts about social issues, environmental safety, public health, education, farming, and community welfare. This is the heart of Tamil Pasanga.</span><span class="lang-ta">சமூகப் பிரச்சினைகள், சுற்றுச்சூழல் பாதுகாப்பு, பொதுச் சுகாதாரம், கல்வி, விவசாயம் மற்றும் சமூக நலன் தொடர்பான பதிவுகள். இவையே Tamil Pasanga-வின் மைய நோக்கம்.</span></p>
+        <p><span class="lang-en">Posts about social issues, environmental safety, public health, education, farming, and community welfare. This is the heart of <span class="tp-name">Tamil Pasanga</span>.</span><span class="lang-ta">சமூகப் பிரச்சினைகள், சுற்றுச்சூழல் பாதுகாப்பு, பொதுச் சுகாதாரம், கல்வி, விவசாயம் மற்றும் சமூக நலன் தொடர்பான பதிவுகள். இவையே <span class="tp-name">தமிழ் பசங்க</span>வின் மைய நோக்கம்.</span></p>
       </div>
 
       <div class="guideline-card allow" data-aos data-aos-delay="150">
@@ -112,7 +112,7 @@ include 'includes/nav.php';
     <div class="text-center">
       <div class="badge" style="background:#fee2e2;color:#991b1b;" data-aos><span class="lang-en">What We Don't Allow</span><span class="lang-ta">அனுமதிக்கப்படாதவை</span></div>
       <h2 class="section-title" id="deny-h" data-aos data-aos-delay="100"><span class="lang-en">Prohibited Content &amp; Activities</span><span class="lang-ta">தடைசெய்யப்பட்ட உள்ளடக்கங்கள் மற்றும் செயல்பாடுகள்</span></h2>
-      <p class="section-sub" data-aos data-aos-delay="200"><span class="lang-en">The following content and activities are not permitted. Violations are monitored and will result in content removal, Supercoin deductions, or account deactivation.</span><span class="lang-ta">பின்வரும் உள்ளடக்கங்கள் மற்றும் செயல்பாடுகள் Tamil Pasanga-வில் அனுமதிக்கப்படமாட்டாது. விதிமுறை மீறல்கள் கண்காணிக்கப்படும். அவை உள்ளடக்க நீக்கம், Supercoin கழிப்பு அல்லது கணக்கு செயலிழப்பு போன்ற நடவடிக்கைகளுக்கு வழிவகுக்கும்.</span></p>
+      <p class="section-sub" data-aos data-aos-delay="200"><span class="lang-en">The following content and activities are not permitted. Violations are monitored and will result in content removal, Supercoin deductions, or account deactivation.</span><span class="lang-ta">பின்வரும் உள்ளடக்கங்கள் மற்றும் செயல்பாடுகள் <span class="tp-name">தமிழ் பசங்க</span>வில் அனுமதிக்கப்படமாட்டாது. விதிமுறை மீறல்கள் கண்காணிக்கப்படும். அவை உள்ளடக்க நீக்கம், Supercoin கழிப்பு அல்லது கணக்கு செயலிழப்பு போன்ற நடவடிக்கைகளுக்கு வழிவகுக்கும்.</span></p>
     </div>
     <div class="grid-3" style="margin-top:0;">
 
@@ -120,7 +120,7 @@ include 'includes/nav.php';
         <div class="guideline-card-icon"><i class="bi bi-film"></i></div>
         <span class="deny-label"><span class="lang-en">Not Allowed</span><span class="lang-ta">அனுமதிக்கப்படவில்லை</span></span>
         <h3><span class="lang-en">Entertainment-Only Content</span><span class="lang-ta">பொழுதுபோக்கிற்காக மட்டுமே உருவாக்கப்பட்ட உள்ளடக்கங்கள்</span></h3>
-        <p><span class="lang-en">Posts created purely for entertainment without any awareness or community value. Tamil Pasanga is not a general entertainment platform.</span><span class="lang-ta">விழிப்புணர்வு அல்லது சமூக நலன் சார்ந்த மதிப்பு இல்லாமல், வெறும் பொழுதுபோக்கிற்காக மட்டுமே உருவாக்கப்படும் பதிவுகள் அனுமதிக்கப்படமாட்டாது. Tamil Pasanga ஒரு பொது பொழுதுபோக்கு தளம் அல்ல.</span></p>
+        <p><span class="lang-en">Posts created purely for entertainment without any awareness or community value. <span class="tp-name">Tamil Pasanga</span> is not a general entertainment platform.</span><span class="lang-ta">விழிப்புணர்வு அல்லது சமூக நலன் சார்ந்த மதிப்பு இல்லாமல், வெறும் பொழுதுபோக்கிற்காக மட்டுமே உருவாக்கப்படும் பதிவுகள் அனுமதிக்கப்படமாட்டாது. <span class="tp-name">தமிழ் பசங்க</span> ஒரு பொது பொழுதுபோக்கு தளம் அல்ல.</span></p>
       </div>
 
       <div class="guideline-card deny" data-aos data-aos-delay="150">
@@ -209,7 +209,7 @@ include 'includes/nav.php';
       <div class="vision-card" data-aos data-aos-delay="300">
         <div class="vision-card-icon"><i class="bi bi-lock-fill"></i></div>
         <h3><span class="lang-en">Account Deactivation</span><span class="lang-ta">கணக்கு செயலிழப்பு</span></h3>
-        <p><span class="lang-en">Accounts that repeatedly violate guidelines will be permanently deactivated by admin. All e-wallet and campaign balances are frozen upon deactivation.</span><span class="lang-ta">வழிகாட்டுதல்களை தொடர்ந்து மீறும் கணக்குகள் நிர்வாகத்தால் நிரந்தரமாக செயலிழக்கச் செய்யப்படலாம். கணக்கு செயலிழக்கப்பட்ட பிறகு, அதனுடன் தொடர்புடைய e-Wallet இருப்பு மற்றும் Campaign இருப்புகள் முடக்கப்படலாம்.</span></p>
+        <p><span class="lang-en">Accounts that repeatedly violate guidelines will be permanently deactivated by admin. All e-wallet and ad balances are frozen upon deactivation.</span><span class="lang-ta">வழிகாட்டுதல்களை தொடர்ந்து மீறும் கணக்குகள் நிர்வாகத்தால் நிரந்தரமாக செயலிழக்கச் செய்யப்படலாம். கணக்கு செயலிழக்கப்பட்ட பிறகு, அதனுடன் தொடர்புடைய e-Wallet இருப்பு மற்றும் Ad இருப்புகள் முடக்கப்படலாம்.</span></p>
       </div>
     </div>
   </div>
@@ -219,7 +219,7 @@ include 'includes/nav.php';
 <section class="cta-section" aria-label="Download CTA">
   <div class="container">
     <div class="badge badge-white" data-aos><span class="lang-en">Join Responsibly</span><span class="lang-ta">பொறுப்புடன் இணையுங்கள்</span></div>
-    <h2 class="section-title section-title-white" data-aos data-aos-delay="100"><span class="lang-en">Be a positive part of Tamil Pasanga</span><span class="lang-ta">தமிழ் பசங்க-வின் நேர்மறையான உறுப்பினராக இருங்கள்</span></h2>
+    <h2 class="section-title section-title-white" data-aos data-aos-delay="100"><span class="lang-en">Be a positive part of <span class="tp-name">Tamil Pasanga</span></span><span class="lang-ta"><span class="tp-name">தமிழ் பசங்க</span>-வின் நேர்மறையான உறுப்பினராக இருங்கள்</span></h2>
     <p class="section-sub section-sub-white" data-aos data-aos-delay="200" style="margin-bottom:0;"><span class="lang-en">Download the app and start sharing meaningful awareness content with your community.</span><span class="lang-ta">சமூகத்திற்கு பயனுள்ள விழிப்புணர்வு உள்ளடக்கங்களைப் பகிர்ந்து, தமிழர் சமூகத்தில் நல்ல மாற்றத்தை உருவாக்கும் பயணத்தில் இணையுங்கள்.</span></p>
     <div class="store-btns" data-aos data-aos-delay="300">
       <a href="https://play.google.com/store/apps/details?id=in.tamilpasanga.app" class="store-btn" target="_blank" rel="noopener"><span class="store-btn-icon"><i class="bi bi-google-play"></i></span><div><span class="store-btn-sub"><span class="lang-en">Get it on</span><span class="lang-ta">பெறுங்கள்</span></span><span class="store-btn-name">Google Play</span></div></a>

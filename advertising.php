@@ -22,8 +22,8 @@ include 'includes/nav.php';
       <span class="lang-ta">விளம்பர விதிமுறைகள் & விளம்பரதாரர் கொள்கை</span>
     </h1>
     <p>
-      <span class="lang-en">Transparent advertising rules for users watching ads and clear policies for businesses advertising on Tamil Pasanga.</span>
-      <span class="lang-ta">Tamil Pasanga-வில் விளம்பரங்களைப் பார்ப்பவர்களுக்கும், விளம்பரம் செய்யும் நிறுவனங்களுக்கும் தெளிவான மற்றும் வெளிப்படையான விதிமுறைகள் வழங்கப்படுகின்றன. எங்கள் நோக்கம் நம்பகமான, பொறுப்பான மற்றும் பயனர்-மைய விளம்பர சூழலை உருவாக்குவதே. இந்த கொள்கைகள், விளம்பரங்கள் எவ்வாறு காட்டப்படுகின்றன, பயனர்கள் எவ்வாறு வருமானம் பெறுகிறார்கள், மற்றும் எந்த வகை விளம்பரங்கள் அனுமதிக்கப்படுகின்றன என்பதைக் தெளிவாக விளக்குகின்றன.</span>
+      <span class="lang-en">Transparent advertising rules for users watching ads and clear policies for businesses advertising on <span class="tp-name">Tamil Pasanga</span>.</span>
+      <span class="lang-ta"><span class="tp-name">தமிழ் பசங்க</span>வில் விளம்பரங்களைப் பார்ப்பவர்களுக்கும், விளம்பரம் செய்யும் நிறுவனங்களுக்கும் தெளிவான மற்றும் வெளிப்படையான விதிமுறைகள் வழங்கப்படுகின்றன. எங்கள் நோக்கம் நம்பகமான, பொறுப்பான மற்றும் பயனர்-மைய விளம்பர சூழலை உருவாக்குவதே. இந்த கொள்கைகள், விளம்பரங்கள் எவ்வாறு காட்டப்படுகின்றன, பயனர்கள் எவ்வாறு வருமானம் பெறுகிறார்கள், மற்றும் எந்த வகை விளம்பரங்கள் அனுமதிக்கப்படுகின்றன என்பதைக் தெளிவாக விளக்குகின்றன.</span>
     </p>
   </div>
 </header>
@@ -58,8 +58,8 @@ include 'includes/nav.php';
         <span class="lang-ta">விளம்பர வருமானம் எப்படி செயல்படுகிறது</span>
       </h2>
       <p class="section-sub" data-aos data-aos-delay="200">
-        <span class="lang-en">Tamil Pasanga has a dedicated Ads tab where you can watch advertisements and earn real money. Ads are never forced into your post feed — watching is entirely your choice.</span>
-        <span class="lang-ta">Tamil Pasanga-வில் விளம்பரங்களைப் பார்க்கும் பயனர்களுக்காக தனியாக ஒரு Ads Tab வழங்கப்பட்டுள்ளது. இதில் நீங்கள் விரும்பும் நேரத்தில் விளம்பரங்களைப் பார்த்து உண்மையான பணம் சம்பாதிக்கலாம். விளம்பரங்கள் ஒருபோதும் உங்கள் சாதாரண feed-ல் கட்டாயமாக காட்டப்படமாட்டாது — பார்ப்பது முழுவதும் உங்கள் விருப்பம்.</span>
+        <span class="lang-en"><span class="tp-name">Tamil Pasanga</span> has a dedicated Ads tab where you can watch advertisements and earn real money. Ads are never forced into your post feed — watching is entirely your choice.</span>
+        <span class="lang-ta"><span class="tp-name">தமிழ் பசங்க</span>வில் விளம்பரங்களைப் பார்க்கும் பயனர்களுக்காக தனியாக ஒரு Ads Tab வழங்கப்பட்டுள்ளது. இதில் நீங்கள் விரும்பும் நேரத்தில் விளம்பரங்களைப் பார்த்து உண்மையான பணம் சம்பாதிக்கலாம். விளம்பரங்கள் ஒருபோதும் உங்கள் சாதாரண feed-ல் கட்டாயமாக காட்டப்படமாட்டாது — பார்ப்பது முழுவதும் உங்கள் விருப்பம்.</span>
       </p>
     </div>
 
@@ -79,8 +79,8 @@ include 'includes/nav.php';
         <div class="ad-step-body">
           <h4><span class="lang-en">Check Duration &amp; Earnings Before You Start</span><span class="lang-ta">தொடங்குவதற்கு முன் நேரம் & வருமானம் பார்க்கவும்</span></h4>
           <p>
-            <span class="lang-en">Before watching, you can see the ad duration, how much you will earn, and the campaign details. You choose which ads to watch based on your preference — nothing is forced.</span>
-            <span class="lang-ta">விளம்பரத்தைப் பார்க்கும் முன் அதன் நேரம், நீங்கள் பெறும் வருமானம் மற்றும் campaign விவரங்கள் தெளிவாகக் காட்டப்படும். உங்கள் விருப்பத்தின் அடிப்படையில் எந்த விளம்பரத்தைப் பார்க்க வேண்டும் என்பதை நீங்கள் தேர்வு செய்யலாம் — எதுவும் கட்டாயப்படுத்தப்படாது.</span>
+            <span class="lang-en">Before watching, you can see the ad duration, how much you will earn, and the ad details. You choose which ads to watch based on your preference — nothing is forced.</span>
+            <span class="lang-ta">விளம்பரத்தைப் பார்க்கும் முன் அதன் நேரம், நீங்கள் பெறும் வருமானம் மற்றும் விளம்பர விவரங்கள் தெளிவாகக் காட்டப்படும். உங்கள் விருப்பத்தின் அடிப்படையில் எந்த விளம்பரத்தைப் பார்க்க வேண்டும் என்பதை நீங்கள் தேர்வு செய்யலாம் — எதுவும் கட்டாயப்படுத்தப்படாது.</span>
           </p>
         </div>
       </div>
@@ -150,8 +150,8 @@ include 'includes/nav.php';
         <span class="lang-ta">விளம்பர விதிமுறைகள்</span>
       </h2>
       <p class="section-sub" data-aos data-aos-delay="200">
-        <span class="lang-en">All advertisements on Tamil Pasanga must meet these standards to be approved and displayed on our platform.</span>
-        <span class="lang-ta">Tamil Pasanga-வில் காட்டப்படும் அனைத்து விளம்பரங்களும் கீழ்கண்ட தரநிலைகளை பூர்த்தி செய்ய வேண்டும். இந்த விதிமுறைகள் பின்பற்றப்பட்ட விளம்பரங்களே தளத்தில் அனுமதிக்கப்படும்.</span>
+        <span class="lang-en">All advertisements on <span class="tp-name">Tamil Pasanga</span> must meet these standards to be approved and displayed on our platform.</span>
+        <span class="lang-ta"><span class="tp-name">தமிழ் பசங்க</span>வில் காட்டப்படும் அனைத்து விளம்பரங்களும் கீழ்கண்ட தரநிலைகளை பூர்த்தி செய்ய வேண்டும். இந்த விதிமுறைகள் பின்பற்றப்பட்ட விளம்பரங்களே தளத்தில் அனுமதிக்கப்படும்.</span>
       </p>
     </div>
 
@@ -178,7 +178,7 @@ include 'includes/nav.php';
         <div class="guideline-card-icon"><i class="bi bi-flower2"></i></div>
         <span class="allow-label"><span class="lang-en">Allowed</span><span class="lang-ta">அனுமதிக்கப்பட்டது</span></span>
         <h3><span class="lang-en">Health &amp; Community-Aligned Brands</span><span class="lang-ta">ஆரோக்கியம் & சமூக நோக்கமுள்ள பிராண்டுகள்</span></h3>
-        <p><span class="lang-en">Brands aligned with healthy living, natural products, community welfare, education, or farming are especially welcome on Tamil Pasanga.</span><span class="lang-ta">ஆரோக்கியமான வாழ்க்கை முறை, இயற்கை பொருட்கள், சமூக நலன், கல்வி மற்றும் விவசாயம் சார்ந்த பிராண்டுகள் Tamil Pasanga-வில் சிறப்பாக வரவேற்கப்படுகின்றன.</span></p>
+        <p><span class="lang-en">Brands aligned with healthy living, natural products, community welfare, education, or farming are especially welcome on <span class="tp-name">Tamil Pasanga</span>.</span><span class="lang-ta">ஆரோக்கியமான வாழ்க்கை முறை, இயற்கை பொருட்கள், சமூக நலன், கல்வி மற்றும் விவசாயம் சார்ந்த பிராண்டுகள் <span class="tp-name">தமிழ் பசங்க</span>வில் சிறப்பாக வரவேற்கப்படுகின்றன.</span></p>
       </div>
 
       <div class="guideline-card deny" data-aos>
@@ -219,8 +219,8 @@ include 'includes/nav.php';
         <span class="lang-ta">விளம்பரதாரர் கொள்கை</span>
       </h2>
       <p class="section-sub" data-aos data-aos-delay="200">
-        <span class="lang-en">Key policies all advertisers must agree to before running campaigns on Tamil Pasanga.</span>
-        <span class="lang-ta">Tamil Pasanga-வில் விளம்பரங்களை இயக்குவதற்கு முன் அனைத்து விளம்பரதாரர்களும் கீழ்கண்ட கொள்கைகளை ஏற்றுக்கொள்ள வேண்டும். இவை தளத்தின் நம்பகத்தன்மை, பாதுகாப்பு மற்றும் வெளிப்படைத்தன்மையை உறுதிப்படுத்த உருவாக்கப்பட்டவை.</span>
+        <span class="lang-en">Key policies all advertisers must agree to before running ads on <span class="tp-name">Tamil Pasanga</span>.</span>
+        <span class="lang-ta"><span class="tp-name">தமிழ் பசங்க</span>வில் விளம்பரங்களை இயக்குவதற்கு முன் அனைத்து விளம்பரதாரர்களும் கீழ்கண்ட கொள்கைகளை ஏற்றுக்கொள்ள வேண்டும். இவை தளத்தின் நம்பகத்தன்மை, பாதுகாப்பு மற்றும் வெளிப்படைத்தன்மையை உறுதிப்படுத்த உருவாக்கப்பட்டவை.</span>
       </p>
     </div>
 
@@ -229,8 +229,8 @@ include 'includes/nav.php';
 
         <h2><span class="lang-en">1. Advertiser Responsibility</span><span class="lang-ta">1. விளம்பரதாரர் பொறுப்பு</span></h2>
         <p>
-          <span class="lang-en">All advertisements placed on Tamil Pasanga are the full responsibility of the respective advertiser. Tamil Pasanga acts as a display platform and does not endorse, guarantee, or take responsibility for the products, services, quality, accuracy, or claims made in any advertisement.</span>
-          <span class="lang-ta">Tamil Pasanga-வில் இடப்படும் அனைத்து விளம்பரங்களும் முழுமையாக சம்பந்தப்பட்ட விளம்பரதாரரின் பொறுப்பாகும். Tamil Pasanga ஒரு விளம்பர காட்சி தளமாக மட்டுமே செயல்படுகிறது. எந்தவொரு விளம்பரத்தின் பொருள், சேவை, தரம், துல்லியம் அல்லது அதில் கூறப்படும் வாக்குறுதிகளுக்கு தளம் பொறுப்பல்ல அல்லது ஆதரவு அளிப்பதில்லை.</span>
+          <span class="lang-en">All advertisements placed on <span class="tp-name">Tamil Pasanga</span> are the full responsibility of the respective advertiser. <span class="tp-name">Tamil Pasanga</span> acts as a display platform and does not endorse, guarantee, or take responsibility for the products, services, quality, accuracy, or claims made in any advertisement.</span>
+          <span class="lang-ta"><span class="tp-name">தமிழ் பசங்க</span>வில் இடப்படும் அனைத்து விளம்பரங்களும் முழுமையாக சம்பந்தப்பட்ட விளம்பரதாரரின் பொறுப்பாகும். <span class="tp-name">தமிழ் பசங்க</span> ஒரு விளம்பர காட்சி தளமாக மட்டுமே செயல்படுகிறது. எந்தவொரு விளம்பரத்தின் பொருள், சேவை, தரம், துல்லியம் அல்லது அதில் கூறப்படும் வாக்குறுதிகளுக்கு தளம் பொறுப்பல்ல அல்லது ஆதரவு அளிப்பதில்லை.</span>
         </p>
 
         <h2><span class="lang-en">2. Content Compliance</span><span class="lang-ta">2. உள்ளடக்க விதிமுறை பின்பற்றல்</span></h2>
@@ -241,7 +241,7 @@ include 'includes/nav.php';
         </p>
 
         <h2><span class="lang-en">3. Prohibited Advertising Categories</span><span class="lang-ta">3. தடைசெய்யப்பட்ட விளம்பர வகைகள்</span></h2>
-        <p><span class="lang-en">The following categories of advertising are absolutely prohibited on Tamil Pasanga:</span><span class="lang-ta">பின்வரும் விளம்பர வகைகள் தமிழ் பசங்கவில் முற்றிலும் தடைசெய்யப்பட்டுள்ளன:</span></p>
+        <p><span class="lang-en">The following categories of advertising are absolutely prohibited on <span class="tp-name">Tamil Pasanga</span>:</span><span class="lang-ta">பின்வரும் விளம்பர வகைகள் <span class="tp-name">தமிழ் பசங்க</span>வில் முற்றிலும் தடைசெய்யப்பட்டுள்ளன:</span></p>
         <ul>
           <li><span class="lang-en">Betting, gambling, and lottery-related services</span><span class="lang-ta">சூதாட்டம், சூதுவாட்டம், மற்றும் லாட்டரி சம்பந்தப்பட்ட சேவைகள்</span></li>
           <li><span class="lang-en">Online trading apps (forex, cryptocurrency, stock trading)</span><span class="lang-ta">ஆன்லைன் வர்த்தக ஆப்புகள் (forex, கிரிப்டோகரன்சி, பங்கு வர்த்தகம்)</span></li>
@@ -252,27 +252,27 @@ include 'includes/nav.php';
           <li><span class="lang-en">Any service that violates Indian law</span><span class="lang-ta">இந்திய சட்டத்தை மீறும் எந்தவொரு சேவையும்</span></li>
         </ul>
 
-        <h2><span class="lang-en">4. No Endorsement by Tamil Pasanga</span><span class="lang-ta">4. Tamil Pasanga ஆதரவு வழங்காது</span></h2>
+        <h2><span class="lang-en">4. No Endorsement by <span class="tp-name">Tamil Pasanga</span></span><span class="lang-ta">4. <span class="tp-name">தமிழ் பசங்க</span> ஆதரவு வழங்காது</span></h2>
         <p>
-          <span class="lang-en">Tamil Pasanga's display of an advertisement does not constitute an endorsement, recommendation, or guarantee of the advertiser's products or services. Users are advised to independently verify advertisers before making any purchase or entering into any transaction.</span>
-          <span class="lang-ta">ஒரு விளம்பரம் தளத்தில் காண்பிக்கப்படுவது, அந்த பொருள் அல்லது சேவைக்கு Tamil Pasanga ஆதரவு, பரிந்துரை அல்லது உத்தரவாதம் வழங்குகிறது என்பதைக் குறிக்காது. பயனர்கள் எந்தவொரு பரிவர்த்தனைக்கும் முன் தனியாக சரிபார்க்க வேண்டும்.</span>
+          <span class="lang-en"><span class="tp-name">Tamil Pasanga</span>'s display of an advertisement does not constitute an endorsement, recommendation, or guarantee of the advertiser's products or services. Users are advised to independently verify advertisers before making any purchase or entering into any transaction.</span>
+          <span class="lang-ta">ஒரு விளம்பரம் தளத்தில் காண்பிக்கப்படுவது, அந்த பொருள் அல்லது சேவைக்கு <span class="tp-name">தமிழ் பசங்க</span> ஆதரவு, பரிந்துரை அல்லது உத்தரவாதம் வழங்குகிறது என்பதைக் குறிக்காது. பயனர்கள் எந்தவொரு பரிவர்த்தனைக்கும் முன் தனியாக சரிபார்க்க வேண்டும்.</span>
         </p>
 
-        <h2><span class="lang-en">5. Campaign Monitoring</span><span class="lang-ta">5. பிரச்சார கண்காணிப்பு</span></h2>
+        <h2><span class="lang-en">5. Ad Monitoring</span><span class="lang-ta">5. விளம்பர கண்காணிப்பு</span></h2>
         <p>
-          <span class="lang-en">Tamil Pasanga reserves the right to monitor all advertising campaigns and remove any advertisement that violates our policies, even after initial approval. Advertisers will be notified where possible, but removal may happen without prior notice if the violation is serious.</span>
-          <span class="lang-ta">Tamil Pasanga அனைத்து விளம்பர Campaign-களையும் கண்காணிக்கும் உரிமையை வைத்துள்ளது. முன் அனுமதி வழங்கப்பட்ட பிறகும், விதிமுறைகளை மீறும் எந்தவொரு விளம்பரமும் நீக்கப்படலாம். கடுமையான மீறல்களில் முன் அறிவிப்பு இல்லாமலும் நடவடிக்கை எடுக்கப்படலாம்.</span>
+          <span class="lang-en"><span class="tp-name">Tamil Pasanga</span> reserves the right to monitor all ads and remove any advertisement that violates our policies, even after initial approval. Advertisers will be notified where possible, but removal may happen without prior notice if the violation is serious.</span>
+          <span class="lang-ta"><span class="tp-name">தமிழ் பசங்க</span> அனைத்து விளம்பரங்களையும் கண்காணிக்கும் உரிமையை வைத்துள்ளது. முன் அனுமதி வழங்கப்பட்ட பிறகும், விதிமுறைகளை மீறும் எந்தவொரு விளம்பரமும் நீக்கப்படலாம். கடுமையான மீறல்களில் முன் அறிவிப்பு இல்லாமலும் நடவடிக்கை எடுக்கப்படலாம்.</span>
         </p>
 
         <h2><span class="lang-en">6. Transparent Earnings for Users</span><span class="lang-ta">6. பயனர்களுக்கு வெளிப்படையான வருவாய்</span></h2>
         <p>
-          <span class="lang-en">For every ad viewed by a user, the campaign earnings information (duration and earn amount) is shown to the user before they choose to watch. This transparency is mandatory for all campaigns. Advertisers must accurately represent the ad duration in their campaign setup.</span>
-          <span class="lang-ta">பயனர் ஒரு விளம்பரத்தைப் பார்க்கும் முன், அந்த Campaign-ன் நேரம் மற்றும் வருமான விவரங்கள் தெளிவாக காட்டப்படும். இந்த வெளிப்படைத்தன்மை அனைத்து Campaign-களுக்கும் கட்டாயம். விளம்பரதாரர்கள் தங்கள் விளம்பரத்தின் உண்மையான நேரத்தை சரியாக குறிப்பிட வேண்டும்.</span>
+          <span class="lang-en">For every ad viewed by a user, the ad earnings information (duration and earn amount) is shown to the user before they choose to watch. This transparency is mandatory for all ads. Advertisers must accurately represent the ad duration in their ad setup.</span>
+          <span class="lang-ta">பயனர் ஒரு விளம்பரத்தைப் பார்க்கும் முன், அந்த விளம்பரத்தின் நேரம் மற்றும் வருமான விவரங்கள் தெளிவாக காட்டப்படும். இந்த வெளிப்படைத்தன்மை அனைத்து விளம்பரங்களுக்கும் கட்டாயம். விளம்பரதாரர்கள் தங்கள் விளம்பரத்தின் உண்மையான நேரத்தை சரியாக குறிப்பிட வேண்டும்.</span>
         </p>
 
         <h2><span class="lang-en">7. How to Advertise</span><span class="lang-ta">7. எவ்வாறு விளம்பரம் செய்வது</span></h2>
-        <p><span class="lang-en">To run advertisements on Tamil Pasanga, contact our advertising team. All campaigns go through a review process before going live. We will verify compliance with our advertising policy before approving any campaign.</span>
-        <span class="lang-ta">Tamil Pasanga-வில் விளம்பரம் செய்ய விரும்பும் நிறுவனங்கள் எங்கள் விளம்பர குழுவை தொடர்பு கொள்ள வேண்டும். அனைத்து Campaign-களும் வெளியிடுவதற்கு முன் மதிப்பாய்வு செய்யப்பட்டு, எங்கள் விளம்பர கொள்கைகளுக்கு ஏற்ப இருப்பது உறுதி செய்யப்படும்.</span></p>
+        <p><span class="lang-en">To run advertisements on <span class="tp-name">Tamil Pasanga</span>, contact our advertising team. All ads go through a review process before going live. We will verify compliance with our advertising policy before approving any ad.</span>
+        <span class="lang-ta"><span class="tp-name">தமிழ் பசங்க</span>வில் விளம்பரம் செய்ய விரும்பும் நிறுவனங்கள் எங்கள் விளம்பர குழுவை தொடர்பு கொள்ள வேண்டும். அனைத்து விளம்பரங்களும் வெளியிடுவதற்கு முன் மதிப்பாய்வு செய்யப்பட்டு, எங்கள் விளம்பர கொள்கைகளுக்கு ஏற்ப இருப்பது உறுதி செய்யப்படும்.</span></p>
         <ul>
           <li><span class="lang-en">Email:</span><span class="lang-ta">மின்னஞ்சல்:</span> <a href="mailto:ads@tamilpasanga.in">ads@tamilpasanga.in</a></li>
           <li><span class="lang-en">Contact form:</span><span class="lang-ta">தொடர்பு படிவம்:</span> <a href="contact.php">tamilpasanga.in/contact</a></li>
@@ -292,8 +292,8 @@ include 'includes/nav.php';
       <span class="lang-ta">"உங்கள் விளம்பரத்தை தீவிரமாக பார்க்க தேர்வு செய்யும் அதிக ஈடுபாடுள்ள தமிழ் சமூகத்தை சென்றடையுங்கள்."</span>
     </h2>
     <p class="section-sub section-sub-white" data-aos data-aos-delay="200">
-      <span class="lang-en">Tamil Pasanga users opt-in to watch ads by choice — meaning your message reaches a genuinely receptive, local Tamil audience. Contact us to start your campaign.</span>
-      <span class="lang-ta">தமிழ் பசங்க பயனர்கள் விருப்பத்தின்படி விளம்பரங்களை பார்க்க தேர்வு செய்கிறார்கள் — அதாவது உங்கள் செய்தி உண்மையிலேயே ஏற்கக்கூடிய, உள்ளூர் தமிழ் பார்வையாளர்களை சென்றடைகிறது.</span>
+      <span class="lang-en"><span class="tp-name">Tamil Pasanga</span> users opt-in to watch ads by choice — meaning your message reaches a genuinely receptive, local Tamil audience. Contact us to start your ad.</span>
+      <span class="lang-ta"><span class="tp-name">தமிழ் பசங்க</span> பயனர்கள் விருப்பத்தின்படி விளம்பரங்களை பார்க்க தேர்வு செய்கிறார்கள் — அதாவது உங்கள் செய்தி உண்மையிலேயே ஏற்கக்கூடிய, உள்ளூர் தமிழ் பார்வையாளர்களை சென்றடைகிறது.</span>
     </p>
     <div style="margin-top:32px;display:flex;gap:16px;justify-content:center;flex-wrap:wrap;" data-aos data-aos-delay="300">
       <a href="contact.php" class="btn btn-white btn-lg"><span class="lang-en">Contact Us to Advertise</span><span class="lang-ta">விளம்பரத்திற்கு தொடர்பு கொள்ளுங்கள்</span></a>

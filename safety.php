@@ -19,7 +19,7 @@ include 'includes/nav.php';
     </nav>
     <h1><span class="lang-en">Safety &amp; Security</span><span class="lang-ta">பாதுகாப்பு & பாதுகாப்புத் தரநிலைகள்</span></h1>
     <p>
-      <span class="lang-en">Your safety is our top priority. Here is how Tamil Pasanga protects users, enforces platform rules, and cooperates with authorities.</span>
+      <span class="lang-en">Your safety is our top priority. Here is how <span class="tp-name">Tamil Pasanga</span> protects users, enforces platform rules, and cooperates with authorities.</span>
       <span class="lang-ta">உங்கள் பாதுகாப்பே எங்களின் மிக உயர்ந்த முன்னுரிமை. பயனர்களை எவ்வாறு பாதுகாக்கிறோம், தள விதிமுறைகளை எவ்வாறு அமல்படுத்துகிறோம், மற்றும் தேவையானபோது சம்பந்தப்பட்ட அதிகாரிகளுடன் எவ்வாறு ஒத்துழைக்கிறோம் என்பதை இங்கே அறிந்துகொள்ளலாம்.</span>
     </p>
   </div>
@@ -35,8 +35,8 @@ include 'includes/nav.php';
         <span class="lang-ta">உங்களை எவ்வாறு பாதுகாக்கிறோம்</span>
       </h2>
       <p class="section-sub" data-aos data-aos-delay="200">
-        <span class="lang-en">Multiple layers of protection ensure a trustworthy experience for every Tamil Pasanga user.</span>
-        <span class="lang-ta">Tamil Pasanga-வின் ஒவ்வொரு பயனருக்கும் பாதுகாப்பான மற்றும் நம்பகமான அனுபவத்தை வழங்க பல அடுக்குகளைக் கொண்ட பாதுகாப்பு அமைப்புகள் செயல்படுத்தப்பட்டுள்ளன.</span>
+        <span class="lang-en">Multiple layers of protection ensure a trustworthy experience for every <span class="tp-name">Tamil Pasanga</span> user.</span>
+        <span class="lang-ta"><span class="tp-name">தமிழ் பசங்க</span>வின் ஒவ்வொரு பயனருக்கும் பாதுகாப்பான மற்றும் நம்பகமான அனுபவத்தை வழங்க பல அடுக்குகளைக் கொண்ட பாதுகாப்பு அமைப்புகள் செயல்படுத்தப்பட்டுள்ளன.</span>
       </p>
     </div>
 
@@ -50,8 +50,8 @@ include 'includes/nav.php';
             <span class="lang-ta">வயது வரம்பு — 18+ பயனர்களுக்கு மட்டும்</span>
           </h3>
           <p style="font-size:15px;color:var(--gray-600);line-height:1.75;">
-            <span class="lang-en">Tamil Pasanga is strictly for users aged 18 and above. Age is verified using the date of birth provided during registration. If a user registers with a false date of birth and causes any harm, Tamil Pasanga bears no responsibility. The user is fully liable for providing false registration information.</span>
-            <span class="lang-ta">Tamil Pasanga 18 வயது மற்றும் அதற்கு மேற்பட்டவர்களுக்காக மட்டுமே உருவாக்கப்பட்டுள்ளது. பதிவு செய்யும் போது வழங்கப்படும் பிறந்த தேதியின் அடிப்படையில் வயது சரிபார்க்கப்படுகிறது. தவறான பிறந்த தேதியை வழங்கி கணக்கு உருவாக்கும் பயனர் அதன் முழுப் பொறுப்பையும் ஏற்க வேண்டும். அத்தகைய தவறான தகவலால் ஏற்படும் எந்தவொரு பாதிப்பிற்கும் Tamil Pasanga பொறுப்பேற்காது.</span>
+            <span class="lang-en"><span class="tp-name">Tamil Pasanga</span> is strictly for users aged 18 and above. Age is verified using the date of birth provided during registration. If a user registers with a false date of birth and causes any harm, <span class="tp-name">Tamil Pasanga</span> bears no responsibility. The user is fully liable for providing false registration information.</span>
+            <span class="lang-ta"><span class="tp-name">தமிழ் பசங்க</span> 18 வயது மற்றும் அதற்கு மேற்பட்டவர்களுக்காக மட்டுமே உருவாக்கப்பட்டுள்ளது. பதிவு செய்யும் போது வழங்கப்படும் பிறந்த தேதியின் அடிப்படையில் வயது சரிபார்க்கப்படுகிறது. தவறான பிறந்த தேதியை வழங்கி கணக்கு உருவாக்கும் பயனர் அதன் முழுப் பொறுப்பையும் ஏற்க வேண்டும். அத்தகைய தவறான தகவலால் ஏற்படும் எந்தவொரு பாதிப்பிற்கும் <span class="tp-name">தமிழ் பசங்க</span> பொறுப்பேற்காது.</span>
           </p>
         </div>
       </div>
@@ -92,8 +92,8 @@ include 'includes/nav.php';
             <span class="lang-ta">கணக்கு செயலிழப்பு மற்றும் இருப்புத் தொகை முடக்கம்</span>
           </h3>
           <p style="font-size:15px;color:var(--gray-600);line-height:1.75;">
-            <span class="lang-en">If an account is deactivated by admin for illegal, violent, or repeatedly harmful activity, the user permanently loses access to the app. All e-wallet balance and campaign balance associated with the deactivated account will also be frozen and inaccessible.</span>
-            <span class="lang-ta">சட்டவிரோத, வன்முறை அல்லது சமூகத்திற்கு தீங்கு விளைவிக்கும் செயல்பாடுகளுக்காக ஒரு கணக்கு நிர்வாகத்தால் செயலிழக்கச் செய்யப்பட்டால், அந்த பயனர் தளத்தை மீண்டும் பயன்படுத்த முடியாது. மேலும், அந்தக் கணக்குடன் தொடர்புடைய e-Wallet இருப்பு மற்றும் Campaign இருப்புகள் அனைத்தும் முடக்கப்படலாம் மற்றும் அணுக முடியாததாக மாற்றப்படலாம்.</span>
+            <span class="lang-en">If an account is deactivated by admin for illegal, violent, or repeatedly harmful activity, the user permanently loses access to the app. All e-wallet balance and ad balance associated with the deactivated account will also be frozen and inaccessible.</span>
+            <span class="lang-ta">சட்டவிரோத, வன்முறை அல்லது சமூகத்திற்கு தீங்கு விளைவிக்கும் செயல்பாடுகளுக்காக ஒரு கணக்கு நிர்வாகத்தால் செயலிழக்கச் செய்யப்பட்டால், அந்த பயனர் தளத்தை மீண்டும் பயன்படுத்த முடியாது. மேலும், அந்தக் கணக்குடன் தொடர்புடைய e-Wallet இருப்பு மற்றும் Ad இருப்புகள் அனைத்தும் முடக்கப்படலாம் மற்றும் அணுக முடியாததாக மாற்றப்படலாம்.</span>
           </p>
         </div>
       </div>
@@ -106,8 +106,8 @@ include 'includes/nav.php';
             <span class="lang-ta">அரசு மற்றும் சட்ட அமலாக்க அமைப்புகளுடன் ஒத்துழைப்பு</span>
           </h3>
           <p style="font-size:15px;color:var(--gray-600);line-height:1.75;">
-            <span class="lang-en">If a government authority makes a lawful request with proper legal evidence regarding illegal or violent content created by a user, Tamil Pasanga will fully cooperate and disclose the relevant user's contact information and activity records. We take our legal obligations seriously.</span>
-            <span class="lang-ta">சட்டபூர்வமான ஆதாரங்களுடன் கூடிய அரசு அல்லது சட்ட அமலாக்க அமைப்புகளின் கோரிக்கை கிடைத்தால், குறிப்பாக சட்டவிரோத அல்லது வன்முறை சார்ந்த உள்ளடக்கங்கள் தொடர்பான விசாரணைகளில், Tamil Pasanga தேவையான அளவில் ஒத்துழைக்கும். சட்டப்படி அவசியமான சூழ்நிலைகளில், சம்பந்தப்பட்ட பயனரின் தொடர்பு தகவல்கள் மற்றும் தளப் பயன்பாட்டு பதிவுகள் அதிகாரிகளுக்கு வழங்கப்படலாம்.</span>
+            <span class="lang-en">If a government authority makes a lawful request with proper legal evidence regarding illegal or violent content created by a user, <span class="tp-name">Tamil Pasanga</span> will fully cooperate and disclose the relevant user's contact information and activity records. We take our legal obligations seriously.</span>
+            <span class="lang-ta">சட்டபூர்வமான ஆதாரங்களுடன் கூடிய அரசு அல்லது சட்ட அமலாக்க அமைப்புகளின் கோரிக்கை கிடைத்தால், குறிப்பாக சட்டவிரோத அல்லது வன்முறை சார்ந்த உள்ளடக்கங்கள் தொடர்பான விசாரணைகளில், <span class="tp-name">தமிழ் பசங்க</span> தேவையான அளவில் ஒத்துழைக்கும். சட்டப்படி அவசியமான சூழ்நிலைகளில், சம்பந்தப்பட்ட பயனரின் தொடர்பு தகவல்கள் மற்றும் தளப் பயன்பாட்டு பதிவுகள் அதிகாரிகளுக்கு வழங்கப்படலாம்.</span>
           </p>
         </div>
       </div>
@@ -120,8 +120,8 @@ include 'includes/nav.php';
             <span class="lang-ta">பதிவுகளில் தனிப்பட்ட தொடர்பு விவரங்களுக்கு தடை</span>
           </h3>
           <p style="font-size:15px;color:var(--gray-600);line-height:1.75;">
-            <span class="lang-en">To protect users from fraud, personal phone numbers, UPI IDs, QR codes, and bank information are strictly prohibited in posts and comments. If a user donates money to someone based on unverified financial information shared on the platform, Tamil Pasanga is not responsible for any fraud or loss.</span>
-            <span class="lang-ta">பயனர்களை மோசடிகளில் இருந்து பாதுகாக்கும் நோக்கில், தனிப்பட்ட தொலைபேசி எண்கள், UPI ID-கள், QR குறியீடுகள், வங்கிக் கணக்கு விவரங்கள் மற்றும் பிற நிதி தகவல்களை பதிவுகள் அல்லது கருத்துகளில் பகிர்வது முற்றிலும் தடைசெய்யப்பட்டுள்ளது. சரிபார்க்கப்படாத தகவல்களின் அடிப்படையில் யாரேனும் பண பரிவர்த்தனை செய்தால் அல்லது நன்கொடை வழங்கினால், அதனால் ஏற்படும் இழப்புகள் அல்லது மோசடிகளுக்கு Tamil Pasanga பொறுப்பாகாது.</span>
+            <span class="lang-en">To protect users from fraud, personal phone numbers, UPI IDs, QR codes, and bank information are strictly prohibited in posts and comments. If a user donates money to someone based on unverified financial information shared on the platform, <span class="tp-name">Tamil Pasanga</span> is not responsible for any fraud or loss.</span>
+            <span class="lang-ta">பயனர்களை மோசடிகளில் இருந்து பாதுகாக்கும் நோக்கில், தனிப்பட்ட தொலைபேசி எண்கள், UPI ID-கள், QR குறியீடுகள், வங்கிக் கணக்கு விவரங்கள் மற்றும் பிற நிதி தகவல்களை பதிவுகள் அல்லது கருத்துகளில் பகிர்வது முற்றிலும் தடைசெய்யப்பட்டுள்ளது. சரிபார்க்கப்படாத தகவல்களின் அடிப்படையில் யாரேனும் பண பரிவர்த்தனை செய்தால் அல்லது நன்கொடை வழங்கினால், அதனால் ஏற்படும் இழப்புகள் அல்லது மோசடிகளுக்கு <span class="tp-name">தமிழ் பசங்க</span> பொறுப்பாகாது.</span>
           </p>
         </div>
       </div>
@@ -152,8 +152,8 @@ include 'includes/nav.php';
     <div class="text-center">
       <div class="badge" data-aos><span class="lang-en">Important Disclaimers</span><span class="lang-ta">முக்கிய பொறுப்புத்துறப்புகள்</span></div>
       <h2 class="section-title" id="disclaimer-h" data-aos data-aos-delay="100">
-        <span class="lang-en">What Tamil Pasanga Cannot Guarantee</span>
-        <span class="lang-ta">Tamil Pasanga உறுதி செய்ய முடியாத விஷயங்கள்</span>
+        <span class="lang-en">What <span class="tp-name">Tamil Pasanga</span> Cannot Guarantee</span>
+        <span class="lang-ta"><span class="tp-name">தமிழ் பசங்க</span> உறுதி செய்ய முடியாத விஷயங்கள்</span>
       </h2>
       <p class="section-sub" data-aos data-aos-delay="200">
         <span class="lang-en">We take every step to maintain platform safety, but certain areas are outside our direct control.</span>
@@ -168,9 +168,9 @@ include 'includes/nav.php';
           <span class="lang-ta">வெளிப்புற இணையதளங்கள் மற்றும் URL-கள்</span>
         </h3>
         <p style="font-size:14px;color:var(--gray-500);line-height:1.75;">
-          <span class="lang-en">Users can add a website URL to their profile. These URLs are not verified by Tamil Pasanga. We are not responsible for any misleading or harmful content on external websites linked from user profiles.</span>
-          <span class="lang-ta">பயனர்கள் தங்களின் Profile-இல் இணையதள முகவரிகளை (URL) சேர்க்கலாம். இந்த இணையதளங்கள் Tamil Pasanga-வால் சரிபார்க்கப்படுவதில்லை.
-            பயனர் Profile-களில் இணைக்கப்பட்டுள்ள வெளிப்புற இணையதளங்களில் உள்ள தவறான, வழிதவறச் செய்யும் அல்லது தீங்கு விளைவிக்கும் உள்ளடக்கங்களுக்கு Tamil Pasanga எந்தவித பொறுப்பும் ஏற்காது.</span>
+          <span class="lang-en">Users can add a website URL to their profile. These URLs are not verified by <span class="tp-name">Tamil Pasanga</span>. We are not responsible for any misleading or harmful content on external websites linked from user profiles.</span>
+          <span class="lang-ta">பயனர்கள் தங்களின் Profile-இல் இணையதள முகவரிகளை (URL) சேர்க்கலாம். இந்த இணையதளங்கள் <span class="tp-name">தமிழ் பசங்க</span>வால் சரிபார்க்கப்படுவதில்லை.
+            பயனர் Profile-களில் இணைக்கப்பட்டுள்ள வெளிப்புற இணையதளங்களில் உள்ள தவறான, வழிதவறச் செய்யும் அல்லது தீங்கு விளைவிக்கும் உள்ளடக்கங்களுக்கு <span class="tp-name">தமிழ் பசங்க</span> எந்தவித பொறுப்பும் ஏற்காது.</span>
         </p>
       </div>
       <div style="background:#fff;border:1px solid var(--gray-200);border-radius:var(--radius-lg);padding:28px;" data-aos data-aos-delay="100">
@@ -193,7 +193,7 @@ include 'includes/nav.php';
         </h3>
         <p style="font-size:14px;color:var(--gray-500);line-height:1.75;">
           <span class="lang-en">House of Mercy, orphanage, and voluntary team listings are community-submitted and not verified by us. If you wish to donate or support, we advise a direct in-person visit to confirm the organisation before giving any contributions.</span>
-          <span class="lang-ta">கருணை இல்லங்கள், ஆதரவற்றோர் இல்லங்கள் மற்றும் தன்னார்வ சேவை அமைப்புகளின் பட்டியல்கள் சமூக உறுப்பினர்களால் சமர்ப்பிக்கப்படுகின்றன. இவை Tamil Pasanga-வால் தனித்தனியாக சரிபார்க்கப்படுவதில்லை.
+          <span class="lang-ta">கருணை இல்லங்கள், ஆதரவற்றோர் இல்லங்கள் மற்றும் தன்னார்வ சேவை அமைப்புகளின் பட்டியல்கள் சமூக உறுப்பினர்களால் சமர்ப்பிக்கப்படுகின்றன. இவை <span class="tp-name">தமிழ் பசங்க</span>வால் தனித்தனியாக சரிபார்க்கப்படுவதில்லை.
             நன்கொடை வழங்கவோ அல்லது உதவிகளைச் செய்யவோ விரும்பும் பயனர்கள், அந்த அமைப்புகளை நேரில் சென்று உறுதிப்படுத்திய பிறகே எந்தவொரு பங்களிப்பையும் வழங்குமாறு பரிந்துரைக்கப்படுகிறது.</span>
         </p>
       </div>
@@ -225,8 +225,8 @@ include 'includes/nav.php';
           <span class="lang-ta">ஏதாவது தவறாகத் தெரிகிறதா? <span class="highlight">புகாரளியுங்கள்.</span></span>
         </h2>
         <p style="font-size:16px;color:var(--gray-500);line-height:1.85;margin-bottom:16px;" data-aos data-aos-delay="200">
-          <span class="lang-en">Tamil Pasanga's safety system depends on every community member playing their part. If you see harmful, fake, or violating content, use the in-app report button.</span>
-          <span class="lang-ta">Tamil Pasanga-வின் பாதுகாப்பு அமைப்பு, சமூகத்தின் ஒவ்வொரு உறுப்பினரும் பொறுப்புடன் செயல்படுவதையே அடிப்படையாகக் கொண்டுள்ளது. தீங்கு விளைவிக்கும், போலியான அல்லது விதிமுறைகளை மீறும் உள்ளடக்கங்களை நீங்கள் கண்டால், செயலியில் உள்ள Report வசதியை பயன்படுத்தி புகாரளிக்கலாம்.</span>
+          <span class="lang-en"><span class="tp-name">Tamil Pasanga</span>'s safety system depends on every community member playing their part. If you see harmful, fake, or violating content, use the in-app report button.</span>
+          <span class="lang-ta"><span class="tp-name">தமிழ் பசங்க</span>வின் பாதுகாப்பு அமைப்பு, சமூகத்தின் ஒவ்வொரு உறுப்பினரும் பொறுப்புடன் செயல்படுவதையே அடிப்படையாகக் கொண்டுள்ளது. தீங்கு விளைவிக்கும், போலியான அல்லது விதிமுறைகளை மீறும் உள்ளடக்கங்களை நீங்கள் கண்டால், செயலியில் உள்ள Report வசதியை பயன்படுத்தி புகாரளிக்கலாம்.</span>
         </p>
         <p style="font-size:16px;color:var(--gray-500);line-height:1.85;margin-bottom:28px;" data-aos data-aos-delay="300">
           <span class="lang-en">Valid reports are reviewed by our admin team. When your report is confirmed as a genuine violation, the Supercoins you spent to report are refunded with bonus credits as a thank-you for keeping the community safe.</span>
@@ -254,8 +254,8 @@ include 'includes/nav.php';
       <span class="lang-ta">பொறுப்பான சமூகத்தில் இணையுங்கள்</span>
     </h2>
     <p class="section-sub section-sub-white" data-aos data-aos-delay="200" style="margin-bottom:0;">
-      <span class="lang-en">Tamil Pasanga is built on trust, awareness, and accountability. Download the app and be part of something meaningful.</span>
-      <span class="lang-ta">நம்பிக்கை, விழிப்புணர்வு மற்றும் பொறுப்புணர்வு ஆகியவற்றின் அடிப்படையில் உருவாக்கப்பட்ட தளமே Tamil Pasanga. அர்த்தமுள்ள ஒரு மாற்றத்தின் பகுதியாக இன்று நீங்கள் இணையலாம்.</span>
+      <span class="lang-en"><span class="tp-name">Tamil Pasanga</span> is built on trust, awareness, and accountability. Download the app and be part of something meaningful.</span>
+      <span class="lang-ta">நம்பிக்கை, விழிப்புணர்வு மற்றும் பொறுப்புணர்வு ஆகியவற்றின் அடிப்படையில் உருவாக்கப்பட்ட தளமே <span class="tp-name">தமிழ் பசங்க</span>. அர்த்தமுள்ள ஒரு மாற்றத்தின் பகுதியாக இன்று நீங்கள் இணையலாம்.</span>
     </p>
     <div class="store-btns" data-aos data-aos-delay="300">
       <a href="https://play.google.com/store/apps/details?id=in.tamilpasanga.app" class="store-btn" target="_blank" rel="noopener"><i class="bi bi-google-play"></i><div><span class="store-btn-sub"><span class="lang-en">Get it on</span><span class="lang-ta">பெறுங்கள்</span></span><span class="store-btn-name">Google Play</span></div></a>

@@ -19,8 +19,8 @@ include 'includes/nav.php';
     </nav>
     <h1><span class="lang-en">About Our Platform</span><span class="lang-ta">எங்கள் தளத்தைப் பற்றி</span></h1>
     <p>
-      <span class="lang-en">Tamil Pasanga is a purpose-built awareness platform — not entertainment. Here's exactly how it works.</span>
-      <span class="lang-ta">Tamil Pasanga ஒரு நோக்கத்துடன் உருவாக்கப்பட்ட விழிப்புணர்வு தளம் — பொழுதுபோக்கு அல்ல. இது எப்படி செயல்படுகிறது என்பதை இங்கே தெளிவாக அறியலாம்.</span>
+      <span class="lang-en"><span class="tp-name">Tamil Pasanga</span> is a purpose-built awareness platform — not entertainment. Here's exactly how it works.</span>
+      <span class="lang-ta"><span class="tp-name">தமிழ் பசங்க</span> ஒரு நோக்கத்துடன் உருவாக்கப்பட்ட விழிப்புணர்வு தளம் — பொழுதுபோக்கு அல்ல. இது எப்படி செயல்படுகிறது என்பதை இங்கே தெளிவாக அறியலாம்.</span>
     </p>
   </div>
 </header>
@@ -34,8 +34,8 @@ include 'includes/nav.php';
       <span class="lang-ta">விழிப்புணர்வுக்காக உருவாக்கப்பட்டது. அடிமைத்தன்மைக்காக அல்ல.</span>
     </h2>
     <p class="section-sub" data-aos data-aos-delay="200">
-      <span class="lang-en">Every feature on Tamil Pasanga is designed around one goal — spreading genuine awareness across Tamil Nadu.</span>
-      <span class="lang-ta">Tamil Pasanga-வில் உள்ள ஒவ்வொரு அம்சமும் ஒரு தெளிவான நோக்கத்துடன் வடிவமைக்கப்பட்டுள்ளது — தமிழ்நாடு முழுவதும் உண்மையான விழிப்புணர்வை பரப்புவது.</span>
+      <span class="lang-en">Every feature on <span class="tp-name">Tamil Pasanga</span> is designed around one goal — spreading genuine awareness across Tamil Nadu.</span>
+      <span class="lang-ta"><span class="tp-name">தமிழ் பசங்க</span>வில் உள்ள ஒவ்வொரு அம்சமும் ஒரு தெளிவான நோக்கத்துடன் வடிவமைக்கப்பட்டுள்ளது — தமிழ்நாடு முழுவதும் உண்மையான விழிப்புணர்வை பரப்புவது.</span>
     </p>
     <div class="grid-4" style="margin-top:0;">
       <div style="text-align:center;padding:28px 20px;border-radius:var(--radius-lg);background:var(--primary-light);border:1.5px solid #ddd6fe;" data-aos data-aos-delay="100">
@@ -76,8 +76,8 @@ include 'includes/nav.php';
         <span class="feat-tag"><span class="lang-en">Awareness Content</span><span class="lang-ta">விழிப்புணர்வு உள்ளடக்கம்</span></span>
         <h3 class="feat-title"><span class="lang-en">Post awareness that makes a difference</span><span class="lang-ta">மாற்றத்தை உருவாக்கும் பதிவுகளைப் பகிருங்கள்</span></h3>
         <p class="feat-desc">
-          <span class="lang-en">Tamil Pasanga is strictly an awareness platform — every post must belong to one of five approved topic categories. There is no entertainment, no viral trends, no personal drama. Just meaningful content for the Tamil community.</span>
-          <span class="lang-ta">Tamil Pasanga ஒரு கடுமையான விழிப்புணர்வு தளம் — ஒவ்வொரு பதிவும் அனுமதிக்கப்பட்ட 5 தலைப்புகளில் ஒன்றிற்குள் வர வேண்டும். இங்கு பொழுதுபோக்கு, வைரல் டிரெண்ட்கள் அல்லது தனிப்பட்ட டிராமா எதுவும் இல்லை. தமிழர் சமூகத்திற்கு பயனுள்ள அர்த்தமுள்ள உள்ளடக்கங்களே முக்கியம்.</span>
+          <span class="lang-en"><span class="tp-name">Tamil Pasanga</span> is strictly an awareness platform — every post must belong to one of five approved topic categories. There is no entertainment, no viral trends, no personal drama. Just meaningful content for the Tamil community.</span>
+          <span class="lang-ta"><span class="tp-name">தமிழ் பசங்க</span> ஒரு கடுமையான விழிப்புணர்வு தளம் — ஒவ்வொரு பதிவும் அனுமதிக்கப்பட்ட 5 தலைப்புகளில் ஒன்றிற்குள் வர வேண்டும். இங்கு பொழுதுபோக்கு, வைரல் டிரெண்ட்கள் அல்லது தனிப்பட்ட டிராமா எதுவும் இல்லை. தமிழர் சமூகத்திற்கு பயனுள்ள அர்த்தமுள்ள உள்ளடக்கங்களே முக்கியம்.</span>
         </p>
         <ul class="feat-points">
           <li><span class="check-icon"><i class="bi bi-check-lg"></i></span> <span class="lang-en">அனுமதிக்கப்பட்ட 5 பிரிவுகள்:ஆரோக்கியம், சமூகப் பிரச்சினைகள், சுற்றுச்சூழல், கல்வி, விவசாயம், </span><span class="lang-ta">5 வகைகள்: சுகாதாரம், சமூகம், சுற்றுச்சூழல், கல்வி, விவசாயம்</span></li>
@@ -178,8 +178,8 @@ include 'includes/nav.php';
           <span class="lang-ta">கவனமாக இருக்கும் தமிழர் பார்வையாளர்களை அடையுங்கள்</span>
         </h2>
         <p style="font-size:16px;color:var(--gray-500);line-height:1.85;margin-bottom:28px;" data-aos data-aos-delay="200">
-          <span class="lang-en">Every ad on Tamil Pasanga is watched voluntarily. Users open the dedicated Ads tab by choice, watch the full ad, and complete a captcha — meaning your message reaches people who are actively paying attention, not scrolling past.</span>
-          <span class="lang-ta">Tamil Pasanga-வில் உள்ள ஒவ்வொரு விளம்பரமும் பயனரின் விருப்பத்தின்படி பார்க்கப்படுகிறது. பயனர்கள் Ads tab-ஐ திறந்து முழு விளம்பரத்தையும் பார்த்து captcha முடிக்கிறார்கள் — இதனால் உங்கள் விளம்பரம் கவனத்துடன் பார்க்கப்படுகிறது.</span>
+          <span class="lang-en">Every ad on <span class="tp-name">Tamil Pasanga</span> is watched voluntarily. Users open the dedicated Ads tab by choice, watch the full ad, and complete a captcha — meaning your message reaches people who are actively paying attention, not scrolling past.</span>
+          <span class="lang-ta"><span class="tp-name">தமிழ் பசங்க</span>வில் உள்ள ஒவ்வொரு விளம்பரமும் பயனரின் விருப்பத்தின்படி பார்க்கப்படுகிறது. பயனர்கள் Ads tab-ஐ திறந்து முழு விளம்பரத்தையும் பார்த்து captcha முடிக்கிறார்கள் — இதனால் உங்கள் விளம்பரம் கவனத்துடன் பார்க்கப்படுகிறது.</span>
         </p>
         <div class="grid-2" style="gap:16px;margin-bottom:28px;" data-aos data-aos-delay="300">
           <div style="background:var(--gray-50);border-radius:var(--radius);padding:20px;border:1px solid var(--gray-200);">
@@ -218,8 +218,8 @@ include 'includes/nav.php';
     <div class="badge badge-white" data-aos><span class="lang-en">Get Started</span><span class="lang-ta">தொடங்குங்கள்</span></div>
     <h2 class="section-title section-title-white" data-aos data-aos-delay="100"><span class="lang-en">Experience it yourself</span><span class="lang-ta">உண்மையான அனுபவத்தை முயற்சிக்கவும்</span></h2>
     <p class="section-sub section-sub-white" data-aos data-aos-delay="200" style="margin-bottom:0;">
-      <span class="lang-en">Download Tamil Pasanga for free and see how it works in your hands.</span>
-      <span class="lang-ta">Tamil Pasanga-வை இலவசமாக பதிவிறக்கி, இது உங்கள் கைகளில் எப்படி செயல்படுகிறது என்பதை அனுபவிக்குங்கள்.</span>
+      <span class="lang-en">Download <span class="tp-name">Tamil Pasanga</span> for free and see how it works in your hands.</span>
+      <span class="lang-ta"><span class="tp-name">தமிழ் பசங்க</span>வை இலவசமாக பதிவிறக்கி, இது உங்கள் கைகளில் எப்படி செயல்படுகிறது என்பதை அனுபவிக்குங்கள்.</span>
     </p>
     <div class="store-btns" data-aos data-aos-delay="300">
       <a href="https://play.google.com/store/apps/details?id=in.tamilpasanga.app" class="store-btn" target="_blank" rel="noopener"><span class="store-btn-icon"><i class="bi bi-google-play"></i></span><div><span class="store-btn-sub"><span class="lang-en">Get it on</span><span class="lang-ta">இப்போதே பெறுங்கள்</span></span><span class="store-btn-name">Google Play</span></div></a>

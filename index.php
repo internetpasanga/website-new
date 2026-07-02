@@ -49,8 +49,8 @@ include 'includes/nav.php';
             <span class="lang-ta"><em>விழிப்புணர்வை உருவாக்குங்கள்,</em> மாற்றத்தை ஊக்குவிக்குங்கள்</span>
           </h1>
           <p class="hero-desc">
-            <span class="lang-en">Tamil Pasanga was created with one mission — to spread meaningful awareness across the Tamil community. We share valuable content on social issues, healthy living, environmental safety, education, and farming to inspire knowledge, growth, and positive change.</span>
-            <span class="lang-ta">Tamil Pasanga ஒரு ஒரே நோக்கத்துடன் உருவாக்கப்பட்டது — தமிழர் சமூகத்தில் அர்த்தமுள்ள விழிப்புணர்வை பரப்புவது. சமூகப் பிரச்சினைகள், ஆரோக்கியமான வாழ்க்கை முறை, சுற்றுச்சூழல் பாதுகாப்பு, கல்வி மற்றும் விவசாயம் போன்ற தலைப்புகளில் மதிப்புமிக்க உள்ளடக்கங்களை பகிர்ந்து, அறிவு, முன்னேற்றம் மற்றும் நேர்மறை மாற்றத்தை ஊக்குவிக்கிறோம்.</span>
+            <span class="lang-en"><span class="tp-name">Tamil Pasanga</span> was created with one mission — to spread meaningful awareness across the Tamil community. We share valuable content on social issues, healthy living, environmental safety, education, and farming to inspire knowledge, growth, and positive change.</span>
+            <span class="lang-ta"><span class="tp-name">தமிழ் பசங்க</span> ஒரு ஒரே நோக்கத்துடன் உருவாக்கப்பட்டது — தமிழர் சமூகத்தில் அர்த்தமுள்ள விழிப்புணர்வை பரப்புவது. சமூகப் பிரச்சினைகள், ஆரோக்கியமான வாழ்க்கை முறை, சுற்றுச்சூழல் பாதுகாப்பு, கல்வி மற்றும் விவசாயம் போன்ற தலைப்புகளில் மதிப்புமிக்க உள்ளடக்கங்களை பகிர்ந்து, அறிவு, முன்னேற்றம் மற்றும் நேர்மறை மாற்றத்தை ஊக்குவிக்கிறோம்.</span>
           </p>
           <div class="hero-actions">
             <a href="https://play.google.com/store/apps/details?id=in.tamilpasanga.app" class="btn btn-white btn-lg" target="_blank" rel="noopener"><i class="bi bi-google-play"></i> Google Play</a>
@@ -129,8 +129,8 @@ include 'includes/nav.php';
             <span class="lang-ta"><em style="color:#fbbf24;">ஆரோக்கிய உணவு & இயற்கை விவசாய </em> இடங்களைப் பகிருங்கள்.</span>
           </h1>
           <p class="hero-desc">
-            <span class="lang-en">Looking for shops, farms, or local places that support healthy food, organic products, and natural farming? Explore and share useful locations with Tamil Pasanga to help others discover healthier choices and sustainable farming practices within the Tamil community.</span>
-            <span class="lang-ta">ஆரோக்கியமான உணவு, இயற்கை விவசாயம் மற்றும் இயற்கை தயாரிப்புகளை ஆதரிக்கும் கடைகள், பண்ணைகள் அல்லது உள்ளூர் இடங்களைத் தேடுகிறீர்களா? Tamil Pasanga-வில் அவற்றை கண்டறிந்து, பகிர்ந்து கொள்ளுங்கள். இதன் மூலம் தமிழர் சமூகத்தில் ஆரோக்கியமான தேர்வுகளும் நிலையான விவசாய நடைமுறைகளும் வளர உதவுங்கள்.</span>
+            <span class="lang-en">Looking for shops, farms, or local places that support healthy food, organic products, and natural farming? Explore and share useful locations with <span class="tp-name">Tamil Pasanga</span> to help others discover healthier choices and sustainable farming practices within the Tamil community.</span>
+            <span class="lang-ta">ஆரோக்கியமான உணவு, இயற்கை விவசாயம் மற்றும் இயற்கை தயாரிப்புகளை ஆதரிக்கும் கடைகள், பண்ணைகள் அல்லது உள்ளூர் இடங்களைத் தேடுகிறீர்களா? <span class="tp-name">தமிழ் பசங்க</span>வில் அவற்றை கண்டறிந்து, பகிர்ந்து கொள்ளுங்கள். இதன் மூலம் தமிழர் சமூகத்தில் ஆரோக்கியமான தேர்வுகளும் நிலையான விவசாய நடைமுறைகளும் வளர உதவுங்கள்.</span>
           </p>
           <div class="hero-actions">
             <a href="https://play.google.com/store/apps/details?id=in.tamilpasanga.app" class="btn btn-white btn-lg" target="_blank" rel="noopener"><i class="bi bi-google-play"></i> <span class="lang-en">Get the App</span><span class="lang-ta">ஆப்பை பெறுங்கள்</span></a>
@@ -222,8 +222,8 @@ include 'includes/nav.php';
             <span class="lang-ta">விளம்பரங்களைப் பாருங்கள்.<br><em style="color:#fbbf24;">உண்மையான வருமானம் ஈட்டுங்கள்.</em></span>
           </h1>
           <p class="hero-desc">
-            <span class="lang-en">Tamil Pasanga’s dedicated Ads tab lets you watch short ads and earn real money directly to your e-wallet. Before you start, you can clearly see the ad duration and your earnings. Everything is your choice — nothing is forced into your feed, and you watch only when you want.</span>
-            <span class="lang-ta">Tamil Pasanga-வின் தனிப்பட்ட Ads பகுதியில் குறுகிய விளம்பரங்களைப் பார்த்து நேரடியாக உங்கள் e-Wallet-க்கு வருமானம் பெறலாம். தொடங்குவதற்கு முன் விளம்பரத்தின் நேரம் மற்றும் கிடைக்கும் வருமானம் தெளிவாகக் காட்டப்படும். அனைத்தும் உங்கள் விருப்பப்படி — உங்கள் Feed-ல் கட்டாய விளம்பரங்கள் இல்லை. நீங்கள் விரும்பும் நேரத்தில் மட்டுமே பாருங்கள்.</span>
+            <span class="lang-en"><span class="tp-name">Tamil Pasanga</span>’s dedicated Ads tab lets you watch short ads and earn real money directly to your e-wallet. Before you start, you can clearly see the ad duration and your earnings. Everything is your choice — nothing is forced into your feed, and you watch only when you want.</span>
+            <span class="lang-ta"><span class="tp-name">தமிழ் பசங்க</span>வின் தனிப்பட்ட Ads பகுதியில் குறுகிய விளம்பரங்களைப் பார்த்து நேரடியாக உங்கள் e-Wallet-க்கு வருமானம் பெறலாம். தொடங்குவதற்கு முன் விளம்பரத்தின் நேரம் மற்றும் கிடைக்கும் வருமானம் தெளிவாகக் காட்டப்படும். அனைத்தும் உங்கள் விருப்பப்படி — உங்கள் Feed-ல் கட்டாய விளம்பரங்கள் இல்லை. நீங்கள் விரும்பும் நேரத்தில் மட்டுமே பாருங்கள்.</span>
           </p>
           <div class="hero-actions">
             <a href="https://play.google.com/store/apps/details?id=in.tamilpasanga.app" class="btn btn-white btn-lg" target="_blank" rel="noopener"><i class="bi bi-google-play"></i> <span class="lang-en">Start Earning</span><span class="lang-ta">சம்பாதிக்க தொடங்குங்கள்</span></a>
@@ -309,8 +309,8 @@ include 'includes/nav.php';
           <span class="lang-ta">பொழுதுபோக்கிற்காக அல்ல.<br><span class="highlight">விழிப்புணர்விற்காக மட்டுமே.</span></span>
         </h2>
         <p style="font-size:17px;color:var(--gray-500);line-height:1.8;margin-bottom:16px;" data-aos data-aos-delay="200">
-          <span class="lang-en">Tamil Pasanga is not a general social media app. It is a dedicated awareness platform for the Tamil community — focused only on content that informs, educates, and uplifts.</span>
-          <span class="lang-ta">தமிழ் பசங்க என்பது ஒரு சாதாரண சமூக ஊடக செயலி அல்ல. தமிழர் சமூகத்திற்காக உருவாக்கப்பட்ட ஒரு தனித்துவமான விழிப்புணர்வு தளம். மக்களுக்கு பயனுள்ள தகவல்களை வழங்கி, கல்வி கற்பித்து, சமூக முன்னேற்றத்தை ஊக்குவிக்கும் உள்ளடக்கங்களுக்கு மட்டுமே இங்கு இடம் உண்டு.</span>
+          <span class="lang-en"><span class="tp-name">Tamil Pasanga</span> is not a general social media app. It is a dedicated awareness platform for the Tamil community — focused only on content that informs, educates, and uplifts.</span>
+          <span class="lang-ta"><span class="tp-name">தமிழ் பசங்க</span> என்பது ஒரு சாதாரண சமூக ஊடக செயலி அல்ல. தமிழர் சமூகத்திற்காக உருவாக்கப்பட்ட ஒரு தனித்துவமான விழிப்புணர்வு தளம். மக்களுக்கு பயனுள்ள தகவல்களை வழங்கி, கல்வி கற்பித்து, சமூக முன்னேற்றத்தை ஊக்குவிக்கும் உள்ளடக்கங்களுக்கு மட்டுமே இங்கு இடம் உண்டு.</span>
         </p>
         <p style="font-size:16px;color:var(--gray-500);line-height:1.8;margin-bottom:28px;" data-aos data-aos-delay="300">
           <span class="lang-en">No entertainment posts. No viral noise. No algorithm deciding what you see. You choose the topics that matter to you, and every Supercoin you spend creating good content can be earned right back.</span>
@@ -372,7 +372,7 @@ include 'includes/nav.php';
       <div class="vision-card" data-aos data-aos-delay="100">
         <div class="vision-card-icon"><i class="bi bi-megaphone"></i></div>
         <h3><span class="lang-en">Awareness Over Entertainment</span><span class="lang-ta">பொழுதுபோக்கை விட விழிப்புணர்வுக்கு முன்னுரிமை</span></h3>
-        <p><span class="lang-en">Every post on Tamil Pasanga must serve a purpose — social issues, health foods, environment safety, education, or farming. No entertainment. Only content that matters.</span><span class="lang-ta">Tamil Pasanga-வில் பகிரப்படும் ஒவ்வொரு பதிவும் சமூகத்திற்கு பயனுள்ளதாக இருக்க வேண்டும். சமூகப் பிரச்சினைகள், ஆரோக்கியமான உணவுகள், சுற்றுச்சூழல் பாதுகாப்பு, கல்வி மற்றும் விவசாயம் போன்ற தலைப்புகளுக்கே இங்கு இடம் உண்டு. பொழுதுபோக்கிற்காக அல்ல, விழிப்புணர்வை உருவாக்குவதற்காக மட்டுமே இந்த தளம் செயல்படுகிறது.</span></p>
+        <p><span class="lang-en">Every post on <span class="tp-name">Tamil Pasanga</span> must serve a purpose — social issues, health foods, environment safety, education, or farming. No entertainment. Only content that matters.</span><span class="lang-ta"><span class="tp-name">தமிழ் பசங்க</span>வில் பகிரப்படும் ஒவ்வொரு பதிவும் சமூகத்திற்கு பயனுள்ளதாக இருக்க வேண்டும். சமூகப் பிரச்சினைகள், ஆரோக்கியமான உணவுகள், சுற்றுச்சூழல் பாதுகாப்பு, கல்வி மற்றும் விவசாயம் போன்ற தலைப்புகளுக்கே இங்கு இடம் உண்டு. பொழுதுபோக்கிற்காக அல்ல, விழிப்புணர்வை உருவாக்குவதற்காக மட்டுமே இந்த தளம் செயல்படுகிறது.</span></p>
       </div>
       <div class="vision-card" data-aos data-aos-delay="200">
         <div class="vision-card-icon"><i class="bi bi-coin"></i></div>
@@ -382,7 +382,7 @@ include 'includes/nav.php';
       <div class="vision-card" data-aos data-aos-delay="300">
         <div class="vision-card-icon"><i class="bi bi-shield-check"></i></div>
         <h3><span class="lang-en">Safe, Accountable Community</span><span class="lang-ta">பாதுகாப்பான மற்றும் பொறுப்பான சமூக தளம்</span></h3>
-        <p><span class="lang-en">Admin-monitored content, Supercoin accountability, age verification, and community reporting keep Tamil Pasanga a trustworthy space for every family.</span><span class="lang-ta">நிர்வாகக் கண்காணிப்பு, Supercoin பொறுப்புணர்வு முறை, வயது சரிபார்ப்பு மற்றும் சமூக உறுப்பினர்களின் புகாரளிப்பு வசதி ஆகியவை Tamil Pasanga-வை அனைவரும் நம்பிக்கையுடன் பயன்படுத்தக்கூடிய பாதுகாப்பான தளமாக மாற்றுகின்றன. குடும்பத்தினர் அனைவருக்கும் ஏற்ற, நம்பகமான சமூகத்தை உருவாக்குவதே எங்கள் நோக்கம்.</span></p>
+        <p><span class="lang-en">Admin-monitored content, Supercoin accountability, age verification, and community reporting keep <span class="tp-name">Tamil Pasanga</span> a trustworthy space for every family.</span><span class="lang-ta">நிர்வாகக் கண்காணிப்பு, Supercoin பொறுப்புணர்வு முறை, வயது சரிபார்ப்பு மற்றும் சமூக உறுப்பினர்களின் புகாரளிப்பு வசதி ஆகியவை <span class="tp-name">தமிழ் பசங்க</span>வை அனைவரும் நம்பிக்கையுடன் பயன்படுத்தக்கூடிய பாதுகாப்பான தளமாக மாற்றுகின்றன. குடும்பத்தினர் அனைவருக்கும் ஏற்ற, நம்பகமான சமூகத்தை உருவாக்குவதே எங்கள் நோக்கம்.</span></p>
       </div>
     </div>
   </div>
@@ -392,21 +392,21 @@ include 'includes/nav.php';
 <section class="section" id="why-us" aria-labelledby="why-h">
   <div class="container">
     <div class="text-center">
-      <div class="badge" data-aos><span class="lang-en">Why Tamil Pasanga</span><span class="lang-ta">ஏன் தமிழ் பசங்க</span></div>
+      <div class="badge" data-aos><span class="lang-en">Why <span class="tp-name">Tamil Pasanga</span></span><span class="lang-ta">ஏன் <span class="tp-name">தமிழ் பசங்க</span></span></div>
       <h2 class="section-title" id="why-h" data-aos data-aos-delay="100">
         <span class="lang-en">Built differently,<br>for a real purpose</span>
         <span class="lang-ta">வித்தியாசமாக உருவாவித்தியாசமான அணுகுமுறைக்கப்பட்டது,<br>உண்மையான நோக்கத்திற்காக</span>
       </h2>
       <p class="section-sub" data-aos data-aos-delay="200">
-        <span class="lang-en">Tamil Pasanga is not like other social media. Every design decision is driven by a single goal — spreading meaningful awareness for the Tamil community.</span>
-        <span class="lang-ta">Tamil Pasanga ஒரு சாதாரண சமூக ஊடக தளம் அல்ல. தமிழர் சமூகத்திற்கு பயனுள்ள விழிப்புணர்வை பரப்புவதே இதன் ஒரே நோக்கம். அதனால் இங்குள்ள ஒவ்வொரு அம்சமும் அறிவைப் பகிர்வதையும் சமூக நலனை மேம்படுத்துவதையும் மையமாகக் கொண்டு வடிவமைக்கப்பட்டுள்ளது.</span>
+        <span class="lang-en"><span class="tp-name">Tamil Pasanga</span> is not like other social media. Every design decision is driven by a single goal — spreading meaningful awareness for the Tamil community.</span>
+        <span class="lang-ta"><span class="tp-name">தமிழ் பசங்க</span> ஒரு சாதாரண சமூக ஊடக தளம் அல்ல. தமிழர் சமூகத்திற்கு பயனுள்ள விழிப்புணர்வை பரப்புவதே இதன் ஒரே நோக்கம். அதனால் இங்குள்ள ஒவ்வொரு அம்சமும் அறிவைப் பகிர்வதையும் சமூக நலனை மேம்படுத்துவதையும் மையமாகக் கொண்டு வடிவமைக்கப்பட்டுள்ளது.</span>
       </p>
     </div>
     <div class="grid-4">
       <article class="card" data-aos data-aos-delay="100">
         <div class="card-icon" style="background:#f5f3ff;"><i class="bi bi-megaphone"></i></div>
         <h3><span class="lang-en">Awareness Only</span><span class="lang-ta">விழிப்புணர்வுக்கே முன்னுரிமை</span></h3>
-        <p><span class="lang-en">We only allow content about social issues, health, environment, education, and farming. Entertainment posts are removed. Every post must add value to the community.</span><span class="lang-ta">சமூகப் பிரச்சினைகள், ஆரோக்கியம், சுற்றுச்சூழல், கல்வி மற்றும் விவசாயம் தொடர்பான உள்ளடக்கங்களுக்கு மட்டுமே Tamil Pasanga-வில் அனுமதி உள்ளது. பொழுதுபோக்கு பதிவுகள் அகற்றப்படும். ஒவ்வொரு பதிவும் சமூகத்திற்கு பயனுள்ள மதிப்பை வழங்க வேண்டும்.</span></p>
+        <p><span class="lang-en">We only allow content about social issues, health, environment, education, and farming. Entertainment posts are removed. Every post must add value to the community.</span><span class="lang-ta">சமூகப் பிரச்சினைகள், ஆரோக்கியம், சுற்றுச்சூழல், கல்வி மற்றும் விவசாயம் தொடர்பான உள்ளடக்கங்களுக்கு மட்டுமே <span class="tp-name">தமிழ் பசங்க</span>வில் அனுமதி உள்ளது. பொழுதுபோக்கு பதிவுகள் அகற்றப்படும். ஒவ்வொரு பதிவும் சமூகத்திற்கு பயனுள்ள மதிப்பை வழங்க வேண்டும்.</span></p>
       </article>
       <article class="card" data-aos data-aos-delay="200">
         <div class="card-icon" style="background:#d1fae5;"><i class="bi bi-coin"></i></div>
@@ -434,8 +434,8 @@ include 'includes/nav.php';
       <div class="badge" data-aos><span class="lang-en">Transparency &amp; Trust</span><span class="lang-ta">வெளிப்படைத்தன்மை &amp; நம்பிக்கை</span></div>
       <h2 class="section-title" id="policies-h" data-aos data-aos-delay="100"><span class="lang-en">Our Community Policies</span><span class="lang-ta">எங்கள் சமூகக் கொள்கைகள்</span></h2>
       <p class="section-sub" data-aos data-aos-delay="200">
-        <span class="lang-en">Tamil Pasanga is built on clear, transparent rules. We are open about what we allow, how we protect you, and how advertising works on our platform.</span>
-        <span class="lang-ta">Tamil Pasanga தெளிவான மற்றும் வெளிப்படையான விதிமுறைகளின் அடிப்படையில் உருவாக்கப்பட்டுள்ளது. எதை அனுமதிக்கிறோம், பயனர்களை எவ்வாறு பாதுகாக்கிறோம், மற்றும் விளம்பர அமைப்பு எவ்வாறு செயல்படுகிறது என்பதனை வெளிப்படையாக பகிர்கிறோம்.</span>
+        <span class="lang-en"><span class="tp-name">Tamil Pasanga</span> is built on clear, transparent rules. We are open about what we allow, how we protect you, and how advertising works on our platform.</span>
+        <span class="lang-ta"><span class="tp-name">தமிழ் பசங்க</span> தெளிவான மற்றும் வெளிப்படையான விதிமுறைகளின் அடிப்படையில் உருவாக்கப்பட்டுள்ளது. எதை அனுமதிக்கிறோம், பயனர்களை எவ்வாறு பாதுகாக்கிறோம், மற்றும் விளம்பர அமைப்பு எவ்வாறு செயல்படுகிறது என்பதனை வெளிப்படையாக பகிர்கிறோம்.</span>
       </p>
     </div>
     <div class="grid-3" style="margin-top:0;">
@@ -452,7 +452,7 @@ include 'includes/nav.php';
       <a href="advertising.php" class="card" style="text-decoration:none;display:block;" data-aos data-aos-delay="300">
         <div class="card-icon" style="background:#fffbeb;"><i class="bi bi-megaphone"></i></div>
         <h3><span class="lang-en">Advertising Rules</span><span class="lang-ta">விளம்பரக் கொள்கைகள்</span></h3>
-        <p><span class="lang-en">How the ad earnings system works for users and what policies all advertisers must follow on Tamil Pasanga.</span><span class="lang-ta">பயனர்களுக்கான விளம்பர வருமான முறை எவ்வாறு செயல்படுகிறது மற்றும் Tamil Pasanga-வில் விளம்பரம் செய்யும் அனைத்து விளம்பரதாரர்களும் பின்பற்ற வேண்டிய விதிமுறைகள் என்ன என்பதற்கான விளக்கம்..</span></p>
+        <p><span class="lang-en">How the ad earnings system works for users and what policies all advertisers must follow on <span class="tp-name">Tamil Pasanga</span>.</span><span class="lang-ta">பயனர்களுக்கான விளம்பர வருமான முறை எவ்வாறு செயல்படுகிறது மற்றும் <span class="tp-name">தமிழ் பசங்க</span>வில் விளம்பரம் செய்யும் அனைத்து விளம்பரதாரர்களும் பின்பற்ற வேண்டிய விதிமுறைகள் என்ன என்பதற்கான விளக்கம்..</span></p>
       </a>
       <a href="terms.php" class="card" style="text-decoration:none;display:block;" data-aos data-aos-delay="100">
         <div class="card-icon" style="background:#f5f3ff;"><i class="bi bi-file-text-fill"></i></div>
@@ -477,8 +477,8 @@ include 'includes/nav.php';
       <span class="lang-ta">தமிழர் சமூகத்தின் ஒரு பகுதியாக தயாரா?</span>
     </h2>
     <p class="section-sub section-sub-white" data-aos data-aos-delay="200" style="margin-bottom:0;">
-      <span class="lang-en">Download Tamil Pasanga today — it's completely free. Start sharing, discovering, and earning right from your phone.</span>
-      <span class="lang-ta">Tamil Pasanga-வை இன்றே இலவசமாக பதிவிறக்குங்கள். பயனுள்ள தகவல்களைப் பகிருங்கள், புதிய விழிப்புணர்வு உள்ளடக்கங்களைக் கண்டறியுங்கள், மேலும் உங்கள் மொபைல் மூலமாகவே வெகுமதிகளையும் வருமான வாய்ப்புகளையும் பெறத் தொடங்குங்கள்.</span>
+      <span class="lang-en">Download <span class="tp-name">Tamil Pasanga</span> today — it's completely free. Start sharing, discovering, and earning right from your phone.</span>
+      <span class="lang-ta"><span class="tp-name">தமிழ் பசங்க</span>வை இன்றே இலவசமாக பதிவிறக்குங்கள். பயனுள்ள தகவல்களைப் பகிருங்கள், புதிய விழிப்புணர்வு உள்ளடக்கங்களைக் கண்டறியுங்கள், மேலும் உங்கள் மொபைல் மூலமாகவே வெகுமதிகளையும் வருமான வாய்ப்புகளையும் பெறத் தொடங்குங்கள்.</span>
     </p>
     <div class="store-btns" data-aos data-aos-delay="300">
       <a href="https://play.google.com/store/apps/details?id=in.tamilpasanga.app" class="store-btn" target="_blank" rel="noopener">

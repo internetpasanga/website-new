@@ -2,7 +2,7 @@
   <div class="container">
     <div class="footer-grid">
       <div>
-        <div class="footer-brand-name"><div class="footer-brand-icon"><i class="bi bi-leaf"></i></div><span class="lang-en">Tamil Pasanga</span><span class="lang-ta">தமிழ் பசங்க</span></div>
+        <div class="footer-brand-name"><div class="footer-brand-icon"><i class="bi bi-leaf"></i></div><span class="lang-en"><span class="tp-name">Tamil Pasanga</span></span><span class="lang-ta"><span class="tp-name">தமிழ் பசங்க</span></span></div>
         <p class="footer-desc">
           <span class="lang-en">A community platform where awareness meets action. Share meaningful content, connect with others, and earn by watching ads.</span>
           <span class="lang-ta">அறிவைப் பகிர்ந்து மாற்றத்தை உருவாக்கும் தமிழர் சமூகத் தளம். விழிப்புணர்வு உள்ளடக்கங்களைப் பகிருங்கள், சமூகத்துடன் இணைந்திருங்கள், மேலும் விளம்பரங்களைப் பார்த்து வருமானம் பெறுங்கள்.</span>
@@ -47,7 +47,7 @@
       </div>
     </div>
     <div class="footer-bottom">
-      <p>© <span id="year"></span> Tamil Pasanga. <span class="lang-en">All rights reserved.</span><span class="lang-ta">அனைத்து உரிமைகளும் பாதுகாக்கப்பட்டவை.</span></p>
+      <p>© <span id="year"></span> <span class="tp-name">Tamil Pasanga</span>. <span class="lang-en">All rights reserved.</span><span class="lang-ta">அனைத்து உரிமைகளும் பாதுகாக்கப்பட்டவை.</span></p>
       <div class="footer-legal">
         <a href="privacy.php"><span class="lang-en">Privacy Policy</span><span class="lang-ta">தனியுரிமைக் கொள்கை</span></a>
         <a href="terms.php"><span class="lang-en">Terms &amp; Conditions</span><span class="lang-ta">விதிமுறைகள்</span></a>
