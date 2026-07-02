@@ -67,6 +67,16 @@ include 'includes/nav.php';
       <div class="ad-step" data-aos>
         <div class="ad-step-num">1</div>
         <div class="ad-step-body">
+          <h4><span class="lang-en">Add Your City to Your Profile</span><span class="lang-ta">உங்கள் சுயவிவரத்தில் நகரத்தைச் சேர்க்கவும்</span></h4>
+          <p>
+            <span class="lang-en">Before any advertisements appear, you must add your city in your profile page. Ads are shown to you based on your location, so the Ads tab stays empty until your city is set.</span>
+            <span class="lang-ta">விளம்பரங்கள் காட்டப்படுவதற்கு முன், நீங்கள் உங்கள் சுயவிவரப் பக்கத்தில் (Profile) உங்கள் நகரத்தை (City) சேர்க்க வேண்டும். விளம்பரங்கள் உங்கள் இருப்பிடத்தின் அடிப்படையில் காட்டப்படுவதால், நகரம் அமைக்கப்படும் வரை Ads Tab காலியாகவே இருக்கும்.</span>
+          </p>
+        </div>
+      </div>
+      <div class="ad-step" data-aos>
+        <div class="ad-step-num">2</div>
+        <div class="ad-step-body">
           <h4><span class="lang-en">Open the Ads Tab</span><span class="lang-ta">Ads Tab-ஐ திறக்கவும்</span></h4>
           <p>
             <span class="lang-en">Navigate to the dedicated Ads tab in the app. All available ads are listed here with full details. Ads are never inserted into your regular post feed.</span>
@@ -75,7 +85,7 @@ include 'includes/nav.php';
         </div>
       </div>
       <div class="ad-step" data-aos>
-        <div class="ad-step-num">2</div>
+        <div class="ad-step-num">3</div>
         <div class="ad-step-body">
           <h4><span class="lang-en">Check Duration &amp; Earnings Before You Start</span><span class="lang-ta">தொடங்குவதற்கு முன் நேரம் & வருமானம் பார்க்கவும்</span></h4>
           <p>
@@ -85,7 +95,7 @@ include 'includes/nav.php';
         </div>
       </div>
       <div class="ad-step" data-aos>
-        <div class="ad-step-num">3</div>
+        <div class="ad-step-num">4</div>
         <div class="ad-step-body">
           <h4><span class="lang-en">Watch the Complete Ad</span><span class="lang-ta">முழு விளம்பரத்தையும் பாருங்கள்</span></h4>
           <p>
@@ -95,7 +105,7 @@ include 'includes/nav.php';
         </div>
       </div>
       <div class="ad-step" data-aos>
-        <div class="ad-step-num">4</div>
+        <div class="ad-step-num">5</div>
         <div class="ad-step-body">
           <h4><span class="lang-en">Submit the Number-Calculation Captcha</span><span class="lang-ta">எண்-கணக்கீடு Captcha சமர்ப்பிக்கவும்</span></h4>
           <p>
@@ -105,17 +115,17 @@ include 'includes/nav.php';
         </div>
       </div>
       <div class="ad-step" data-aos>
-        <div class="ad-step-num">5</div>
+        <div class="ad-step-num">6</div>
         <div class="ad-step-body">
           <h4><span class="lang-en">Money Added to Your E-Wallet</span><span class="lang-ta">வருமானம் e-Wallet-க்கு சேர்க்கப்படும்</span></h4>
           <p>
-            <span class="lang-en">After a successful captcha submission, the earned amount is credited to your e-wallet balance. You can view your balance and transaction history in the wallet section.</span>
-            <span class="lang-ta">Captcha வெற்றிகரமாக முடிந்தவுடன், சம்பாதித்த தொகை உங்கள் e-Wallet-க்கு சேர்க்கப்படும். உங்கள் இருப்பு மற்றும் transaction history-ஐ wallet பகுதியில் பார்க்கலாம்.</span>
+            <span class="lang-en">After a successful captcha submission, the earned amount is credited to your e-wallet balance. You can view your balance and transaction history in the wallet section. Note that clicking the advertiser's website URL on the ad view page is a separate action and does not add any amount to your e-wallet — only completing the full ad watch and captcha earns the reward.</span>
+            <span class="lang-ta">Captcha வெற்றிகரமாக முடிந்தவுடன், சம்பாதித்த தொகை உங்கள் e-Wallet-க்கு சேர்க்கப்படும். உங்கள் இருப்பு மற்றும் transaction history-ஐ wallet பகுதியில் பார்க்கலாம். கவனிக்கவும்: விளம்பரப் பார்வைப் பக்கத்தில் காட்டப்படும் விளம்பரதாரரின் இணையதள URL-ஐ கிளிக் செய்வது தனி செயலாகும்; அதனால் உங்கள் e-Wallet-க்கு எந்தத் தொகையும் சேர்க்கப்படாது — முழு விளம்பரத்தையும் பார்த்து captcha முடித்தால் மட்டுமே வருமானம் கிடைக்கும்.</span>
           </p>
         </div>
       </div>
       <div class="ad-step" data-aos>
-        <div class="ad-step-num">6</div>
+        <div class="ad-step-num">7</div>
         <div class="ad-step-body">
           <h4><span class="lang-en">Withdraw in Bulk</span><span class="lang-ta">மொத்தமாக திரும்பப் பெறுங்கள்</span></h4>
           <p>
@@ -270,7 +280,13 @@ include 'includes/nav.php';
           <span class="lang-ta">பயனர் ஒரு விளம்பரத்தைப் பார்க்கும் முன், அந்த விளம்பரத்தின் நேரம் மற்றும் வருமான விவரங்கள் தெளிவாக காட்டப்படும். இந்த வெளிப்படைத்தன்மை அனைத்து விளம்பரங்களுக்கும் கட்டாயம். விளம்பரதாரர்கள் தங்கள் விளம்பரத்தின் உண்மையான நேரத்தை சரியாக குறிப்பிட வேண்டும்.</span>
         </p>
 
-        <h2><span class="lang-en">7. How to Advertise</span><span class="lang-ta">7. எவ்வாறு விளம்பரம் செய்வது</span></h2>
+        <h2><span class="lang-en">7. Website URL Clicks &amp; Ad Balance Deduction</span><span class="lang-ta">7. இணையதள URL கிளிக் &amp; Ad Balance கழிப்பு</span></h2>
+        <p>
+          <span class="lang-en">The ad view page displays your website URL to users. When a user clicks this URL, a per-click amount is deducted from your ad balance. This deduction is limited to once per user per day — if the same user clicks the link again on the same day, no further amount is deducted. Please ensure your ad balance is topped up to keep your ad running; amounts added to the ad balance are not eligible for refunds.</span>
+          <span class="lang-ta">விளம்பரப் பார்வைப் பக்கத்தில் உங்கள் இணையதள URL பயனர்களுக்குக் காட்டப்படும். ஒரு பயனர் இந்த URL-ஐ கிளிக் செய்தால், அதற்கான ஒரு குறிப்பிட்ட தொகை உங்கள் Ad Balance-இலிருந்து கழிக்கப்படும். இந்தக் கழிப்பு ஒரு நாளைக்கு ஒரு பயனருக்கு ஒரு முறை மட்டுமே பொருந்தும் — அதே பயனர் அதே நாளில் மீண்டும் அந்த லிங்கைக் கிளிக் செய்தால், கூடுதல் தொகை எதுவும் கழிக்கப்படாது. உங்கள் விளம்பரம் தொடர்ந்து இயங்க Ad Balance-ஐ போதுமான அளவு Top-Up செய்திருக்க வேண்டும்; Ad Balance-இல் சேர்க்கப்பட்ட தொகை திருப்பி வழங்கப்படாது.</span>
+        </p>
+
+        <h2><span class="lang-en">8. How to Advertise</span><span class="lang-ta">8. எவ்வாறு விளம்பரம் செய்வது</span></h2>
         <p><span class="lang-en">To run advertisements on <span class="tp-name">Tamil Pasanga</span>, contact our advertising team. All ads go through a review process before going live. We will verify compliance with our advertising policy before approving any ad.</span>
         <span class="lang-ta"><span class="tp-name">தமிழ் பசங்க</span>வில் விளம்பரம் செய்ய விரும்பும் நிறுவனங்கள் எங்கள் விளம்பர குழுவை தொடர்பு கொள்ள வேண்டும். அனைத்து விளம்பரங்களும் வெளியிடுவதற்கு முன் மதிப்பாய்வு செய்யப்பட்டு, எங்கள் விளம்பர கொள்கைகளுக்கு ஏற்ப இருப்பது உறுதி செய்யப்படும்.</span></p>
         <ul>

@@ -104,6 +104,16 @@ include 'includes/nav.php';
         <span class="lang-en">If a user reports a genuinely invalid post or shop and the report is confirmed by our admin team, the Supercoins spent on that report will be refunded along with additional bonus credits as a reward for contributing to platform safety.</span>
         <span class="lang-ta">ஒரு பயனர் உண்மையில் தவறான பதிவு அல்லது போலி கடையைப் பற்றி புகார் அளித்து, அது நிர்வாகக் குழுவால் உறுதிப்படுத்தப்பட்டால். புகாருக்காக செலவிட்ட Supercoin திருப்பி வழங்கப்படும். கூடுதலாக ஊக்கப் பரிசாக Supercoin-களும் வழங்கப்படும். இதன் மூலம் தளத்தின் பாதுகாப்பை மேம்படுத்த பயனர்கள் ஊக்குவிக்கப்படுகிறார்கள்.</span>
       </p>
+      <h3><span class="lang-en">5.5 Supercoin Usage Restrictions</span><span class="lang-ta">5.5 Supercoin பயன்பாட்டு வரம்புகள்</span></h3>
+      <p>
+        <span class="lang-en">Supercoins may only be used within the app for creating posts, creating shops, posting comments, submitting reviews, and sending messages. Supercoins cannot be withdrawn as cash and cannot be converted into any other wallet type, including the e-wallet or ad balance, under any circumstances.</span>
+        <span class="lang-ta">Supercoins-ஐ செயலிக்குள் பதிவுகள் உருவாக்க, கடைகள் உருவாக்க, கருத்துகள் இடவும், மதிப்பீடுகள் (Reviews) சமர்ப்பிக்கவும், செய்திகள் அனுப்பவும் மட்டுமே பயன்படுத்த முடியும். எந்தச் சூழ்நிலையிலும் Supercoins-ஐ பணமாகத் திரும்பப் பெறவோ, e-Wallet அல்லது Ad Balance போன்ற வேறு எந்த வகை wallet-ஆக மாற்றவோ முடியாது.</span>
+      </p>
+      <h3><span class="lang-en">5.6 Top-Ups Are Non-Refundable &amp; Wallets Serve Separate Purposes</span><span class="lang-ta">5.6 Top-Up தொகை திருப்பி வழங்கப்படாது &amp; ஒவ்வொரு Wallet-க்கும் தனித்தனி நோக்கம்</span></h3>
+      <p>
+        <span class="lang-en">Once Supercoins or ad balance are topped up through in-app payment, that transaction cannot be refunded. Supercoins may only be used for app activities such as posts, shops, comments, reviews, and messages, while ad balance may only be used to run and display advertisements. The e-wallet is different from these two — it holds real earnings credited from watching ads, and its balance can only be withdrawn to a bank account or converted to other wallet types on the platform.</span>
+        <span class="lang-ta">செயலிக்குள் பணம் செலுத்தி Supercoins அல்லது Ad Balance-ஐ Top-Up செய்த பிறகு, அந்தப் பரிவர்த்தனைக்கு எந்தத் திருப்பமும் (Refund) வழங்கப்படாது. Supercoins-ஐ பதிவுகள், கடைகள், கருத்துகள், மதிப்பீடுகள் மற்றும் செய்திகள் போன்ற செயலி செயல்பாடுகளுக்கு மட்டுமே பயன்படுத்த முடியும். Ad Balance-ஐ விளம்பரங்களை இயக்கவும், காட்சிப்படுத்தவும் மட்டுமே பயன்படுத்த முடியும். இவ்விரண்டிலிருந்தும் வேறுபட்டது e-Wallet — இது விளம்பரங்களைப் பார்ப்பதன் மூலம் பெறப்படும் உண்மையான வருமானத்தை வைத்திருக்கும். இதன் இருப்பை வங்கிக் கணக்கிற்குத் திரும்பப் பெறவோ அல்லது தளத்தில் உள்ள மற்ற வகை wallet-களுக்கு மாற்றவோ மட்டுமே பயன்படுத்த முடியும்.</span>
+      </p>
 
       <h2><span class="lang-en">6. User Content Policy</span><span class="lang-ta">6. பயனர் உள்ளடக்கக் கொள்கை</span></h2>
       <p>
@@ -216,6 +226,8 @@ include 'includes/nav.php';
         <li><span class="lang-en">After completing the ad, a number-calculation captcha must be successfully submitted for the earning to be credited</span><span class="lang-ta">விளம்பரம் முடிந்த பிறகு வழங்கப்படும் எண்-கணக்கீட்டு CAPTCHA சோதனையை வெற்றிகரமாக நிறைவேற்ற வேண்டும்</span></li>
         <li><span class="lang-en">Discontinuing the ad or failing the captcha means no earnings are credited</span><span class="lang-ta">விளம்பரத்தை பாதியிலேயே நிறுத்தினாலோ அல்லது CAPTCHA-வில் தோல்வியடைந்தாலோ வருமானம் வழங்கப்படாது</span></li>
         <li><span class="lang-en">A minimum withdrawal threshold applies — small balances below the threshold cannot be withdrawn</span><span class="lang-ta">பணம் எடுப்பதற்கு குறைந்தபட்ச வரம்பு (Minimum Withdrawal Threshold) பொருந்தும். அந்த வரம்பிற்கு குறைவான தொகையைப் பணமாகப் பெற முடியாது.</span></li>
+        <li><span class="lang-en">You must add your city in your profile before advertisements will appear in the Ads tab, since ads are shown based on your location</span><span class="lang-ta">Ads பகுதியில் விளம்பரங்களைப் பார்க்க, முதலில் உங்கள் சுயவிவரத்தில் (Profile) உங்கள் நகரத்தை (City) சேர்க்க வேண்டும்; ஏனெனில் விளம்பரங்கள் உங்கள் இருப்பிடத்தின் அடிப்படையில் காட்டப்படும்</span></li>
+        <li><span class="lang-en">Watching an ad in full credits its reward amount to your e-wallet. Clicking the website URL shown on the ad view page is a separate action and does not add any amount to your e-wallet</span><span class="lang-ta">ஒரு விளம்பரத்தை முழுமையாகப் பார்த்தால் மட்டுமே அதற்குரிய வருமானத் தொகை உங்கள் e-Wallet-க்கு வரவு வைக்கப்படும். விளம்பரப் பார்வைப் பக்கத்தில் காட்டப்படும் இணையதள URL-ஐ கிளிக் செய்வது தனி செயலாகும்; அதனால் உங்கள் e-Wallet-க்கு எந்தத் தொகையும் சேர்க்கப்படாது</span></li>
       </ul>
 
       <h2><span class="lang-en">14. Advertising — For Advertisers</span><span class="lang-ta">14. விளம்பரதாரர்களுக்கான விதிமுறைகள்</span></h2>
@@ -229,7 +241,11 @@ include 'includes/nav.php';
       </p>
 
       <p>
-        <span class="lang-en">Please be aware that amounts added to the ad balance are not eligible for refunds.</a>.</span>
+        <span class="lang-en">The ad view page displays the advertiser's website URL to users. When a user clicks this website URL, a per-click amount is deducted from the advertiser's ad balance. This deduction is limited to once per user per day — if the same user clicks the link again on the same day, no further amount is deducted.</span>
+        <span class="lang-ta">விளம்பரப் பார்வைப் பக்கத்தில் விளம்பரதாரரின் இணையதள URL பயனர்களுக்குக் காட்டப்படும். ஒரு பயனர் இந்த URL-ஐ கிளிக் செய்தால், அதற்கான ஒரு குறிப்பிட்ட தொகை விளம்பரதாரரின் Ad Balance-இலிருந்து கழிக்கப்படும். இந்தக் கழிப்பு ஒரு நாளைக்கு ஒரு பயனருக்கு ஒரு முறை மட்டுமே பொருந்தும் — அதே பயனர் அதே நாளில் மீண்டும் அந்த லிங்கைக் கிளிக் செய்தால், கூடுதல் தொகை எதுவும் கழிக்கப்படாது.</span>
+      </p>
+      <p>
+        <span class="lang-en">Please be aware that amounts added to the ad balance are not eligible for refunds.</span>
         <span class="lang-ta">தயவுசெய்து கவனிக்கவும்: விளம்பர இருப்புத் தொகையில் சேர்க்கப்பட்ட பணம் திருப்பி வழங்கப்படாது.</span>
       </p>
 

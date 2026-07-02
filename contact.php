@@ -188,6 +188,17 @@ include 'includes/nav.php';
           <span class="lang-ta">செயலியில் பதிவு செய்து, உங்கள் கடை அல்லது வணிகத்திற்கான Shop Profile-ஐ உருவாக்கலாம். உங்கள் வணிகம் உள்ளூர் தேடல் முடிவுகளிலும் சமூகப் பட்டியல்களிலும் (Community Listings) தோன்றும்.</span>
         </p>
       </details>
+      <details style="background:#fff;border:1px solid var(--gray-200);border-radius:var(--radius-lg);padding:20px 24px;cursor:pointer;" data-aos data-aos-delay="300">
+        <summary style="font-size:15px;font-weight:600;color:var(--gray-900);list-style:none;display:flex;justify-content:space-between;align-items:center;">
+          <span class="lang-en">How do I create an ad in the <span class="tp-name">Tamil Pasanga</span> app?</span>
+          <span class="lang-ta"><span class="tp-name">தமிழ் பசங்க</span> செயலியில் விளம்பரத்தை எப்படி உருவாக்குவது?</span>
+          <span style="font-size:20px;color:var(--primary);">+</span>
+        </summary>
+        <p style="font-size:14px;color:var(--gray-500);line-height:1.75;margin-top:12px;">
+          <span class="lang-en">Install the app on your mobile phone and register an advertiser account. Once your advertiser account is set up, you can create your ad and submit it for review.</span>
+          <span class="lang-ta">உங்கள் மொபைல் போனில் செயலியை நிறுவி, ஒரு விளம்பரதாரர் கணக்கை (Advertiser Account) பதிவு செய்யவும். விளம்பரதாரர் கணக்கு அமைக்கப்பட்ட பிறகு, நீங்கள் விளம்பரத்தை உருவாக்கி மதிப்பாய்வுக்காக சமர்ப்பிக்கலாம்.</span>
+        </p>
+      </details>
     </div>
   </div>
 </section>
