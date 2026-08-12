@@ -56,8 +56,8 @@ include 'includes/nav.php';
           <span class="lang-ta"><strong>தகவல்தொடர்பு:</strong> நீங்கள் மற்ற பயனர்களுக்கு அல்லது எங்கள் ஆதரவு குழுவிற்கு அனுப்பும் செய்திகள்</span>
         </li>
         <li>
-          <span class="lang-en"><strong>Payment information:</strong> Bank account or UPI details for e-wallet withdrawals — real money earned by watching ads (processed securely via Razorpay)</span>
-          <span class="lang-ta"><strong>பணம் செலுத்தும் தகவல்:</strong> ஈ-வாலட் திரும்பப் பெறுவதற்கான வங்கிக் கணக்கு அல்லது UPI விவரங்கள் — விளம்பரங்கள் பார்ப்பதன் மூலம் சம்பாதித்த உண்மையான பணம் (Razorpay மூலம் பாதுகாப்பாக செயலாக்கப்படும்)</span>
+          <span class="lang-en"><strong>Payment information:</strong> Payment details for Supercoin purchases (processed securely via Razorpay)</span>
+          <span class="lang-ta"><strong>பணம் செலுத்தும் தகவல்:</strong> Supercoin வாங்குவதற்கான கட்டணத் தகவல்கள் (Razorpay மூலம் பாதுகாப்பாக செயலாக்கப்படும்)</span>
         </li>
       </ul>
 
@@ -79,10 +79,6 @@ include 'includes/nav.php';
           <span class="lang-en"><strong>Log data:</strong> IP address, browser type, app version, and error logs</span>
           <span class="lang-ta"><strong>பதிவு தரவு:</strong> IP முகவரி, உலாவி வகை, ஆப் பதிப்பு, பிழை பதிவுகள்</span>
         </li>
-        <li>
-          <span class="lang-en"><strong>Ad interaction data:</strong> Ads viewed, watched duration, and interaction data for the Supercoin system</span>
-          <span class="lang-ta"><strong>விளம்பர தொடர்பு தரவு:</strong> பார்த்த விளம்பரங்கள், பார்வை கால அளவு, Supercoin அமைப்பிற்கான தொடர்பு தரவு</span>
-        </li>
       </ul>
 
       <h2><span class="lang-en">2. How We Use Your Information</span><span class="lang-ta">2. உங்கள் தகவலை நாங்கள் எவ்வாறு பயன்படுத்துகிறோம்</span></h2>
@@ -90,10 +86,9 @@ include 'includes/nav.php';
       <ul>
         <li><span class="lang-en">Provide, operate, and improve the Service</span><span class="lang-ta">சேவையை வழங்க, இயக்க மற்றும் மேம்படுத்த</span></li>
         <li><span class="lang-en">Create and manage your account</span><span class="lang-ta">உங்கள் கணக்கை உருவாக்க மற்றும் நிர்வகிக்க</span></li>
-        <li><span class="lang-en">Process Supercoin transactions (posting, refunds, deductions) and e-wallet ad earnings withdrawals</span><span class="lang-ta">Supercoin பரிவர்த்தனைகளை (இடுகை, திரும்பப் பெறுதல், கழிவுகள்) மற்றும் ஈ-வாலட் விளம்பர வருவாய் திரும்பப் பெறுதல்களை செயலாக்க</span></li>
+        <li><span class="lang-en">Process Supercoin transactions (posting, refunds, deductions)</span><span class="lang-ta">Supercoin பரிவர்த்தனைகளை (இடுகை, திரும்பப் பெறுதல், கழிவுகள்) செயலாக்க</span></li>
         <li><span class="lang-en">Personalise your content feed and recommendations</span><span class="lang-ta">உங்கள் உள்ளடக்க ஊட்டம் மற்றும் பரிந்துரைகளை தனிப்பயனாக்க</span></li>
         <li><span class="lang-en">Enable communication with other users and shop owners</span><span class="lang-ta">மற்ற பயனர்கள் மற்றும் கடை உரிமையாளர்களுடன் தொடர்பை செயல்படுத்த</span></li>
-        <li><span class="lang-en">Show relevant advertisements and measure their effectiveness</span><span class="lang-ta">தொடர்புடைய விளம்பரங்களை காட்டவும் அவற்றின் செயல்திறனை அளவிடவும்</span></li>
         <li><span class="lang-en">Send service notifications, security alerts, and support messages</span><span class="lang-ta">சேவை அறிவிப்புகள், பாதுகாப்பு எச்சரிக்கைகள், ஆதரவு செய்திகளை அனுப்ப</span></li>
         <li><span class="lang-en">Ensure platform safety and prevent fraud or abuse</span><span class="lang-ta">தள பாதுகாப்பை உறுதி செய்யவும் மோசடி அல்லது துஷ்பிரயோகத்தை தடுக்கவும்</span></li>
         <li><span class="lang-en">Comply with legal obligations</span><span class="lang-ta">சட்டப்பூர்வ கடமைகளுக்கு இணங்க</span></li>
@@ -112,10 +107,6 @@ include 'includes/nav.php';
         <li>
           <span class="lang-en"><strong>Service providers:</strong> Trusted third-party vendors who help us operate the Service (e.g., payment processors, cloud hosting, analytics) under strict confidentiality agreements</span>
           <span class="lang-ta"><strong>சேவை வழங்குநர்கள்:</strong> கடுமையான இரகசியத்தன்மை ஒப்பந்தங்களின் கீழ் சேவையை இயக்க உதவும் நம்பகமான மூன்றாம் தரப்பு விற்பனையாளர்கள் (உ.ம்: கட்டண செயலியாளர்கள், கிளவுட் ஹோஸ்டிங், பகுப்பாய்வு)</span>
-        </li>
-        <li>
-          <span class="lang-en"><strong>Advertisers:</strong> Aggregated, anonymised data only — never personally identifiable information</span>
-          <span class="lang-ta"><strong>விளம்பரதாரர்கள்:</strong> திரட்டப்பட்ட, அனாமதேயமான தரவு மட்டுமே — தனிப்பட்ட அடையாளம் காணக்கூடிய தகவல் ஒருபோதும் இல்லை</span>
         </li>
         <li>
           <span class="lang-en"><strong>Legal requirements:</strong> When required by law, court order, or to protect the rights and safety of users</span>
@@ -178,8 +169,8 @@ include 'includes/nav.php';
 
       <h2><span class="lang-en">6. Cookies &amp; Tracking</span><span class="lang-ta">6. குக்கீகள் &amp; கண்காணிப்பு</span></h2>
       <p>
-        <span class="lang-en">Our website uses cookies and similar tracking technologies to improve your experience, analyse usage, and serve relevant ads. You can control cookie settings through your browser settings. Disabling cookies may affect some features of the website.</span>
-        <span class="lang-ta">எங்கள் இணையதளம் உங்கள் அனுபவத்தை மேம்படுத்தவும், பயன்பாட்டை பகுப்பாய்வு செய்யவும், தொடர்புடைய விளம்பரங்களை வழங்கவும் குக்கீகள் மற்றும் இதே போன்ற கண்காணிப்பு தொழில்நுட்பங்களை பயன்படுத்துகிறது. உங்கள் உலாவி அமைப்புகளில் குக்கீ அமைப்புகளை கட்டுப்படுத்தலாம். குக்கீகளை முடக்குவது இணையதளத்தின் சில அம்சங்களை பாதிக்கலாம்.</span>
+        <span class="lang-en">Our website uses cookies and similar tracking technologies to improve your experience and analyse usage. You can control cookie settings through your browser settings. Disabling cookies may affect some features of the website.</span>
+        <span class="lang-ta">எங்கள் இணையதளம் உங்கள் அனுபவத்தை மேம்படுத்தவும், பயன்பாட்டை பகுப்பாய்வு செய்யவும் குக்கீகள் மற்றும் இதே போன்ற கண்காணிப்பு தொழில்நுட்பங்களை பயன்படுத்துகிறது. உங்கள் உலாவி அமைப்புகளில் குக்கீ அமைப்புகளை கட்டுப்படுத்தலாம். குக்கீகளை முடக்குவது இணையதளத்தின் சில அம்சங்களை பாதிக்கலாம்.</span>
       </p>
 
       <h2><span class="lang-en">7. Age Requirement &amp; Minors</span><span class="lang-ta">7. வயது தேவை &amp; சிறுவர்கள்</span></h2>

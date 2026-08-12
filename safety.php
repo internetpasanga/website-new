@@ -92,8 +92,8 @@ include 'includes/nav.php';
             <span class="lang-ta">கணக்கு செயலிழப்பு மற்றும் இருப்புத் தொகை முடக்கம்</span>
           </h3>
           <p style="font-size:15px;color:var(--gray-600);line-height:1.75;">
-            <span class="lang-en">If an account is deactivated by admin for illegal, violent, or repeatedly harmful activity, the user permanently loses access to the app. All e-wallet balance and ad balance associated with the deactivated account will also be frozen and inaccessible.</span>
-            <span class="lang-ta">சட்டவிரோத, வன்முறை அல்லது சமூகத்திற்கு தீங்கு விளைவிக்கும் செயல்பாடுகளுக்காக ஒரு கணக்கு நிர்வாகத்தால் செயலிழக்கச் செய்யப்பட்டால், அந்த பயனர் தளத்தை மீண்டும் பயன்படுத்த முடியாது. மேலும், அந்தக் கணக்குடன் தொடர்புடைய e-Wallet இருப்பு மற்றும் Ad இருப்புகள் அனைத்தும் முடக்கப்படலாம் மற்றும் அணுக முடியாததாக மாற்றப்படலாம்.</span>
+            <span class="lang-en">If an account is deactivated by admin for illegal, violent, or repeatedly harmful activity, the user permanently loses access to the app. Any Supercoin balance associated with the deactivated account will also be frozen and inaccessible.</span>
+            <span class="lang-ta">சட்டவிரோத, வன்முறை அல்லது சமூகத்திற்கு தீங்கு விளைவிக்கும் செயல்பாடுகளுக்காக ஒரு கணக்கு நிர்வாகத்தால் செயலிழக்கச் செய்யப்பட்டால், அந்த பயனர் தளத்தை மீண்டும் பயன்படுத்த முடியாது. மேலும், அந்தக் கணக்குடன் தொடர்புடைய Supercoin இருப்பு முடக்கப்பட்டு அணுக முடியாததாக மாற்றப்படும்.</span>
           </p>
         </div>
       </div>
@@ -122,22 +122,6 @@ include 'includes/nav.php';
           <p style="font-size:15px;color:var(--gray-600);line-height:1.75;">
             <span class="lang-en">To protect users from fraud, personal phone numbers, UPI IDs, QR codes, and bank information are strictly prohibited in posts and comments. If a user donates money to someone based on unverified financial information shared on the platform, <span class="tp-name">Tamil Pasanga</span> is not responsible for any fraud or loss.</span>
             <span class="lang-ta">பயனர்களை மோசடிகளில் இருந்து பாதுகாக்கும் நோக்கில், தனிப்பட்ட தொலைபேசி எண்கள், UPI ID-கள், QR குறியீடுகள், வங்கிக் கணக்கு விவரங்கள் மற்றும் பிற நிதி தகவல்களை பதிவுகள் அல்லது கருத்துகளில் பகிர்வது முற்றிலும் தடைசெய்யப்பட்டுள்ளது. சரிபார்க்கப்படாத தகவல்களின் அடிப்படையில் யாரேனும் பண பரிவர்த்தனை செய்தால் அல்லது நன்கொடை வழங்கினால், அதனால் ஏற்படும் இழப்புகள் அல்லது மோசடிகளுக்கு <span class="tp-name">தமிழ் பசங்க</span> பொறுப்பாகாது.</span>
-          </p>
-        </div>
-      </div>
-
-      <div class="safety-card">
-        <div class="safety-icon" style="background:#f0fdf4;"><i class="bi bi-check-circle-fill"></i></div>
-        <div>
-          <h3 style="font-size:17px;font-weight:700;color:var(--gray-900);margin-bottom:6px;">
-            <span class="lang-en">Ad Earnings Verification (Captcha)</span>
-            <span class="lang-ta">விளம்பர வருமான சரிபார்ப்பு (Captcha)</span>
-          </h3>
-          <p style="font-size:15px;color:var(--gray-600);line-height:1.75;">
-            <span class="lang-en">To prevent fraudulent ad earnings, every ad watch session must be completed in full. After completing the ad, users must successfully submit a number-calculation captcha for the earnings to be credited to their e-wallet. Incomplete ad views or failed captcha submissions will not earn any balance.</span>
-            <span class="lang-ta">விளம்பர வருமான முறையின் நம்பகத்தன்மையை உறுதிப்படுத்த, ஒவ்வொரு விளம்பரத்தையும் முழுமையாகப் பார்க்க வேண்டும்.
-            விளம்பரம் முடிந்த பிறகு, பயனர் ஒரு எளிய எண்-கணக்கீட்டு Captcha-வை சரியாக நிறைவு செய்ய வேண்டும். அதன் பிறகே வருமானம் e-Wallet-க்கு சேர்க்கப்படும்.
-            முழுமையற்ற விளம்பர பார்வைகள் அல்லது Captcha சரிபார்ப்பில் தோல்வியடைந்த அமர்வுகளுக்கு எந்த வருமானமும் வழங்கப்படாது..</span>
           </p>
         </div>
       </div>

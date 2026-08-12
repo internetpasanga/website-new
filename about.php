@@ -75,7 +75,7 @@ include 'includes/nav.php';
       <article class="card" data-aos data-aos-delay="300">
         <div class="card-icon" style="background:#ecfdf5;"><i class="bi bi-lock-fill"></i></div>
         <h3><span class="lang-en">Trust &amp; Transparency</span><span class="lang-ta">நம்பிக்கை மற்றும் வெளிப்படைத்தன்மை</span></h3>
-        <p><span class="lang-en">We are transparent about how the platform works, how your data is protected, and how you earn. No hidden fees. No surprises.</span><span class="lang-ta">தளம் எவ்வாறு செயல்படுகிறது, உங்கள் தரவு எவ்வாறு பாதுகாக்கப்படுகிறது, நீங்கள் எவ்வாறு வருமானம் பெறுகிறீர்கள் என்பதனை நாங்கள் தெளிவாக விளக்குகிறோம். மறைமுக கட்டணங்கள் இல்லை. எதிர்பாராத மாற்றங்கள் இல்லை.</span></p>
+        <p><span class="lang-en">We are transparent about how the platform works and how your data is protected. No hidden fees. No surprises.</span><span class="lang-ta">தளம் எவ்வாறு செயல்படுகிறது, உங்கள் தரவு எவ்வாறு பாதுகாக்கப்படுகிறது என்பதனை நாங்கள் தெளிவாக விளக்குகிறோம். மறைமுக கட்டணங்கள் இல்லை. எதிர்பாராத மாற்றங்கள் இல்லை.</span></p>
       </article>
       <article class="card" data-aos data-aos-delay="100">
         <div class="card-icon" style="background:#eff6ff;"><i class="bi bi-lightbulb"></i></div>
@@ -90,7 +90,7 @@ include 'includes/nav.php';
       <article class="card" data-aos data-aos-delay="300">
         <div class="card-icon" style="background:#f0fdf4;"><i class="bi bi-graph-up-arrow"></i></div>
         <h3><span class="lang-en">Growth for All</span><span class="lang-ta">அனைவருக்கும் வளர்ச்சி</span></h3>
-        <p><span class="lang-en">When content creators succeed, the platform grows. When the platform grows, users earn more. Our model is designed for shared growth.</span><span class="lang-ta">உள்ளடக்க உருவாக்குநர்கள் வளரும்போது தளமும் வளர்கிறது. தளம் வளரும்போது பயனர்களின் வருமானமும் அதிகரிக்கிறது. எங்கள் அமைப்பு பகிர்ந்த வளர்ச்சிக்காக வடிவமைக்கப்பட்டுள்ளது.</span></p>
+        <p><span class="lang-en">When content creators succeed, the platform grows. When the platform grows, the whole community benefits. Our model is designed for shared growth.</span><span class="lang-ta">உள்ளடக்க உருவாக்குநர்கள் வளரும்போது தளமும் வளர்கிறது. தளம் வளரும்போது முழு சமூகமும் பயனடைகிறது. எங்கள் அமைப்பு பகிர்ந்த வளர்ச்சிக்காக வடிவமைக்கப்பட்டுள்ளது.</span></p>
       </article>
     </div>
   </div>
@@ -101,12 +101,12 @@ include 'includes/nav.php';
   <div class="container text-center">
     <div class="badge badge-white" data-aos><span class="lang-en">Our Vision</span><span class="lang-ta">எங்கள் நோக்கம்</span></div>
     <h2 class="vision-quote" id="vision-h" data-aos data-aos-delay="100">
-      <span class="lang-en">"A Tamil community where every voice is heard, every action is rewarded, and every connection drives real awareness."</span>
-      <span class="lang-ta">"ஒவ்வொரு குரலும் கேட்கப்படும், ஒவ்வொரு செயலும் மதிக்கப்படும், ஒவ்வொரு இணைப்பும் விழிப்புணர்வை உருவாக்கும் ஒரு தமிழர் சமூகம்."</span>
+      <span class="lang-en">"A Tamil community where every voice is heard, every contribution is valued, and every connection drives real awareness."</span>
+      <span class="lang-ta">"ஒவ்வொரு குரலும் கேட்கப்படும், ஒவ்வொரு பங்களிப்பும் மதிக்கப்படும், ஒவ்வொரு இணைப்பும் விழிப்புணர்வை உருவாக்கும் ஒரு தமிழர் சமூகம்."</span>
     </h2>
     <p class="section-sub section-sub-white" data-aos data-aos-delay="200">
-      <span class="lang-en">We envision a future where the Tamil community is empowered through technology — informed, connected, and financially rewarded for their time and meaningful contributions.</span>
-      <span class="lang-ta">தமிழர் சமூகத்தை தொழில்நுட்பத்தின் மூலம் அதிகாரமளித்து உயர்த்தும் ஒரு எதிர்காலத்தை நாங்கள் கனவு காண்கிறோம் — அறிவுடன், இணைப்புடன், மற்றும் அவர்களின் நேரம் மற்றும் பங்களிப்புக்கு நியாயமான பொருளாதார மதிப்புடன் இருக்கும் ஒரு சமூகமாக.</span>
+      <span class="lang-en">We envision a future where the Tamil community is empowered through technology — informed, connected, and supporting natural, traditional living through meaningful contributions.</span>
+      <span class="lang-ta">தமிழர் சமூகத்தை தொழில்நுட்பத்தின் மூலம் அதிகாரமளித்து உயர்த்தும் ஒரு எதிர்காலத்தை நாங்கள் கனவு காண்கிறோம் — அறிவுடன், இணைப்புடன், மற்றும் பயனுள்ள பங்களிப்புகள் மூலம் இயற்கை, பாரம்பரிய வாழ்க்கை முறையை ஆதரிக்கும் ஒரு சமூகமாக.</span>
     </p>
     <div class="vision-cards">
       <div class="vision-card" data-aos data-aos-delay="100">
@@ -120,9 +120,9 @@ include 'includes/nav.php';
         <p><span class="lang-en">Fostering authentic connections between people, local healthy businesses, and communities across Tamil Nadu — without follower or subscriber pressure.</span><span class="lang-ta">பின்தொடர்பவர் அல்லது subscriber அழுத்தம் இல்லாமல், தமிழ்நாடு முழுவதும் உள்ள மக்களையும், உள்ளூர் ஆரோக்கியமான வணிகங்களையும், சமூகங்களையும் உண்மையான முறையில் இணைக்கும் ஒரு தளத்தை உருவாக்குகிறோம்.</span></p>
       </div>
       <div class="vision-card" data-aos data-aos-delay="300">
-        <div class="vision-card-icon"><i class="bi bi-graph-up-arrow"></i></div>
-        <h3><span class="lang-en">Enable Empowerment</span><span class="lang-ta">வலுவூட்டலை செயல்படுத்துங்கள்</span></h3>
-        <p><span class="lang-en">Giving every user the ability to earn real money from watching ads and creating valuable content — turning engagement into real economic value.</span><span class="lang-ta">ஒவ்வொரு பயனரும் விளம்பரங்களைப் பார்த்தும், மதிப்புமிக்க உள்ளடக்கங்களை உருவாக்கியும் உண்மையான வருமானம் ஈட்டும் வாய்ப்பைப் பெறுகிறார்கள். ஈடுபாட்டை நேரடி பொருளாதார மதிப்பாக மாற்றும் ஒரு அமைப்பு இது.</span></p>
+        <div class="vision-card-icon"><i class="bi bi-flower2"></i></div>
+        <h3><span class="lang-en">Support Natural Living</span><span class="lang-ta">இயற்கை வாழ்க்கை முறையை ஆதரியுங்கள்</span></h3>
+        <p><span class="lang-en">Giving every user the ability to discover and support natural farming, traditional food, and healthy local businesses — turning awareness into real community impact.</span><span class="lang-ta">ஒவ்வொரு பயனரும் இயற்கை விவசாயம், பாரம்பரிய உணவு மற்றும் ஆரோக்கியமான உள்ளூர் வணிகங்களை கண்டறிந்து ஆதரிக்கும் வாய்ப்பைப் பெறுகிறார்கள். விழிப்புணர்வை உண்மையான சமூக தாக்கமாக மாற்றும் ஒரு அமைப்பு இது.</span></p>
       </div>
     </div>
     <div style="margin-top:36px;" data-aos data-aos-delay="400">
@@ -147,14 +147,14 @@ include 'includes/nav.php';
           <p style="font-size:14px;color:var(--gray-500);line-height:1.75;"><span class="lang-en">Unlike other platforms, <span class="tp-name">Tamil Pasanga</span> only allows awareness content — social issues, health, farming, education, and environment. No entertainment clutter.</span><span class="lang-ta">மற்ற தளங்களைப் போல அல்லாமல், <span class="tp-name">தமிழ் பசங்க</span>வில் விழிப்புணர்வு உள்ளடக்கங்களுக்கு மட்டுமே அனுமதி வழங்கப்படுகிறது — சமூகப் பிரச்சினைகள், ஆரோக்கியம், விவசாயம், கல்வி மற்றும் சுற்றுச்சூழல் போன்ற தலைப்புகள் மட்டுமே. தேவையற்ற பொழுதுபோக்கு குழப்பம் இங்கு இல்லை.</span></p>
         </div>
         <div style="background:var(--gray-50);border-radius:var(--radius-lg);padding:28px;border:1px solid var(--gray-200);">
-          <div style="font-size:28px;margin-bottom:12px;"><i class="bi bi-cash-stack"></i></div>
-          <h3 style="font-size:16px;font-weight:700;margin-bottom:8px;color:var(--gray-900);"><span class="lang-en">You Earn From Your Attention</span><span class="lang-ta">உங்கள் கவனத்திற்கே உண்மையான வருமானம்</span></h3>
-          <p style="font-size:14px;color:var(--gray-500);line-height:1.75;"><span class="lang-en">Other apps profit entirely from your time. On <span class="tp-name">Tamil Pasanga</span>, watching ads earns you real money directly to your e-wallet. No algorithm tax.</span><span class="lang-ta">மற்ற செயலிகள் உங்கள் நேரத்திலேயே லாபம் ஈட்டுகின்றன. <span class="tp-name">தமிழ் பசங்க</span>வில், விளம்பரங்களைப் பார்ப்பதன் மூலம் நீங்கள் நேரடியாக உங்கள் e-Wallet-க்கு வருமானம் பெறுகிறீர்கள். மறைமுக algorithm, tax எதுவும் இல்லை.</span></p>
+          <div style="font-size:28px;margin-bottom:12px;"><i class="bi bi-flower2"></i></div>
+          <h3 style="font-size:16px;font-weight:700;margin-bottom:8px;color:var(--gray-900);"><span class="lang-en">Natural Farming Discovery</span><span class="lang-ta">இயற்கை விவசாயத்தை கண்டறியுங்கள்</span></h3>
+          <p style="font-size:14px;color:var(--gray-500);line-height:1.75;"><span class="lang-en">Other apps profit entirely from your time. On <span class="tp-name">Tamil Pasanga</span>, discover and support natural farmers and traditional food producers directly. No algorithm tax.</span><span class="lang-ta">மற்ற செயலிகள் உங்கள் நேரத்திலேயே லாபம் ஈட்டுகின்றன. <span class="tp-name">தமிழ் பசங்க</span>வில், இயற்கை விவசாயிகள் மற்றும் பாரம்பரிய உணவு உற்பத்தியாளர்களை நேரடியாக கண்டறிந்து ஆதரிக்கலாம். மறைமுக algorithm, tax எதுவும் இல்லை.</span></p>
         </div>
         <div style="background:var(--gray-50);border-radius:var(--radius-lg);padding:28px;border:1px solid var(--gray-200);">
           <div style="font-size:28px;margin-bottom:12px;"><i class="bi bi-slash-circle"></i></div>
-          <h3 style="font-size:16px;font-weight:700;margin-bottom:8px;color:var(--gray-900);"><span class="lang-en">No Feed Ads or Algorithms</span><span class="lang-ta">அல்காரிதம் இல்லாத, விளம்பர குழப்பமில்லாத அனுபவம்</span></h3>
-          <p style="font-size:14px;color:var(--gray-500);line-height:1.75;"><span class="lang-en">Ads never appear in your post feed. No follower counts, no algorithms deciding what you see. You choose your content by category — full control.</span><span class="lang-ta">விளம்பரங்கள் உங்கள் feed-ல் தோன்றாது. Follower எண்ணிக்கை அழுத்தம் இல்லை. நீங்கள் என்ன பார்க்க வேண்டும் என்பதை அல்காரிதம் தீர்மானிக்காது. தலைப்புகளின் அடிப்படையில் நீங்கள் தேர்வு செய்கிறீர்கள் — முழு கட்டுப்பாடு உங்களிடம்.</span></p>
+          <h3 style="font-size:16px;font-weight:700;margin-bottom:8px;color:var(--gray-900);"><span class="lang-en">No Algorithm or Entertainment Clutter</span><span class="lang-ta">அல்காரிதம் இல்லாத, பொழுதுபோக்கு குழப்பமில்லாத அனுபவம்</span></h3>
+          <p style="font-size:14px;color:var(--gray-500);line-height:1.75;"><span class="lang-en">No follower counts, no algorithms deciding what you see, no entertainment noise. You choose your content by category — full control.</span><span class="lang-ta">Follower எண்ணிக்கை அழுத்தம் இல்லை. நீங்கள் என்ன பார்க்க வேண்டும் என்பதை அல்காரிதம் தீர்மானிக்காது. பொழுதுபோக்கு சத்தமும் இல்லை. தலைப்புகளின் அடிப்படையில் நீங்கள் தேர்வு செய்கிறீர்கள் — முழு கட்டுப்பாடு உங்களிடம்.</span></p>
         </div>
         <div style="background:var(--gray-50);border-radius:var(--radius-lg);padding:28px;border:1px solid var(--gray-200);">
           <div style="font-size:28px;margin-bottom:12px;"><i class="bi bi-leaf"></i></div>
@@ -181,7 +181,7 @@ include 'includes/nav.php';
   <div class="container">
     <div class="badge badge-white" data-aos><span class="lang-en">Join Us</span><span class="lang-ta">எங்களுடன் இணையுங்கள்</span></div>
     <h2 class="section-title section-title-white" data-aos data-aos-delay="100"><span class="lang-en">Be part of the movement</span><span class="lang-ta">இந்த இயக்கத்தின் ஒரு பகுதியாகுங்கள்</span></h2>
-    <p class="section-sub section-sub-white" data-aos data-aos-delay="200" style="margin-bottom:0;"><span class="lang-en">Download <span class="tp-name">Tamil Pasanga</span> and join the Tamil community who are sharing awareness, connecting locally, and earning real money.</span><span class="lang-ta"><span class="tp-name">தமிழ் பசங்க</span>வை இன்றே பதிவிறக்கி, விழிப்புணர்வை பகிரும், உள்ளூராக இணையும், மற்றும் உண்மையான வருமானம் ஈட்டும் தமிழர் சமூகத்தில் சேருங்கள்.</span></p>
+    <p class="section-sub section-sub-white" data-aos data-aos-delay="200" style="margin-bottom:0;"><span class="lang-en">Download <span class="tp-name">Tamil Pasanga</span> and join the Tamil community who are sharing awareness, connecting locally, and supporting natural farming and traditional food.</span><span class="lang-ta"><span class="tp-name">தமிழ் பசங்க</span>வை இன்றே பதிவிறக்கி, விழிப்புணர்வை பகிரும், உள்ளூராக இணையும், மற்றும் இயற்கை விவசாயம் மற்றும் பாரம்பரிய உணவை ஆதரிக்கும் தமிழர் சமூகத்தில் சேருங்கள்.</span></p>
     <div class="store-btns" data-aos data-aos-delay="300">
       <a href="https://play.google.com/store/apps/details?id=in.tamilpasanga.app" class="store-btn" target="_blank" rel="noopener"><span class="store-btn-icon"><i class="bi bi-google-play"></i></span><div><span class="store-btn-sub"><span class="lang-en">Get it on</span><span class="lang-ta">பெறுங்கள்</span></span><span class="store-btn-name">Google Play</span></div></a>
       <a href="https://apps.apple.com/app/id000000000" class="store-btn" target="_blank" rel="noopener"><span class="store-btn-icon"><i class="bi bi-apple"></i></span><div><span class="store-btn-sub"><span class="lang-en">Download on the</span><span class="lang-ta">பதிவிறக்கம்</span></span><span class="store-btn-name">App Store</span></div></a>

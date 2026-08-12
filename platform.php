@@ -1,11 +1,11 @@
 <?php
 $page_title          = 'How Tamil Pasanga Works — Platform Features & Overview';
-$page_description    = 'Discover how Tamil Pasanga works — share awareness posts, discover local healthy shops, earn real money by watching ads, and connect with the Tamil community.';
-$page_keywords       = 'Tamil Pasanga platform, how Tamil Pasanga works, earn real money watching ads, share posts Tamil app, Tamil shop discovery, Supercoin system, Tamil community features';
+$page_description    = 'Discover how Tamil Pasanga works — share awareness posts, discover local healthy shops, and support natural farming and traditional food, connecting with the Tamil community.';
+$page_keywords       = 'Tamil Pasanga platform, how Tamil Pasanga works, share posts Tamil app, Tamil shop discovery, Supercoin system, natural farming, traditional food, Tamil community features';
 $page_canonical      = 'https://tamilpasanga.in/platform.php';
 $page_og_title       = 'How Tamil Pasanga Works — Platform Features & Overview';
-$page_og_description = 'Explore every feature of Tamil Pasanga — awareness posts, Supercoin rewards, ad earnings, and healthy shop discovery. Built for the Tamil community.';
-$page_schema         = json_encode(['@context'=>'https://schema.org','@graph'=>[['@type'=>'BreadcrumbList','itemListElement'=>[['@type'=>'ListItem','position'=>1,'name'=>'Home','item'=>'https://tamilpasanga.in/'],['@type'=>'ListItem','position'=>2,'name'=>'Platform','item'=>'https://tamilpasanga.in/platform.php']]],['@type'=>'WebPage','name'=>'Tamil Pasanga Platform Overview','url'=>'https://tamilpasanga.in/platform.php','description'=>'Discover how Tamil Pasanga works — awareness posts, Supercoin loop, ad earnings, and healthy shop discovery.','inLanguage'=>['ta','en-IN']]]]);
+$page_og_description = 'Explore every feature of Tamil Pasanga — awareness posts, Supercoin rewards, and healthy shop discovery. Built for the Tamil community.';
+$page_schema         = json_encode(['@context'=>'https://schema.org','@graph'=>[['@type'=>'BreadcrumbList','itemListElement'=>[['@type'=>'ListItem','position'=>1,'name'=>'Home','item'=>'https://tamilpasanga.in/'],['@type'=>'ListItem','position'=>2,'name'=>'Platform','item'=>'https://tamilpasanga.in/platform.php']]],['@type'=>'WebPage','name'=>'Tamil Pasanga Platform Overview','url'=>'https://tamilpasanga.in/platform.php','description'=>'Discover how Tamil Pasanga works — awareness posts, Supercoin loop, and healthy shop discovery.','inLanguage'=>['ta','en-IN']]]]);
 $active_page         = 'platform';
 include 'includes/head.php';
 include 'includes/nav.php';
@@ -49,9 +49,9 @@ include 'includes/nav.php';
         <p style="font-size:13px;color:var(--gray-600);"><span class="lang-en">Post quality content, get coins refunded</span><span class="lang-ta">தரமான உள்ளடக்கங்களைப் பகிர்ந்து Supercoins பெறுங்கள். சமூக ஆதரவு கிடைத்தால் செலவிட்ட coins மீண்டும் திரும்ப கிடைக்கும்.</span></p>
       </div>
       <div style="text-align:center;padding:28px 20px;border-radius:var(--radius-lg);background:#ecfdf5;border:1.5px solid #a7f3d0;" data-aos data-aos-delay="300">
-        <div style="font-size:40px;margin-bottom:12px;"><i class="bi bi-cash-coin"></i></div>
-        <h3 style="font-weight:700;color:#065f46;margin-bottom:6px;"><span class="lang-en">Earn Real Money</span><span class="lang-ta">உண்மையான வருமானம்</span></h3>
-        <p style="font-size:13px;color:var(--gray-600);"><span class="lang-en">Watch ads voluntarily, withdraw to bank</span><span class="lang-ta">விளம்பரங்களை விருப்பப்படி பார்த்து வருமானம் ஈட்டுங்கள். சம்பாதித்த தொகையை நேரடியாக உங்கள் வங்கிக் கணக்கிற்கு எடுத்துக்கொள்ளலாம்.</span></p>
+        <div style="font-size:40px;margin-bottom:12px;"><i class="bi bi-flower2"></i></div>
+        <h3 style="font-weight:700;color:#065f46;margin-bottom:6px;"><span class="lang-en">Natural Farming</span><span class="lang-ta">இயற்கை விவசாயம்</span></h3>
+        <p style="font-size:13px;color:var(--gray-600);"><span class="lang-en">Discover and support natural farms &amp; producers</span><span class="lang-ta">இயற்கை விவசாய நிலங்களையும் உற்பத்தியாளர்களையும் கண்டறிந்து ஆதரியுங்கள்.</span></p>
       </div>
       <div style="text-align:center;padding:28px 20px;border-radius:var(--radius-lg);background:#eff6ff;border:1.5px solid #bfdbfe;" data-aos data-aos-delay="400">
         <div style="font-size:40px;margin-bottom:12px;"><i class="bi bi-shop"></i></div>
@@ -111,20 +111,20 @@ include 'includes/nav.php';
     <!-- Feature 3 -->
     <div class="platform-feat-row" data-aos>
       <div>
-        <span class="feat-tag"><span class="lang-en">Earn Real Money</span><span class="lang-ta">உண்மையான வருமானம் ஈட்டுங்கள்</span></span>
-        <h3 class="feat-title"><span class="lang-en">Watch ads on your terms — earn real cash</span><span class="lang-ta">உங்கள் விருப்பப்படி விளம்பரங்களைப் பாருங்கள் — உண்மையான பணம் பெறுங்கள்.</span></h3>
+        <span class="feat-tag"><span class="lang-en">Natural Farming</span><span class="lang-ta">இயற்கை விவசாயம்</span></span>
+        <h3 class="feat-title"><span class="lang-en">Support natural farming &amp; traditional food</span><span class="lang-ta">இயற்கை விவசாயம் மற்றும் பாரம்பரிய உணவை ஆதரியுங்கள்</span></h3>
         <p class="feat-desc">
-          <span class="lang-en">The Ads tab is completely separate from the awareness feed. You choose when to watch. Complete a full ad and a captcha to verify — then the reward is credited to your e-wallet. Withdraw directly to your bank or UPI account.</span>
-          <span class="lang-ta">Ads tab முற்றிலும் தனியாக உள்ளது. நீங்கள் விரும்பும் நேரத்தில் மட்டுமே விளம்பரங்களைப் பார்க்கலாம். முழு விளம்பரத்தையும் பார்த்து captcha முடித்த பிறகு வருமானம் உங்கள் e-wallet-க்கு சேர்க்கப்படும்.</span>
+          <span class="lang-en">Discover farmers, shops, and producers growing and making traditional, healthy food the natural way. Support genuine natural farming and chemical-free products in your area.</span>
+          <span class="lang-ta">பாரம்பரிய, ஆரோக்கியமான உணவை இயற்கை முறையில் விளைவிக்கும் மற்றும் தயாரிக்கும் விவசாயிகள், கடைகள் மற்றும் உற்பத்தியாளர்களை கண்டறியுங்கள். உங்கள் பகுதியில் உண்மையான இயற்கை விவசாயம் மற்றும் இரசாயனமற்ற பொருட்களை ஆதரியுங்கள்.</span>
         </p>
         <ul class="feat-points">
-          <li><span class="check-icon"><i class="bi bi-check-lg"></i></span> <span class="lang-en">Dedicated Ads tab — zero ads in your content feed</span><span class="lang-ta">தனிப்பட்ட Ads tab — feed-ல் எந்த ads-வும் இல்லை</span></li>
-          <li><span class="check-icon"><i class="bi bi-check-lg"></i></span> <span class="lang-en">Must watch the full ad + complete captcha to earn</span><span class="lang-ta">முழு ad பார்க்கவும் + captcha முடிக்கவும் வேண்டும்</span></li>
-          <li><span class="check-icon"><i class="bi bi-check-lg"></i></span> <span class="lang-en">Real money credited to your in-app e-wallet</span><span class="lang-ta">உண்மையான பணம் உங்கள் ஆப்-உள் இ-வாலட்டில் வரவு வைக்கப்படும்</span></li>
-          <li><span class="check-icon"><i class="bi bi-check-lg"></i></span> <span class="lang-en">Withdraw to bank account or UPI</span><span class="lang-ta">வங்கி கணக்கு அல்லது UPIக்கு திரும்பப் பெறுங்கள்</span></li>
+          <li><span class="check-icon"><i class="bi bi-check-lg"></i></span> <span class="lang-en">Natural farms &amp; traditional food producers</span><span class="lang-ta">இயற்கை பண்ணைகள் மற்றும் பாரம்பரிய உணவு உற்பத்தியாளர்கள்</span></li>
+          <li><span class="check-icon"><i class="bi bi-check-lg"></i></span> <span class="lang-en">Chemical-free, honestly grown produce</span><span class="lang-ta">இரசாயனமற்ற, நேர்மையாக விளைவிக்கப்பட்ட விளைபொருட்கள்</span></li>
+          <li><span class="check-icon"><i class="bi bi-check-lg"></i></span> <span class="lang-en">Traditional recipes &amp; healthy eating knowledge</span><span class="lang-ta">பாரம்பரிய சமையல் மற்றும் ஆரோக்கிய உணவு அறிவு</span></li>
+          <li><span class="check-icon"><i class="bi bi-check-lg"></i></span> <span class="lang-en">Community reviews keep listings honest</span><span class="lang-ta">சமூக மதிப்புரைகள் பட்டியல்களை நம்பகமானதாக வைத்திருக்கும்</span></li>
         </ul>
       </div>
-      <div class="feat-visual" style="background:linear-gradient(135deg,#ecfdf5,#d1fae5);"><i class="bi bi-cash-coin"></i></div>
+      <div class="feat-visual" style="background:linear-gradient(135deg,#ecfdf5,#d1fae5);"><i class="bi bi-flower2"></i></div>
     </div>
 
     <!-- Feature 4 -->
@@ -163,51 +163,6 @@ include 'includes/nav.php';
         </ul>
       </div>
       <div class="feat-visual" style="background:linear-gradient(135deg,#f5f3ff,#ede9fe);"><i class="bi bi-leaf"></i></div>
-    </div>
-  </div>
-</section>
-
-<!-- For Advertisers -->
-<section class="section" aria-labelledby="ads-h">
-  <div class="container">
-    <div class="grid-2">
-      <div>
-        <div class="badge" data-aos><span class="lang-en">For Advertisers</span><span class="lang-ta">விளம்பரதாரர்களுக்காக</span></div>
-        <h2 class="section-title" id="ads-h" data-aos data-aos-delay="100">
-          <span class="lang-en">Reach a <span class="highlight">Willing Tamil</span><br>Audience</span>
-          <span class="lang-ta">கவனமாக இருக்கும் தமிழர் பார்வையாளர்களை அடையுங்கள்</span>
-        </h2>
-        <p style="font-size:16px;color:var(--gray-500);line-height:1.85;margin-bottom:28px;" data-aos data-aos-delay="200">
-          <span class="lang-en">Every ad on <span class="tp-name">Tamil Pasanga</span> is watched voluntarily. Users open the dedicated Ads tab by choice, watch the full ad, and complete a captcha — meaning your message reaches people who are actively paying attention, not scrolling past.</span>
-          <span class="lang-ta"><span class="tp-name">தமிழ் பசங்க</span>வில் உள்ள ஒவ்வொரு விளம்பரமும் பயனரின் விருப்பத்தின்படி பார்க்கப்படுகிறது. பயனர்கள் Ads tab-ஐ திறந்து முழு விளம்பரத்தையும் பார்த்து captcha முடிக்கிறார்கள் — இதனால் உங்கள் விளம்பரம் கவனத்துடன் பார்க்கப்படுகிறது.</span>
-        </p>
-        <div class="grid-2" style="gap:16px;margin-bottom:28px;" data-aos data-aos-delay="300">
-          <div style="background:var(--gray-50);border-radius:var(--radius);padding:20px;border:1px solid var(--gray-200);">
-            <div style="font-size:24px;margin-bottom:8px;"><i class="bi bi-eye-fill"></i></div>
-            <h4 style="font-size:14px;font-weight:700;margin-bottom:4px;"><span class="lang-en">100% Voluntary Views</span><span class="lang-ta">100% விருப்ப அடிப்படையிலான பார்வைகள்.</span></h4>
-            <p style="font-size:13px;color:var(--gray-500);"><span class="lang-en">Users choose to watch — no forced interruptions in their feed.</span><span class="lang-ta">பயனர்கள் பார்க்க தேர்வு செய்கிறார்கள் — ஊட்டத்தில் கட்டாய குறுக்கீடுகள் இல்லை.</span></p>
-          </div>
-          <div style="background:var(--gray-50);border-radius:var(--radius);padding:20px;border:1px solid var(--gray-200);">
-            <div style="font-size:24px;margin-bottom:8px;"><i class="bi bi-check-circle-fill"></i></div>
-            <h4 style="font-size:14px;font-weight:700;margin-bottom:4px;"><span class="lang-en">Captcha Verified</span><span class="lang-ta">Captcha சரிபார்க்கப்பட்டது</span></h4>
-            <p style="font-size:13px;color:var(--gray-500);"><span class="lang-en">Every completed view is human-verified — no bot impressions.</span><span class="lang-ta">முடிக்கப்பட்ட ஒவ்வொரு பார்வையும் மனித சரிபார்ப்பு — பாட் இம்ப்ரெஷன்கள் இல்லை.</span></p>
-          </div>
-          <div style="background:var(--gray-50);border-radius:var(--radius);padding:20px;border:1px solid var(--gray-200);">
-            <div style="font-size:24px;margin-bottom:8px;"><i class="bi bi-slash-circle-fill"></i></div>
-            <h4 style="font-size:14px;font-weight:700;margin-bottom:4px;"><span class="lang-en">Strict Ad Policy</span><span class="lang-ta">கண்டிப்பான விளம்பர கொள்கை</span></h4>
-            <p style="font-size:13px;color:var(--gray-500);"><span class="lang-en">No betting, trading, gambling, or misleading ads permitted.</span><span class="lang-ta">சூதாட்டம், வர்த்தகம், சூதுவாட்டம், அல்லது தவறான விளம்பரங்கள் அனுமதிக்கப்படவில்லை.</span></p>
-          </div>
-          <div style="background:var(--gray-50);border-radius:var(--radius);padding:20px;border:1px solid var(--gray-200);">
-            <div style="font-size:24px;margin-bottom:8px;"><i class="bi bi-bullseye"></i></div>
-            <h4 style="font-size:14px;font-weight:700;margin-bottom:4px;"><span class="lang-en">Tamil-Focused Audience</span><span class="lang-ta">தமிழ்-கேந்திர பார்வையாளர்கள்</span></h4>
-            <p style="font-size:13px;color:var(--gray-500);"><span class="lang-en">Target awareness-minded Tamil Nadu users by district.</span><span class="lang-ta">மாவட்டம் மூலம் விழிப்புணர்வு மனமுள்ள தமிழ்நாடு பயனர்களை குறிவைக்கவும்.</span></p>
-          </div>
-        </div>
-        <a href="advertising.php" class="btn btn-primary" data-aos data-aos-delay="400"><span class="lang-en">View Advertising Rules →</span><span class="lang-ta">விளம்பர விதிமுறைகளைப் பார்க்கவும் →</span></a>
-      </div>
-      <div class="about-visual" data-aos="fade-left">
-        <div class="about-visual-emoji"><i class="bi bi-bar-chart-fill"></i></div>
-      </div>
     </div>
   </div>
 </section>

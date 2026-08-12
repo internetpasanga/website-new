@@ -4,8 +4,8 @@
       <div>
         <div class="footer-brand-name"><div class="footer-brand-icon"><i class="bi bi-leaf"></i></div><span class="lang-en"><span class="tp-name">Tamil Pasanga</span></span><span class="lang-ta"><span class="tp-name">தமிழ் பசங்க</span></span></div>
         <p class="footer-desc">
-          <span class="lang-en">A community platform where awareness meets action. Share meaningful content, connect with others, and earn by watching ads.</span>
-          <span class="lang-ta">அறிவைப் பகிர்ந்து மாற்றத்தை உருவாக்கும் தமிழர் சமூகத் தளம். விழிப்புணர்வு உள்ளடக்கங்களைப் பகிருங்கள், சமூகத்துடன் இணைந்திருங்கள், மேலும் விளம்பரங்களைப் பார்த்து வருமானம் பெறுங்கள்.</span>
+          <span class="lang-en">A community platform where awareness meets action. Share meaningful content, connect with others, and support natural farming and traditional healthy food.</span>
+          <span class="lang-ta">அறிவைப் பகிர்ந்து மாற்றத்தை உருவாக்கும் தமிழர் சமூகத் தளம். விழிப்புணர்வு உள்ளடக்கங்களைப் பகிருங்கள், சமூகத்துடன் இணைந்திருங்கள், மேலும் இயற்கை விவசாயம் மற்றும் பாரம்பரிய ஆரோக்கிய உணவை ஆதரியுங்கள்.</span>
         </p>
         <div class="footer-stores">
           <a href="https://play.google.com/store/apps/details?id=in.tamilpasanga.app" class="footer-store-btn" target="_blank" rel="noopener">
@@ -32,7 +32,6 @@
         <ul>
           <li><a href="guidelines.php"><span class="lang-en">What We Allow</span><span class="lang-ta">அனுமதிக்கப்படுவது</span></a></li>
           <li><a href="safety.php"><span class="lang-en">Safety &amp; Security</span><span class="lang-ta">பாதுகாப்பு &amp; காப்பு</span></a></li>
-          <li><a href="advertising.php"><span class="lang-en">Advertising Rules</span><span class="lang-ta">விளம்பர விதிகள்</span></a></li>
         </ul>
       </div>
       <div class="footer-col">

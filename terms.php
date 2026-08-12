@@ -106,13 +106,13 @@ include 'includes/nav.php';
       </p>
       <h3><span class="lang-en">5.5 Supercoin Usage Restrictions</span><span class="lang-ta">5.5 Supercoin பயன்பாட்டு வரம்புகள்</span></h3>
       <p>
-        <span class="lang-en">Supercoins may only be used within the app for creating posts, creating shops, posting comments, submitting reviews, and sending messages. Supercoins cannot be withdrawn as cash and cannot be converted into any other wallet type, including the e-wallet or ad balance, under any circumstances.</span>
-        <span class="lang-ta">Supercoins-ஐ செயலிக்குள் பதிவுகள் உருவாக்க, கடைகள் உருவாக்க, கருத்துகள் இடவும், மதிப்பீடுகள் (Reviews) சமர்ப்பிக்கவும், செய்திகள் அனுப்பவும் மட்டுமே பயன்படுத்த முடியும். எந்தச் சூழ்நிலையிலும் Supercoins-ஐ பணமாகத் திரும்பப் பெறவோ, e-Wallet அல்லது Ad Balance போன்ற வேறு எந்த வகை wallet-ஆக மாற்றவோ முடியாது.</span>
+        <span class="lang-en">Supercoins may only be used within the app for creating posts, creating shops, posting comments, submitting reviews, and sending messages. Supercoins cannot be withdrawn as cash and cannot be converted into any other wallet type under any circumstances.</span>
+        <span class="lang-ta">Supercoins-ஐ செயலிக்குள் பதிவுகள் உருவாக்க, கடைகள் உருவாக்க, கருத்துகள் இடவும், மதிப்பீடுகள் (Reviews) சமர்ப்பிக்கவும், செய்திகள் அனுப்பவும் மட்டுமே பயன்படுத்த முடியும். எந்தச் சூழ்நிலையிலும் Supercoins-ஐ பணமாகத் திரும்பப் பெறவோ, வேறு எந்த வகை wallet-ஆக மாற்றவோ முடியாது.</span>
       </p>
-      <h3><span class="lang-en">5.6 Top-Ups Are Non-Refundable &amp; Wallets Serve Separate Purposes</span><span class="lang-ta">5.6 Top-Up தொகை திருப்பி வழங்கப்படாது &amp; ஒவ்வொரு Wallet-க்கும் தனித்தனி நோக்கம்</span></h3>
+      <h3><span class="lang-en">5.6 Top-Ups Are Non-Refundable</span><span class="lang-ta">5.6 Top-Up தொகை திருப்பி வழங்கப்படாது</span></h3>
       <p>
-        <span class="lang-en">Once Supercoins or ad balance are topped up through in-app payment, that transaction cannot be refunded. Supercoins may only be used for app activities such as posts, shops, comments, reviews, and messages, while ad balance may only be used to run and display advertisements. The e-wallet is different from these two — it holds real earnings credited from watching ads, and its balance can only be withdrawn to a bank account or converted to other wallet types on the platform.</span>
-        <span class="lang-ta">செயலிக்குள் பணம் செலுத்தி Supercoins அல்லது Ad Balance-ஐ Top-Up செய்த பிறகு, அந்தப் பரிவர்த்தனைக்கு எந்தத் திருப்பமும் (Refund) வழங்கப்படாது. Supercoins-ஐ பதிவுகள், கடைகள், கருத்துகள், மதிப்பீடுகள் மற்றும் செய்திகள் போன்ற செயலி செயல்பாடுகளுக்கு மட்டுமே பயன்படுத்த முடியும். Ad Balance-ஐ விளம்பரங்களை இயக்கவும், காட்சிப்படுத்தவும் மட்டுமே பயன்படுத்த முடியும். இவ்விரண்டிலிருந்தும் வேறுபட்டது e-Wallet — இது விளம்பரங்களைப் பார்ப்பதன் மூலம் பெறப்படும் உண்மையான வருமானத்தை வைத்திருக்கும். இதன் இருப்பை வங்கிக் கணக்கிற்குத் திரும்பப் பெறவோ அல்லது தளத்தில் உள்ள மற்ற வகை wallet-களுக்கு மாற்றவோ மட்டுமே பயன்படுத்த முடியும்.</span>
+        <span class="lang-en">Once Supercoins are topped up through in-app payment, that transaction cannot be refunded. Supercoins may only be used for app activities such as posts, shops, comments, reviews, and messages.</span>
+        <span class="lang-ta">செயலிக்குள் பணம் செலுத்தி Supercoins-ஐ Top-Up செய்த பிறகு, அந்தப் பரிவர்த்தனைக்கு எந்தத் திருப்பமும் (Refund) வழங்கப்படாது. Supercoins-ஐ பதிவுகள், கடைகள், கருத்துகள், மதிப்பீடுகள் மற்றும் செய்திகள் போன்ற செயலி செயல்பாடுகளுக்கு மட்டுமே பயன்படுத்த முடியும்.</span>
       </p>
 
       <h2><span class="lang-en">6. User Content Policy</span><span class="lang-ta">6. பயனர் உள்ளடக்கக் கொள்கை</span></h2>
@@ -133,7 +133,7 @@ include 'includes/nav.php';
       <ul>
         <li><span class="lang-en">Is created purely for entertainment with no awareness value</span><span class="lang-ta">சமூக விழிப்புணர்வு அல்லது பொதுநல மதிப்பு இல்லாமல், வெறும் பொழுதுபோக்கிற்காக மட்டுமே உருவாக்கப்பட்ட பதிவுகள்</span></li>
         <li><span class="lang-en">Targets, attacks, or discriminates against a specific person or group</span><span class="lang-ta">குறிப்பிட்ட நபர் அல்லது குழுவை குறிவைத்து தாக்கும், அவமதிக்கும் அல்லது பாகுபாடு காட்டும் உள்ளடக்கங்கள்</span></li>
-        <li><span class="lang-en">Contains promotional or commercial advertising (outside the Ads tab)</span><span class="lang-ta">விளம்பரங்கள் அல்லது வணிக விளம்பரங்கள் (Ads பகுதியைத் தவிர)</span></li>
+        <li><span class="lang-en">Contains promotional or commercial advertising</span><span class="lang-ta">விளம்பரங்கள் அல்லது வணிக விளம்பரங்கள்</span></li>
         <li><span class="lang-en">Incites violence, glorifies accidents, or promotes self-harm</span><span class="lang-ta">வன்முறையைத் தூண்டும், விபத்துகளை மகிமைப்படுத்தும் அல்லது தன்னைத்தானே காயப்படுத்தத் தூண்டும் பதிவுகள்</span></li>
         <li><span class="lang-en">Includes personal phone numbers, UPI IDs, QR codes, or bank account details</span><span class="lang-ta">தனிப்பட்ட தொலைபேசி எண்கள், UPI ஐடிகள், QR குறியீடுகள் அல்லது வங்கி கணக்கு விவரங்கள்</span></li>
         <li><span class="lang-en">Is illegal, violates Indian law, or promotes illegal activity</span><span class="lang-ta">இந்திய சட்டங்களுக்கு எதிரான அல்லது சட்டவிரோத செயல்களை ஊக்குவிக்கும் உள்ளடக்கங்கள்</span></li>
@@ -212,44 +212,11 @@ include 'includes/nav.php';
         <li><span class="lang-en">Any activity that endangers other users or the platform</span><span class="lang-ta">பிற பயனர்கள் அல்லது தளத்தின் பாதுகாப்பிற்கு ஆபத்து விளைவிக்கும் செயல்பாடுகளில் ஈடுபடுதல்</span></li>
       </ul>
       <p>
-        <span class="lang-en"><strong>Upon deactivation:</strong> The user permanently loses access to the app and their account. All e-wallet balance and ad balance associated with the deactivated account is frozen and inaccessible. <span class="tp-name">Tamil Pasanga</span> does not refund any balance to deactivated accounts.</span>
-        <span class="lang-ta"><strong>கணக்கு முடக்கப்பட்ட பிறகு:</strong> பயனர் தனது கணக்கு மற்றும் பயன்பாட்டிற்கான அணுகலை நிரந்தரமாக இழப்பார். அந்தக் கணக்குடன் தொடர்புடைய e-Wallet இருப்பு மற்றும் Ad Balance முழுமையாக முடக்கப்பட்டு பயன்படுத்த முடியாததாக மாற்றப்படும். முடக்கப்பட்ட கணக்குகளுக்கு எந்தவித பணத் திருப்பியும் (refund) <span class="tp-name">தமிழ் பசங்க</span> வழங்காது.</span>
+        <span class="lang-en"><strong>Upon deactivation:</strong> The user permanently loses access to the app and their account. Any Supercoin balance associated with the deactivated account is frozen and inaccessible. <span class="tp-name">Tamil Pasanga</span> does not refund any balance to deactivated accounts.</span>
+        <span class="lang-ta"><strong>கணக்கு முடக்கப்பட்ட பிறகு:</strong> பயனர் தனது கணக்கு மற்றும் பயன்பாட்டிற்கான அணுகலை நிரந்தரமாக இழப்பார். அந்தக் கணக்குடன் தொடர்புடைய Supercoin இருப்பு முழுமையாக முடக்கப்பட்டு பயன்படுத்த முடியாததாக மாற்றப்படும். முடக்கப்பட்ட கணக்குகளுக்கு எந்தவித பணத் திருப்பியும் (refund) <span class="tp-name">தமிழ் பசங்க</span> வழங்காது.</span>
       </p>
 
-      <h2><span class="lang-en">13. Advertising — For Users Watching Ads</span><span class="lang-ta">13. விளம்பரங்கள் — விளம்பரங்களைப் பார்ப்பதற்கான பயனர்களுக்கு</span></h2>
-      <p><span class="lang-en"><span class="tp-name">Tamil Pasanga</span> has a dedicated Ads tab where users can choose to watch advertisements and earn real money to their e-wallet. Key rules:</span><span class="lang-ta"><span class="tp-name">தமிழ் பசங்க</span>வில் தனிப்பட்ட Ads பகுதி உள்ளது. அங்கு பயனர்கள் விருப்பத்தின் அடிப்படையில் விளம்பரங்களைப் பார்த்து, தங்களது e-Wallet-இல் உண்மையான வருமானத்தைப் பெறலாம். பின்வரும் விதிமுறைகள் பொருந்தும்:</span></p>
-      <ul>
-        <li><span class="lang-en">Advertisements are only displayed in the dedicated Ads tab — never inserted into the regular post feed</span><span class="lang-ta">விளம்பரங்கள் Ads பகுதியில் மட்டுமே காட்சிப்படுத்தப்படும்; சாதாரண பதிவுகளுக்கிடையில் சேர்க்கப்படமாட்டாது</span></li>
-        <li><span class="lang-en">Before watching, users can see the ad duration and earning information</span><span class="lang-ta">விளம்பரத்தைப் பார்ப்பதற்கு முன் அதன் கால அளவு மற்றும் பெறப்படும் வருமான விவரங்கள் காட்டப்படும்.</span></li>
-        <li><span class="lang-en">Watching ads is entirely optional and user-initiated</span><span class="lang-ta">விளம்பரத்தைப் பார்ப்பது முழுமையாக பயனரின் விருப்பத் தேர்வாகும்.</span></li>
-        <li><span class="lang-en">The full ad must be completed to be eligible for earnings</span><span class="lang-ta">வருமானம் பெற விளம்பரத்தை முழுமையாகக் காண வேண்டும்</span></li>
-        <li><span class="lang-en">After completing the ad, a number-calculation captcha must be successfully submitted for the earning to be credited</span><span class="lang-ta">விளம்பரம் முடிந்த பிறகு வழங்கப்படும் எண்-கணக்கீட்டு CAPTCHA சோதனையை வெற்றிகரமாக நிறைவேற்ற வேண்டும்</span></li>
-        <li><span class="lang-en">Discontinuing the ad or failing the captcha means no earnings are credited</span><span class="lang-ta">விளம்பரத்தை பாதியிலேயே நிறுத்தினாலோ அல்லது CAPTCHA-வில் தோல்வியடைந்தாலோ வருமானம் வழங்கப்படாது</span></li>
-        <li><span class="lang-en">A minimum withdrawal threshold applies — small balances below the threshold cannot be withdrawn</span><span class="lang-ta">பணம் எடுப்பதற்கு குறைந்தபட்ச வரம்பு (Minimum Withdrawal Threshold) பொருந்தும். அந்த வரம்பிற்கு குறைவான தொகையைப் பணமாகப் பெற முடியாது.</span></li>
-        <li><span class="lang-en">You must add your city in your profile before advertisements will appear in the Ads tab, since ads are shown based on your location</span><span class="lang-ta">Ads பகுதியில் விளம்பரங்களைப் பார்க்க, முதலில் உங்கள் சுயவிவரத்தில் (Profile) உங்கள் நகரத்தை (City) சேர்க்க வேண்டும்; ஏனெனில் விளம்பரங்கள் உங்கள் இருப்பிடத்தின் அடிப்படையில் காட்டப்படும்</span></li>
-        <li><span class="lang-en">Watching an ad in full credits its reward amount to your e-wallet. Clicking the website URL shown on the ad view page is a separate action and does not add any amount to your e-wallet</span><span class="lang-ta">ஒரு விளம்பரத்தை முழுமையாகப் பார்த்தால் மட்டுமே அதற்குரிய வருமானத் தொகை உங்கள் e-Wallet-க்கு வரவு வைக்கப்படும். விளம்பரப் பார்வைப் பக்கத்தில் காட்டப்படும் இணையதள URL-ஐ கிளிக் செய்வது தனி செயலாகும்; அதனால் உங்கள் e-Wallet-க்கு எந்தத் தொகையும் சேர்க்கப்படாது</span></li>
-      </ul>
-
-      <h2><span class="lang-en">14. Advertising — For Advertisers</span><span class="lang-ta">14. விளம்பரதாரர்களுக்கான விதிமுறைகள்</span></h2>
-      <p>
-        <span class="lang-en">All advertisements on <span class="tp-name">Tamil Pasanga</span> must comply with our Advertising Policy. Only advertisements that can be publicly displayed as posters are permitted. The following are strictly prohibited: betting, gambling, and lottery services; online trading, forex, or cryptocurrency apps; misleading or false advertising; illegal services or products.</span>
-        <span class="lang-ta"><span class="tp-name">தமிழ் பசங்க</span> தளத்தில் வெளியிடப்படும் அனைத்து விளம்பரங்களும் எங்கள் விளம்பரக் கொள்கைக்கு இணங்க இருக்க வேண்டும். பொதுமக்கள் பார்வைக்கு போஸ்டர் வடிவில் காட்சிப்படுத்தக்கூடிய விளம்பரங்கள் மட்டுமே அனுமதிக்கப்படும். பின்வரும் விளம்பரங்கள் முற்றிலும் தடைசெய்யப்பட்டவை: சூதாட்டம், பந்தயம் மற்றும் லாட்டரி சேவைகள், ஆன்லைன் வர்த்தகம் (Trading), Forex அல்லது Cryptocurrency தொடர்பான செயலிகள், தவறான அல்லது ஏமாற்றும் விளம்பரங்கள், சட்டவிரோதமான பொருட்கள் அல்லது சேவைகள். </span>
-      </p>
-      <p>
-        <span class="lang-en">All advertisements are the responsibility of the respective advertiser. <span class="tp-name">Tamil Pasanga</span> does not endorse, guarantee, or take responsibility for any advertiser's products or services. See our full <a href="advertising.php">Advertising Rules &amp; Advertiser Policy</a>.</span>
-        <span class="lang-ta">ஒவ்வொரு விளம்பரத்திற்கும் அதன் விளம்பரதாரரே முழுப் பொறுப்பாளி ஆவார். <span class="tp-name">தமிழ் பசங்க</span> எந்த விளம்பரதாரரின் பொருட்கள் அல்லது சேவைகளையும் ஆதரிப்பதில்லை, உத்தரவாதம் அளிப்பதில்லை மற்றும் அவற்றிற்கு பொறுப்பும் ஏற்காது. மேலும் விவரங்களுக்கு <a href="advertising.php">விளம்பர விதிமுறைகள் மற்றும் விளம்பரதாரர் கொள்கையைப்</a> பார்க்கவும்.</span>
-      </p>
-
-      <p>
-        <span class="lang-en">The ad view page displays the advertiser's website URL to users. When a user clicks this website URL, a per-click amount is deducted from the advertiser's ad balance. This deduction is limited to once per user per day — if the same user clicks the link again on the same day, no further amount is deducted.</span>
-        <span class="lang-ta">விளம்பரப் பார்வைப் பக்கத்தில் விளம்பரதாரரின் இணையதள URL பயனர்களுக்குக் காட்டப்படும். ஒரு பயனர் இந்த URL-ஐ கிளிக் செய்தால், அதற்கான ஒரு குறிப்பிட்ட தொகை விளம்பரதாரரின் Ad Balance-இலிருந்து கழிக்கப்படும். இந்தக் கழிப்பு ஒரு நாளைக்கு ஒரு பயனருக்கு ஒரு முறை மட்டுமே பொருந்தும் — அதே பயனர் அதே நாளில் மீண்டும் அந்த லிங்கைக் கிளிக் செய்தால், கூடுதல் தொகை எதுவும் கழிக்கப்படாது.</span>
-      </p>
-      <p>
-        <span class="lang-en">Please be aware that amounts added to the ad balance are not eligible for refunds.</span>
-        <span class="lang-ta">தயவுசெய்து கவனிக்கவும்: விளம்பர இருப்புத் தொகையில் சேர்க்கப்பட்ட பணம் திருப்பி வழங்கப்படாது.</span>
-      </p>
-
-      <h2><span class="lang-en">15. Health &amp; Wellness Information Disclaimer</span><span class="lang-ta">15. ஆரோக்கியம் மற்றும் நல்வாழ்வு தகவல்கள் தொடர்பான பொறுப்புத் துறப்பு</span></h2>
+      <h2><span class="lang-en">13. Health &amp; Wellness Information Disclaimer</span><span class="lang-ta">13. ஆரோக்கியம் மற்றும் நல்வாழ்வு தகவல்கள் தொடர்பான பொறுப்புத் துறப்பு</span></h2>
       <p>
         <span class="lang-en"><span class="tp-name">Tamil Pasanga</span> may contain health tips, natural remedy suggestions, traditional medicine information, and nutritional content. This information is shared for <strong>awareness purposes only</strong> and does not constitute medical advice.</span>
         <span class="lang-ta"><span class="tp-name">தமிழ் பசங்க</span> தளத்தில் ஆரோக்கியக் குறிப்புகள், இயற்கை மருத்துவ ஆலோசனைகள், பாரம்பரிய மருத்துவத் தகவல்கள் மற்றும் ஊட்டச்சத்து சார்ந்த உள்ளடக்கங்கள் இடம்பெறக்கூடும். இத்தகவல்கள் அனைத்தும் விழிப்புணர்வு மற்றும் கல்வி நோக்கத்திற்காக மட்டுமே பகிரப்படுகின்றன; இவை மருத்துவ ஆலோசனையாகக் கருதப்படக்கூடாது.</span>
@@ -259,37 +226,37 @@ include 'includes/nav.php';
         <span class="lang-ta">நீங்கள் ஏற்கனவே ஏதேனும் நோய் அல்லது உடல்நலப் பிரச்சினையால் பாதிக்கப்பட்டிருந்தால், சிகிச்சைக்காக தகுதியான மருத்துவரை அணுக வேண்டும். ஆரோக்கியமான வாழ்க்கை முறையின் ஒரு பகுதியாக வழங்கப்படும் குறிப்புகள் மற்றும் இயற்கை மருத்துவ வழிமுறைகள் சில உடல்நலப் பிரச்சினைகள் உருவாகும் அபாயத்தை குறைக்க உதவக்கூடும்; இருப்பினும், அவை தொழில்முறை மருத்துவ சிகிச்சைக்கு மாற்றாக அமையாது.</span>
       </p>
 
-      <h2><span class="lang-en">16. Charity &amp; Community Organisation Listings</span><span class="lang-ta">16. தொண்டு நிறுவனங்கள் மற்றும் சமூக அமைப்புகளின் பட்டியல்கள்</span></h2>
+      <h2><span class="lang-en">14. Charity &amp; Community Organisation Listings</span><span class="lang-ta">14. தொண்டு நிறுவனங்கள் மற்றும் சமூக அமைப்புகளின் பட்டியல்கள்</span></h2>
       <p>
         <span class="lang-en"><span class="tp-name">Tamil Pasanga</span> may list addresses and contact details of orphanages, houses of mercy, and voluntary service organisations. These listings are community-submitted and <strong>not verified</strong> by <span class="tp-name">Tamil Pasanga</span>. If you wish to donate, sponsor, or contribute to any listed organisation, we strongly advise a direct in-person visit to verify the organisation before giving any contributions.</span>
         <span class="lang-ta"><span class="tp-name">தமிழ் பசங்க</span> தளத்தில் ஆதரவற்றோர் இல்லங்கள், கருணை இல்லங்கள் மற்றும் தன்னார்வ சேவை அமைப்புகளின் முகவரிகள் மற்றும் தொடர்பு விவரங்கள் இடம்பெறக்கூடும். இத்தகவல்கள் சமூக உறுப்பினர்களால் சமர்ப்பிக்கப்படுபவையாகும்; அவை <span class="tp-name">தமிழ் பசங்க</span> மூலம் தனிப்பட்ட முறையில் சரிபார்க்கப்படுவதில்லை. ஏதேனும் பட்டியலிடப்பட்ட அமைப்பிற்கு நன்கொடை வழங்க, ஆதரவு அளிக்க அல்லது பங்களிப்பு செய்ய விரும்பினால், முதலில் அந்த அமைப்பை நேரில் சென்று சரிபார்த்த பின்னரே எந்தவித பங்களிப்பையும் வழங்குமாறு வலியுறுத்தப்படுகிறது.</span>
       </p>
 
-      <h2><span class="lang-en">17. External Links &amp; User Profiles</span><span class="lang-ta">17. வெளிப்புற இணைய இணைப்புகள் மற்றும் பயனர் சுயவிவரங்கள்</span></h2>
+      <h2><span class="lang-en">15. External Links &amp; User Profiles</span><span class="lang-ta">15. வெளிப்புற இணைய இணைப்புகள் மற்றும் பயனர் சுயவிவரங்கள்</span></h2>
       <p>
         <span class="lang-en">Users may add a website URL to their profile. These external links are <strong>not verified or reviewed</strong> by <span class="tp-name">Tamil Pasanga</span>. We are not responsible for any misleading, harmful, or inaccurate content on external websites linked from user profiles.</span>
         <span class="lang-ta">பயனர்கள் தங்களது சுயவிவரத்தில் (Profile) இணையதள முகவரிகளைச் சேர்க்கலாம். இவ்வகையான வெளிப்புற இணைய இணைப்புகள் <span class="tp-name">தமிழ் பசங்க</span> மூலம் சரிபார்க்கப்படவோ அல்லது மதிப்பாய்வு செய்யப்படவோ மாட்டாது. பயனர் சுயவிவரங்களில் இணைக்கப்பட்டுள்ள வெளிப்புற இணையதளங்களில் உள்ள தவறான, ஏமாற்றும், தீங்கு விளைவிக்கும் அல்லது துல்லியமற்ற உள்ளடக்கங்களுக்கு <span class="tp-name">தமிழ் பசங்க</span> பொறுப்பேற்காது.</span>
       </p>
 
-      <h2><span class="lang-en">18. Government &amp; Legal Cooperation</span><span class="lang-ta">18. அரசு மற்றும் சட்ட அமலாக்க அமைப்புகளுடன் ஒத்துழைப்பு</span></h2>
+      <h2><span class="lang-en">16. Government &amp; Legal Cooperation</span><span class="lang-ta">16. அரசு மற்றும் சட்ட அமலாக்க அமைப்புகளுடன் ஒத்துழைப்பு</span></h2>
       <p>
         <span class="lang-en">If a government authority or law enforcement agency submits a <strong>lawful request with proper legal evidence</strong> regarding a user who has created illegal, violent, or harmful content on the platform, <span class="tp-name">Tamil Pasanga</span> will fully cooperate and disclose the relevant user's contact information and activity records.</span>
         <span class="lang-ta">சட்டவிரோதமான, வன்முறை சார்ந்த அல்லது தீங்கு விளைவிக்கும் உள்ளடக்கங்களை உருவாக்கிய பயனர் தொடர்பாக, அரசு அமைப்பு அல்லது சட்ட அமலாக்க அதிகாரிகள் உரிய சட்ட ஆதாரங்களுடன் சட்டபூர்வமான கோரிக்கையை சமர்ப்பித்தால், <span class="tp-name">தமிழ் பசங்க</span> முழுமையான ஒத்துழைப்பை வழங்கும். அத்தகைய சூழ்நிலைகளில், சம்பந்தப்பட்ட பயனரின் தொடர்பு விவரங்கள் மற்றும் செயல்பாட்டு பதிவுகள் சட்டத்தின்படி அதிகாரப்பூர்வ அமைப்புகளிடம் வழங்கப்படலாம்.</span>
       </p>
 
-      <h2><span class="lang-en">19. Content Not Personalised by Algorithm</span><span class="lang-ta">19. அல்காரிதம் அடிப்படையிலான தனிப்பயனாக்கம் இல்லை</span></h2>
+      <h2><span class="lang-en">17. Content Not Personalised by Algorithm</span><span class="lang-ta">17. அல்காரிதம் அடிப்படையிலான தனிப்பயனாக்கம் இல்லை</span></h2>
       <p>
         <span class="lang-en"><span class="tp-name">Tamil Pasanga</span> does not use algorithmic feeds or follower/subscriber systems like other social media platforms. Content is not ranked or pushed by engagement metrics. Users choose the type of content they want to see. There are no follower or subscriber flows.</span>
         <span class="lang-ta"><span class="tp-name">தமிழ் பசங்க</span>, பிற சமூக ஊடக தளங்களைப் போல அல்காரிதம் (Algorithm) அடிப்படையிலான Feed முறைமையையோ அல்லது Follower / Subscriber முறைமையையோ பயன்படுத்துவதில்லை. உள்ளடக்கங்கள் பயனர்களின் ஈடுபாடு (Engagement) அடிப்படையில் முன்னுரிமைப்படுத்தப்படமாட்டாது. குறிப்பிட்ட பதிவுகள் செயற்கையாக அதிகப்படுத்தப்பட்டு (Boost) காட்சிப்படுத்தப்படமாட்டாது. பயனர்கள் தாங்கள் விரும்பும் வகை உள்ளடக்கங்களைத் தேர்ந்தெடுத்து பார்ப்பார்கள். Follower அல்லது Subscriber அமைப்புகள் <span class="tp-name">தமிழ் பசங்க</span> தளத்தில் இல்லை.</span>
       </p>
 
-      <h2><span class="lang-en">20. Intellectual Property</span><span class="lang-ta">20. அறிவுசார் சொத்து உரிமைகள்</span></h2>
+      <h2><span class="lang-en">18. Intellectual Property</span><span class="lang-ta">18. அறிவுசார் சொத்து உரிமைகள்</span></h2>
       <p>
         <span class="lang-en">The <span class="tp-name">Tamil Pasanga</span> name, logo, app design, and all related intellectual property are owned by <span class="tp-name">Tamil Pasanga</span> and protected by applicable laws. You may not use, copy, or distribute our intellectual property without prior written consent.</span>
         <span class="lang-ta"><span class="tp-name">தமிழ் பசங்க</span> என்ற பெயர், லோகோ, பயன்பாட்டின் வடிவமைப்பு மற்றும் அதனுடன் தொடர்புடைய அனைத்து அறிவுசார் சொத்துரிமைகளும் <span class="tp-name">தமிழ் பசங்க</span>வுக்குச் சொந்தமானவை மற்றும் பொருந்தக்கூடிய சட்டங்களின் கீழ் பாதுகாக்கப்படுகின்றன. <span class="tp-name">தமிழ் பசங்க</span>வின் முன்கூட்டிய எழுத்து மூல அனுமதியின்றி, எங்கள் அறிவுசார் சொத்துக்களை பயன்படுத்துதல், நகலெடுத்தல், மாற்றுதல், வெளியிடுதல் அல்லது விநியோகித்தல் அனுமதிக்கப்படாது.</span>
       </p>
 
-      <h2><span class="lang-en">21. Prohibited Activities</span><span class="lang-ta">21. தடைசெய்யப்பட்ட செயல்பாடுகள்</span></h2>
+      <h2><span class="lang-en">19. Prohibited Activities</span><span class="lang-ta">19. தடைசெய்யப்பட்ட செயல்பாடுகள்</span></h2>
       <p><span class="lang-en">You may not use <span class="tp-name">Tamil Pasanga</span> to:</span><span class="lang-ta"><span class="tp-name">தமிழ் பசங்க</span> தளத்தைப் பயன்படுத்தி பின்வரும் செயல்பாடுகளில் ஈடுபடக்கூடாது:</span></p>
       <ul>
         <li><span class="lang-en">Impersonate any person or entity</span><span class="lang-ta">வேறு எந்த நபராகவோ அல்லது நிறுவனமாகவோ தங்களைப் போலியாகக் காட்டுதல்</span></li>
@@ -304,13 +271,13 @@ include 'includes/nav.php';
         <span class="lang-ta">மேற்கண்ட செயல்பாடுகள் கண்டறியப்பட்டால், சம்பந்தப்பட்ட கணக்குகள் முன்னறிவிப்பின்றி இடைநிறுத்தப்படவோ அல்லது நிரந்தரமாக முடக்கப்படவோ செய்யப்படலாம்:</span>
       </p>
 
-      <h2><span class="lang-en">22. Privacy</span><span class="lang-ta">22. தனியுரிமை</span></h2>
+      <h2><span class="lang-en">20. Privacy</span><span class="lang-ta">20. தனியுரிமை</span></h2>
       <p>
         <span class="lang-en">Your use of <span class="tp-name">Tamil Pasanga</span> is also governed by our <a href="privacy.php">Privacy Policy</a> page, which are incorporated into these Terms by reference.</span>
         <span class="lang-ta"><span class="tp-name">தமிழ் பசங்க</span> சேவையின் பயன்பாடு, எங்கள் <a href="privacy.php">தனியுரிமைக் கொள்கை (Privacy Policy)</a> கீழும் நிர்வகிக்கப்படுகிறது. அவை இவ்விதிமுறைகளின் ஒரு பகுதியாகக் கருதப்படும். சேவையைப் பயன்படுத்துவதன் மூலம், அந்தக் கொள்கைகளையும் நீங்கள் ஏற்றுக்கொள்கிறீர்கள்.</span>
       </p>
 
-      <h2><span class="lang-en">23. Disclaimers</span><span class="lang-ta">23. பொறுப்புத் துறப்பு அறிவிப்புகள்</span></h2>
+      <h2><span class="lang-en">21. Disclaimers</span><span class="lang-ta">21. பொறுப்புத் துறப்பு அறிவிப்புகள்</span></h2>
       <p>
         <span class="lang-en">The Service is provided on an "as is" and "as available" basis. We do not warrant that the Service will be uninterrupted, error-free, or always available. Health content on <span class="tp-name">Tamil Pasanga</span> is for educational awareness only and should not be treated as medical advice.</span>
         <span class="lang-ta"> இந்தச் சேவை "இருப்பதைப் போலவே" (As Is) மற்றும் "கிடைக்கக்கூடிய அளவில்" (As Available) வழங்கப்படுகிறது.
@@ -318,26 +285,26 @@ include 'includes/nav.php';
         <span class="tp-name">தமிழ் பசங்க</span>வில் பகிரப்படும் ஆரோக்கியம், நல்வாழ்வு, இயற்கை மருத்துவம் மற்றும் ஊட்டச்சத்து தொடர்பான தகவல்கள் கல்வி மற்றும் விழிப்புணர்வு நோக்கத்திற்காக மட்டுமே வழங்கப்படுகின்றன. அவை மருத்துவ ஆலோசனை, நோய் கண்டறிதல் அல்லது சிகிச்சைக்கான மாற்றாக கருதப்படக்கூடாது.</span>
       </p>
 
-      <h2><span class="lang-en">24. Limitation of Liability</span><span class="lang-ta">24. பொறுப்பின் வரம்பு</span></h2>
+      <h2><span class="lang-en">22. Limitation of Liability</span><span class="lang-ta">22. பொறுப்பின் வரம்பு</span></h2>
       <p>
-        <span class="lang-en">To the maximum extent permitted by Indian law, <span class="tp-name">Tamil Pasanga</span> shall not be liable for any indirect, incidental, special, consequential, or punitive damages arising from user-generated content, external websites, unverified listings, donations or transactions based on platform content, health information, or advertiser products or services.</span>
-        <span class="lang-ta"> இந்திய சட்டங்கள் அனுமதிக்கும் அதிகபட்ச அளவிற்குள், பின்வரும் காரணங்களால் நேரடியாகவோ மறைமுகமாகவோ ஏற்படும் எந்தவித இழப்புகள், சேதங்கள் அல்லது பாதிப்புகளுக்கும் <span class="tp-name">தமிழ் பசங்க</span> பொறுப்பேற்காது: பயனர்களால் உருவாக்கப்பட்ட உள்ளடக்கங்கள், வெளிப்புற இணையதளங்கள் அல்லது இணைப்புகள், சரிபார்க்கப்படாத கடை, அமைப்பு அல்லது பிற பட்டியல்கள், தளத்தில் உள்ள தகவல்களின் அடிப்படையில் செய்யப்பட்ட நன்கொடைகள் அல்லது நிதி பரிமாற்றங்கள், ஆரோக்கியம் மற்றும் மருத்துவம் தொடர்பான தகவல்கள், விளம்பரதாரர்களின் பொருட்கள் அல்லது சேவைகள்.</span>
+        <span class="lang-en">To the maximum extent permitted by Indian law, <span class="tp-name">Tamil Pasanga</span> shall not be liable for any indirect, incidental, special, consequential, or punitive damages arising from user-generated content, external websites, unverified listings, donations or transactions based on platform content, or health information.</span>
+        <span class="lang-ta"> இந்திய சட்டங்கள் அனுமதிக்கும் அதிகபட்ச அளவிற்குள், பின்வரும் காரணங்களால் நேரடியாகவோ மறைமுகமாகவோ ஏற்படும் எந்தவித இழப்புகள், சேதங்கள் அல்லது பாதிப்புகளுக்கும் <span class="tp-name">தமிழ் பசங்க</span> பொறுப்பேற்காது: பயனர்களால் உருவாக்கப்பட்ட உள்ளடக்கங்கள், வெளிப்புற இணையதளங்கள் அல்லது இணைப்புகள், சரிபார்க்கப்படாத கடை, அமைப்பு அல்லது பிற பட்டியல்கள், தளத்தில் உள்ள தகவல்களின் அடிப்படையில் செய்யப்பட்ட நன்கொடைகள் அல்லது நிதி பரிமாற்றங்கள், ஆரோக்கியம் மற்றும் மருத்துவம் தொடர்பான தகவல்கள்.</span>
       </p>
 
-      <h2><span class="lang-en">25. Indemnification</span><span class="lang-ta">25. இழப்பீடு வழங்குதல்</span></h2>
+      <h2><span class="lang-en">23. Indemnification</span><span class="lang-ta">23. இழப்பீடு வழங்குதல்</span></h2>
       <p>
         <span class="lang-en">You agree to indemnify, defend, and hold harmless <span class="tp-name">Tamil Pasanga</span> and its team from any claims, liabilities, damages, and expenses arising from your use of the Service, your posted content, or your violation of these Terms.</span>
         <span class="lang-ta"><span class="tp-name">தமிழ் பசங்க</span> சேவையைப் பயன்படுத்துவதன் மூலம், பின்வரும் காரணங்களால் <span class="tp-name">தமிழ் பசங்க</span> மற்றும் அதன் நிர்வாகம், ஊழியர்கள், பிரதிநிதிகள் மற்றும் தொடர்புடைய தரப்புகளுக்கு எதிராக எழும் எந்தவொரு கோரிக்கை, பொறுப்பு, சேதம், இழப்பு, செலவு அல்லது சட்ட நடவடிக்கைகளிலிருந்தும் அவர்களை பாதுகாக்கவும், அவர்களுக்கு இழப்பீடு வழங்கவும் நீங்கள் ஒப்புக்கொள்கிறீர்கள். உங்கள் சேவைப் பயன்பாடு, நீங்கள் பதிவிட்ட அல்லது பகிர்ந்த உள்ளடக்கங்கள், இவ்விதிமுறைகளை நீங்கள் மீறியிருப்பது, பிற நபர்களின் உரிமைகளை மீறியிருப்பது.</span>
       </p>
 
-      <h2><span class="lang-en">26. Governing Law</span><span class="lang-ta">26. நடைமுறைக்கு உட்பட்ட சட்டம்</span></h2>
+      <h2><span class="lang-en">24. Governing Law</span><span class="lang-ta">24. நடைமுறைக்கு உட்பட்ட சட்டம்</span></h2>
       <p>
         <span class="lang-en">These Terms shall be governed by and construed in accordance with the laws of India. Any disputes arising from these Terms shall be subject to the exclusive jurisdiction of the courts located in Tamil Nadu, India.</span>
         <span class="lang-ta">இவ்விதிமுறைகள் இந்தியக் குடியரசின் சட்டங்களின்படி நிர்வகிக்கப்படுகின்றன மற்றும் விளக்கப்படுகின்றன.
           இவ்விதிமுறைகளிலிருந்து அல்லது சேவையின் பயன்பாட்டிலிருந்து எழும் எந்தவொரு சர்ச்சை, கோரிக்கை அல்லது சட்டப் பிரச்சினையும் தமிழ்நாடு, இந்தியாவில் அமைந்துள்ள தகுதியான நீதிமன்றங்களின் பிரத்தியேக அதிகார வரம்பிற்குள் உட்பட்டதாக இருக்கும்.</span>
       </p>
 
-      <h2><span class="lang-en">27. Changes to Terms</span><span class="lang-ta">27. விதிமுறைகளில் மாற்றங்கள்</span></h2>
+      <h2><span class="lang-en">25. Changes to Terms</span><span class="lang-ta">25. விதிமுறைகளில் மாற்றங்கள்</span></h2>
       <p>
         <span class="lang-en">We reserve the right to modify these Terms at any time. We will notify users of significant changes via in-app notification or email. Continued use of the Service after changes take effect constitutes acceptance of the revised Terms.</span>
         <span class="lang-ta"><span class="tp-name">தமிழ் பசங்க</span> எந்த நேரத்திலும் இவ்விதிமுறைகளை மாற்ற, புதுப்பிக்க அல்லது திருத்த உரிமை கொண்டுள்ளது.
@@ -345,7 +312,7 @@ include 'includes/nav.php';
         மாற்றங்கள் நடைமுறைக்கு வந்த பிறகும் சேவையைத் தொடர்ந்து பயன்படுத்துவது, திருத்தப்பட்ட விதிமுறைகளை நீங்கள் ஏற்றுக்கொண்டதாகக் கருதப்படும்.</span>
       </p>
 
-      <h2><span class="lang-en">28. Contact Us</span><span class="lang-ta">28. எங்களைத் தொடர்புகொள்ள</span></h2>
+      <h2><span class="lang-en">26. Contact Us</span><span class="lang-ta">26. எங்களைத் தொடர்புகொள்ள</span></h2>
       <p><span class="lang-en">If you have questions about these Terms, please contact us at:</span><span class="lang-ta">இவ்விதிமுறைகள் தொடர்பாக ஏதேனும் கேள்விகள், கருத்துகள் அல்லது விளக்கங்கள் தேவைப்பட்டால், கீழே கொடுக்கப்பட்டுள்ள தொடர்பு விவரங்கள் மூலம் எங்களை அணுகலாம்:</span></p>
       <ul>
         <li><span class="lang-en">Email:</span><span class="lang-ta">மின்னஞ்சல்:</span> <a href="mailto:legal@tamilpasanga.in">legal@tamilpasanga.in</a></li>

@@ -134,7 +134,7 @@ include 'includes/nav.php';
         <div class="guideline-card-icon"><i class="bi bi-megaphone-fill"></i></div>
         <span class="deny-label"><span class="lang-en">Not Allowed</span><span class="lang-ta">அனுமதிக்கப்படவில்லை</span></span>
         <h3><span class="lang-en">Promotional &amp; Commercial Posts</span><span class="lang-ta">விளம்பர மற்றும் வணிக நோக்கப் பதிவுகள்</span></h3>
-        <p><span class="lang-en">Using the post feed for product promotions, brand advertising, or commercial selling. Promotional content belongs in the Ads section only.</span><span class="lang-ta">பதிவு Feed-ஐ பயன்படுத்தி பொருட்கள், சேவைகள், பிராண்டுகள் அல்லது வணிக விற்பனைகளை விளம்பரப்படுத்துவது அனுமதிக்கப்படாது. விளம்பர நோக்க உள்ளடக்கங்கள் Ads பிரிவில் மட்டுமே இடம் பெற வேண்டும்.</span></p>
+        <p><span class="lang-en">Using the post feed for product promotions, brand advertising, or commercial selling. Promotional and commercial content is not permitted anywhere on the platform.</span><span class="lang-ta">பதிவு Feed-ஐ பயன்படுத்தி பொருட்கள், சேவைகள், பிராண்டுகள் அல்லது வணிக விற்பனைகளை விளம்பரப்படுத்துவது அனுமதிக்கப்படாது. விளம்பர நோக்க உள்ளடக்கங்களுக்கு தளத்தில் எங்கும் இடம் இல்லை.</span></p>
       </div>
 
       <div class="guideline-card deny" data-aos data-aos-delay="100">
@@ -168,8 +168,8 @@ include 'includes/nav.php';
       <div class="guideline-card deny" data-aos data-aos-delay="150">
         <div class="guideline-card-icon"><i class="bi bi-dice-5"></i></div>
         <span class="deny-label"><span class="lang-en">Not Allowed</span><span class="lang-ta">அனுமதிக்கப்படவில்லை</span></span>
-        <h3><span class="lang-en">Betting, Gambling &amp; Trading Ads</span><span class="lang-ta">பந்தயம், சூதாட்டம் மற்றும் உயர் ஆபத்து நிதி விளம்பரங்கள்</span></h3>
-        <p><span class="lang-en">Advertisements or content promoting betting, online gambling, cryptocurrency trading, forex trading, or any similar misleading or high-risk financial services.</span><span class="lang-ta">பந்தயம், ஆன்லைன் சூதாட்டம், கிரிப்டோகரன்சி வர்த்தகம், Forex Trading அல்லது இதற்கு ஒத்த தவறாக வழிநடத்தக்கூடிய அல்லது அதிக ஆபத்துள்ள நிதிச் சேவைகளை ஊக்குவிக்கும் விளம்பரங்கள் மற்றும் உள்ளடக்கங்கள் தடைசெய்யப்பட்டவை.</span></p>
+        <h3><span class="lang-en">Betting, Gambling &amp; High-Risk Trading Promotion</span><span class="lang-ta">பந்தயம், சூதாட்டம் மற்றும் உயர் ஆபத்து நிதி விளம்பரங்கள்</span></h3>
+        <p><span class="lang-en">Content promoting betting, online gambling, cryptocurrency trading, forex trading, or any similar misleading or high-risk financial services.</span><span class="lang-ta">பந்தயம், ஆன்லைன் சூதாட்டம், கிரிப்டோகரன்சி வர்த்தகம், Forex Trading அல்லது இதற்கு ஒத்த தவறாக வழிநடத்தக்கூடிய அல்லது அதிக ஆபத்துள்ள நிதிச் சேவைகளை ஊக்குவிக்கும் உள்ளடக்கங்கள் தடைசெய்யப்பட்டவை.</span></p>
       </div>
 
       <div class="guideline-card deny" data-aos data-aos-delay="200">
@@ -209,7 +209,7 @@ include 'includes/nav.php';
       <div class="vision-card" data-aos data-aos-delay="300">
         <div class="vision-card-icon"><i class="bi bi-lock-fill"></i></div>
         <h3><span class="lang-en">Account Deactivation</span><span class="lang-ta">கணக்கு செயலிழப்பு</span></h3>
-        <p><span class="lang-en">Accounts that repeatedly violate guidelines will be permanently deactivated by admin. All e-wallet and ad balances are frozen upon deactivation.</span><span class="lang-ta">வழிகாட்டுதல்களை தொடர்ந்து மீறும் கணக்குகள் நிர்வாகத்தால் நிரந்தரமாக செயலிழக்கச் செய்யப்படலாம். கணக்கு செயலிழக்கப்பட்ட பிறகு, அதனுடன் தொடர்புடைய e-Wallet இருப்பு மற்றும் Ad இருப்புகள் முடக்கப்படலாம்.</span></p>
+        <p><span class="lang-en">Accounts that repeatedly violate guidelines will be permanently deactivated by admin. Any Supercoin balance is frozen upon deactivation.</span><span class="lang-ta">வழிகாட்டுதல்களை தொடர்ந்து மீறும் கணக்குகள் நிர்வாகத்தால் நிரந்தரமாக செயலிழக்கச் செய்யப்படலாம். கணக்கு செயலிழக்கப்பட்ட பிறகு, அதனுடன் தொடர்புடைய Supercoin இருப்பு முடக்கப்படும்.</span></p>
       </div>
     </div>
   </div>

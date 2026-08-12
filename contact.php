@@ -48,13 +48,6 @@ include 'includes/nav.php';
             <div class="contact-info-val"><a href="mailto:support@tamilpasanga.in">support@tamilpasanga.in</a></div>
           </div>
         </div>
-        <div class="contact-info-item" data-aos data-aos-delay="300">
-          <div class="contact-info-icon"><i class="bi bi-megaphone-fill"></i></div>
-          <div>
-            <div class="contact-info-label"><span class="lang-en">Advertising</span><span class="lang-ta">விளம்பரங்கள்</span></div>
-            <div class="contact-info-val"><a href="mailto:ads@tamilpasanga.in">ads@tamilpasanga.in</a></div>
-          </div>
-        </div>
         <div class="contact-info-item" data-aos data-aos-delay="400">
           <div class="contact-info-icon"><i class="bi bi-globe2"></i></div>
           <div>
@@ -110,7 +103,7 @@ include 'includes/nav.php';
                   <option value="general">General Enquiry / பொது விசாரணை</option>
                   <option value="support">Technical Support / தொழில்நுட்ப ஆதரவு</option>
                   <option value="account">Account Issues / கணக்கு சிக்கல்கள்</option>
-                  <option value="advertising">Advertising / Partnership / விளம்பரம் / கூட்டாண்மை</option>
+                  <option value="partnership">Partnership / கூட்டாண்மை</option>
                   <option value="business">Business Proposal / வணிக முன்மொழிவு</option>
                   <option value="feedback">App Feedback / ஆப் கருத்து</option>
                   <option value="legal">Legal / Privacy / சட்டம் / தனியுரிமை</option>
@@ -155,17 +148,6 @@ include 'includes/nav.php';
       </h2>
     </div>
     <div style="max-width:760px;margin:0 auto;display:flex;flex-direction:column;gap:16px;">
-      <details style="background:#fff;border:1px solid var(--gray-200);border-radius:var(--radius-lg);padding:20px 24px;cursor:pointer;" data-aos>
-        <summary style="font-size:15px;font-weight:600;color:var(--gray-900);list-style:none;display:flex;justify-content:space-between;align-items:center;">
-          <span class="lang-en">How do I earn money on <span class="tp-name">Tamil Pasanga</span>?</span>
-          <span class="lang-ta"><span class="tp-name">தமிழ் பசங்க</span>ாவில் நான் எப்படி பணம் சம்பாதிக்கலாம்??</span>
-          <span style="font-size:20px;color:var(--primary);">+</span>
-        </summary>
-        <p style="font-size:14px;color:var(--gray-500);line-height:1.75;margin-top:12px;">
-          <span class="lang-en">Open the dedicated Ads tab, watch a short ad in full, and complete the captcha — the earned amount is added directly to your e-wallet as real money. Once you reach the minimum threshold you can withdraw to your bank account or UPI.</span>
-          <span class="lang-ta">பிரத்யேக Ads பகுதியில் சென்று, ஒரு விளம்பரத்தை முழுமையாகப் பார்த்து, கேப்ட்சாவை (Captcha) நிறைவு செய்யுங்கள். அதற்கான வருமானத் தொகை நேரடியாக உங்கள் e-Wallet-இல் உண்மையான பணமாகச் சேர்க்கப்படும். குறைந்தபட்ச பணம் எடுக்கும் வரம்பை அடைந்ததும், உங்கள் வங்கி கணக்கு அல்லது UPI-க்கு பணத்தைப் பெறலாம்.</span>
-        </p>
-      </details>
       <details style="background:#fff;border:1px solid var(--gray-200);border-radius:var(--radius-lg);padding:20px 24px;cursor:pointer;" data-aos data-aos-delay="100">
         <summary style="font-size:15px;font-weight:600;color:var(--gray-900);list-style:none;display:flex;justify-content:space-between;align-items:center;">
           <span class="lang-en">Is <span class="tp-name">Tamil Pasanga</span> free to download?</span>
@@ -188,17 +170,6 @@ include 'includes/nav.php';
           <span class="lang-ta">செயலியில் பதிவு செய்து, உங்கள் கடை அல்லது வணிகத்திற்கான Shop Profile-ஐ உருவாக்கலாம். உங்கள் வணிகம் உள்ளூர் தேடல் முடிவுகளிலும் சமூகப் பட்டியல்களிலும் (Community Listings) தோன்றும்.</span>
         </p>
       </details>
-      <details style="background:#fff;border:1px solid var(--gray-200);border-radius:var(--radius-lg);padding:20px 24px;cursor:pointer;" data-aos data-aos-delay="300">
-        <summary style="font-size:15px;font-weight:600;color:var(--gray-900);list-style:none;display:flex;justify-content:space-between;align-items:center;">
-          <span class="lang-en">How do I create an ad in the <span class="tp-name">Tamil Pasanga</span> app?</span>
-          <span class="lang-ta"><span class="tp-name">தமிழ் பசங்க</span> செயலியில் விளம்பரத்தை எப்படி உருவாக்குவது?</span>
-          <span style="font-size:20px;color:var(--primary);">+</span>
-        </summary>
-        <p style="font-size:14px;color:var(--gray-500);line-height:1.75;margin-top:12px;">
-          <span class="lang-en">Install the app on your mobile phone and register an advertiser account. Once your advertiser account is set up, you can create your ad and submit it for review.</span>
-          <span class="lang-ta">உங்கள் மொபைல் போனில் செயலியை நிறுவி, ஒரு விளம்பரதாரர் கணக்கை (Advertiser Account) பதிவு செய்யவும். விளம்பரதாரர் கணக்கு அமைக்கப்பட்ட பிறகு, நீங்கள் விளம்பரத்தை உருவாக்கி மதிப்பாய்வுக்காக சமர்ப்பிக்கலாம்.</span>
-        </p>
-      </details>
     </div>
   </div>
 </section>
@@ -212,8 +183,8 @@ include 'includes/nav.php';
       <span class="lang-ta">இன்றே <span class="tp-name">தமிழ் பசங்க</span>வை முயற்சியுங்கள்</span>
     </h2>
     <p class="section-sub section-sub-white" data-aos data-aos-delay="200" style="margin-bottom:0;">
-      <span class="lang-en">Free download. No subscription. Start earning from day one.</span>
-      <span class="lang-ta">இலவச பதிவிறக்கம். சந்தா இல்லை. முதல் நாளிலிருந்தே வருமானம் பெற தொடங்குங்கள்.</span>
+      <span class="lang-en">Free download. No subscription. Start sharing awareness from day one.</span>
+      <span class="lang-ta">இலவச பதிவிறக்கம். சந்தா இல்லை. முதல் நாளிலிருந்தே விழிப்புணர்வைப் பகிரத் தொடங்குங்கள்.</span>
     </p>
     <div class="store-btns" data-aos data-aos-delay="300">
       <a href="https://play.google.com/store/apps/details?id=in.tamilpasanga.app" class="store-btn" target="_blank" rel="noopener"><i class="bi bi-google-play"></i><div><span class="store-btn-sub"><span class="lang-en">Get it on</span><span class="lang-ta">பெறுங்கள்</span></span><span class="store-btn-name">Google Play</span></div></a>

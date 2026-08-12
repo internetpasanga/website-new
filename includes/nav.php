@@ -1,5 +1,5 @@
 <?php
-$_policies = ['guidelines','safety','advertising','terms','privacy'];
+$_policies = ['guidelines','safety','terms','privacy'];
 $_about    = ['about'];
 $_is_policies = in_array($active_page, $_policies);
 $_is_about    = in_array($active_page, $_about);
@@ -32,7 +32,6 @@ function _nav_a($page, $active) { return $page === $active ? ' class="active"' :
           <ul class="nav-dropdown">
             <li><a href="guidelines.php"<?= _nav_a('guidelines',$active_page) ?>><span class="lang-en">What We Allow</span><span class="lang-ta">அனுமதிக்கப்படுவது</span></a></li>
             <li><a href="safety.php"<?= _nav_a('safety',$active_page) ?>><span class="lang-en">Safety &amp; Security</span><span class="lang-ta">பாதுகாப்பு &amp; காப்பு</span></a></li>
-            <li><a href="advertising.php"<?= _nav_a('advertising',$active_page) ?>><span class="lang-en">Advertising Rules</span><span class="lang-ta">விளம்பர விதிகள்</span></a></li>
             <li><a href="terms.php"<?= _nav_a('terms',$active_page) ?>><span class="lang-en">Terms &amp; Conditions</span><span class="lang-ta">விதிமுறைகள்</span></a></li>
             <li><a href="privacy.php"<?= _nav_a('privacy',$active_page) ?>><span class="lang-en">Privacy Policy</span><span class="lang-ta">தனியுரிமைக் கொள்கை</span></a></li>
           </ul>
@@ -56,7 +55,6 @@ function _nav_a($page, $active) { return $page === $active ? ' class="active"' :
     <a href="platform.php"><span class="lang-en">Platform</span><span class="lang-ta">தளம்</span></a>
     <a href="guidelines.php"><span class="lang-en">What We Allow / Don't Allow</span><span class="lang-ta">அனுமதி / தடை</span></a>
     <a href="safety.php"><span class="lang-en">Safety &amp; Security</span><span class="lang-ta">பாதுகாப்பு &amp; காப்பு</span></a>
-    <a href="advertising.php"><span class="lang-en">Advertising Rules</span><span class="lang-ta">விளம்பர விதிகள்</span></a>
     <a href="terms.php"><span class="lang-en">Terms &amp; Conditions</span><span class="lang-ta">விதிமுறைகள்</span></a>
     <a href="privacy.php"><span class="lang-en">Privacy Policy</span><span class="lang-ta">தனியுரிமைக் கொள்கை</span></a>
     <a href="contact.php"><span class="lang-en">Contact Us</span><span class="lang-ta">தொடர்பு கொள்ளுங்கள்</span></a>
