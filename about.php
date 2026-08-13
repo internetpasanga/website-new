@@ -184,7 +184,7 @@ include 'includes/nav.php';
     <p class="section-sub section-sub-white" data-aos data-aos-delay="200" style="margin-bottom:0;"><span class="lang-en">Download <span class="tp-name">Tamil Pasanga</span> and join the Tamil community who are sharing awareness, connecting locally, and supporting natural farming and traditional food.</span><span class="lang-ta"><span class="tp-name">தமிழ் பசங்க</span>வை இன்றே பதிவிறக்கி, விழிப்புணர்வை பகிரும், உள்ளூராக இணையும், மற்றும் இயற்கை விவசாயம் மற்றும் பாரம்பரிய உணவை ஆதரிக்கும் தமிழர் சமூகத்தில் சேருங்கள்.</span></p>
     <div class="store-btns" data-aos data-aos-delay="300">
       <a href="https://play.google.com/store/apps/details?id=in.tamilpasanga.app" class="store-btn" target="_blank" rel="noopener"><span class="store-btn-icon"><i class="bi bi-google-play"></i></span><div><span class="store-btn-sub"><span class="lang-en">Get it on</span><span class="lang-ta">பெறுங்கள்</span></span><span class="store-btn-name">Google Play</span></div></a>
-      <a href="https://apps.apple.com/app/id000000000" class="store-btn" target="_blank" rel="noopener"><span class="store-btn-icon"><i class="bi bi-apple"></i></span><div><span class="store-btn-sub"><span class="lang-en">Download on the</span><span class="lang-ta">பதிவிறக்கம்</span></span><span class="store-btn-name">App Store</span></div></a>
+      <a href="#" class="store-btn" data-store="ios"><span class="store-btn-icon"><i class="bi bi-apple"></i></span><div><span class="store-btn-sub"><span class="lang-en">Download on the</span><span class="lang-ta">பதிவிறக்கம்</span></span><span class="store-btn-name">App Store</span></div></a>
     </div>
   </div>
 </section>

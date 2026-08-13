@@ -792,3 +792,28 @@ textarea { resize: vertical; min-height: 130px; }
 /* ── Bilingual visibility ────────────────────────────────── */
 html[lang="ta"] .lang-en { display: none !important; }
 html[lang="en"] .lang-ta { display: none !important; }
+
+/* ── Coming Soon toast ───────────────────────────────────── */
+.coming-soon-toast {
+  position: fixed;
+  left: 50%;
+  bottom: 28px;
+  transform: translate(-50%, 20px);
+  background: var(--gray-900);
+  color: #fff;
+  padding: 13px 22px;
+  border-radius: var(--radius);
+  box-shadow: var(--shadow-lg);
+  font-size: 14px;
+  font-weight: 600;
+  z-index: 9999;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity .25s ease, transform .25s ease;
+  max-width: 90vw;
+  text-align: center;
+}
+.coming-soon-toast.show {
+  opacity: 1;
+  transform: translate(-50%, 0);
+}

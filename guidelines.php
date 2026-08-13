@@ -223,7 +223,7 @@ include 'includes/nav.php';
     <p class="section-sub section-sub-white" data-aos data-aos-delay="200" style="margin-bottom:0;"><span class="lang-en">Download the app and start sharing meaningful awareness content with your community.</span><span class="lang-ta">சமூகத்திற்கு பயனுள்ள விழிப்புணர்வு உள்ளடக்கங்களைப் பகிர்ந்து, தமிழர் சமூகத்தில் நல்ல மாற்றத்தை உருவாக்கும் பயணத்தில் இணையுங்கள்.</span></p>
     <div class="store-btns" data-aos data-aos-delay="300">
       <a href="https://play.google.com/store/apps/details?id=in.tamilpasanga.app" class="store-btn" target="_blank" rel="noopener"><span class="store-btn-icon"><i class="bi bi-google-play"></i></span><div><span class="store-btn-sub"><span class="lang-en">Get it on</span><span class="lang-ta">பெறுங்கள்</span></span><span class="store-btn-name">Google Play</span></div></a>
-      <a href="https://apps.apple.com/app/id000000000" class="store-btn" target="_blank" rel="noopener"><span class="store-btn-icon"><i class="bi bi-apple"></i></span><div><span class="store-btn-sub"><span class="lang-en">Download on the</span><span class="lang-ta">பதிவிறக்கம்</span></span><span class="store-btn-name">App Store</span></div></a>
+      <a href="#" class="store-btn" data-store="ios"><span class="store-btn-icon"><i class="bi bi-apple"></i></span><div><span class="store-btn-sub"><span class="lang-en">Download on the</span><span class="lang-ta">பதிவிறக்கம்</span></span><span class="store-btn-name">App Store</span></div></a>
     </div>
   </div>
 </section>

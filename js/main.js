@@ -152,7 +152,7 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
   /* ── Smooth scroll for anchor links ──────────────────── */
-  document.querySelectorAll('a[href^="#"]').forEach(a => {
+  document.querySelectorAll('a[href^="#"]:not([data-store])').forEach(a => {
     a.addEventListener('click', e => {
       const target = document.querySelector(a.getAttribute('href'));
       if (target) {
@@ -162,6 +162,28 @@ document.addEventListener('DOMContentLoaded', () => {
         window.scrollTo({ top, behavior: 'smooth' });
       }
     });
+  });
+
+  /* ── App Store "Coming soon" toast ────────────────────── */
+  function showComingSoon() {
+    let toast = document.getElementById('comingSoonToast');
+    if (!toast) {
+      toast = document.createElement('div');
+      toast.id = 'comingSoonToast';
+      toast.className = 'coming-soon-toast';
+      toast.setAttribute('role', 'status');
+      toast.innerHTML = '<span class="lang-en">📱 iOS app coming soon!</span><span class="lang-ta">📱 iOS ஆப் விரைவில் வரும்!</span>';
+      document.body.appendChild(toast);
+    }
+    toast.classList.add('show');
+    clearTimeout(toast._hideTimer);
+    toast._hideTimer = setTimeout(() => toast.classList.remove('show'), 3000);
+  }
+  document.addEventListener('click', e => {
+    const link = e.target.closest('a[data-store="ios"]');
+    if (!link) return;
+    e.preventDefault();
+    showComingSoon();
   });
 
   /* ── Language toggle ─────────────────────────────────── */

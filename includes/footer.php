@@ -12,7 +12,7 @@
             <i class="bi bi-google-play" style="font-size:20px;"></i>
             <div><span class="footer-store-sub"><span class="lang-en">Get it on</span><span class="lang-ta">பெறுங்கள்</span></span><span class="footer-store-name">Google Play</span></div>
           </a>
-          <a href="https://apps.apple.com/app/id000000000" class="footer-store-btn" target="_blank" rel="noopener">
+          <a href="#" class="footer-store-btn" data-store="ios">
             <i class="bi bi-apple" style="font-size:20px;"></i>
             <div><span class="footer-store-sub"><span class="lang-en">Download on</span><span class="lang-ta">பதிவிறக்கம்</span></span><span class="footer-store-name">App Store</span></div>
           </a>

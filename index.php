@@ -500,7 +500,7 @@ include 'includes/nav.php';
         <span class="store-btn-icon"><i class="bi bi-google-play"></i></span>
         <div><span class="store-btn-sub"><span class="lang-en">Get it on</span><span class="lang-ta">பெறுங்கள்</span></span><span class="store-btn-name">Google Play</span></div>
       </a>
-      <a href="https://apps.apple.com/app/id000000000" class="store-btn" target="_blank" rel="noopener">
+      <a href="#" class="store-btn" data-store="ios">
         <span class="store-btn-icon"><i class="bi bi-apple"></i></span>
         <div><span class="store-btn-sub"><span class="lang-en">Download on the</span><span class="lang-ta">பதிவிறக்கம்</span></span><span class="store-btn-name">App Store</span></div>
       </a>
