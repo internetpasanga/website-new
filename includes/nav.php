@@ -59,7 +59,7 @@ function _nav_a($page, $active) { return $page === $active ? ' class="active"' :
     <a href="privacy.php"><span class="lang-en">Privacy Policy</span><span class="lang-ta">தனியுரிமைக் கொள்கை</span></a>
     <a href="contact.php"><span class="lang-en">Contact Us</span><span class="lang-ta">தொடர்பு கொள்ளுங்கள்</span></a>
     <button class="lang-toggle" style="margin:0 20px 10px;width:calc(100% - 40px);justify-content:center;"><span class="lang-toggle-label">தமிழ்</span></button>
-    <a href="https://play.google.com/store/apps/details?id=in.tamilpasanga.app" target="_blank" rel="noopener" class="btn btn-primary" style="text-align:center;justify-content:center;">
+    <a href="https://play.google.com/store/apps/details?id=in.tamilpasanga.app" target="_blank" rel="noopener" class="btn btn-primary text-white" style="text-align:center;justify-content:center;">
       <i class="bi bi-download"></i> <span class="lang-en">Download Free App</span><span class="lang-ta">இலவச ஆப் பதிவிறக்கம்</span>
     </a>
   </div>
